@@ -25,3 +25,9 @@ tmp/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Exclude heavy study content and raw PDFs (Volume 31 rule)
+01_Study_and_Notes_Content/
+*.pdf
+*.mp4
+*.zip
