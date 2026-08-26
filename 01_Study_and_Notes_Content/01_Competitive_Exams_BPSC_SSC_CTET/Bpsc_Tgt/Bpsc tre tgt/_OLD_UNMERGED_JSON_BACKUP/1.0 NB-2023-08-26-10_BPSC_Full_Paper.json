@@ -1,0 +1,4702 @@
+[
+    {
+        "question_number": "1",
+        "section": "PART-I",
+        "subject": "GENERAL STUDIES",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "PART-I ( GENERAL STUDIES )",
+        "hindi_text": "",
+        "english_text": "10 years ago the ratio of ages of Ramesh and Rajeev was 1 : 3. 5 years hence this ratio will become 2 : 3. What is the ratio of their ages at present?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "2 : 5",
+            "B": "3 : 5",
+            "C": "1 : 2",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 2
+    },
+    {
+        "question_number": "2",
+        "section": "PART-I",
+        "subject": "GENERAL STUDIES",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "PART-I ( GENERAL STUDIES )",
+        "hindi_text": "",
+        "english_text": "If I walk with a speed of $5\\text{ km}$ per hour from my house to the station, my train would have left the station 7 minutes before my arrival. But, if I walk with a speed of $6\\text{ km}$ per hour, I will reach the station 5 minutes before the departure of my train. Accordingly, what is the distance between my house and the station?",
+        "math_latex": "5\\text{ km}, 6\\text{ km}",
+        "has_image": false,
+        "options": {
+            "A": "7\\text{ km}",
+            "B": "6.5\\text{ km}",
+            "C": "6\\text{ km}",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 2
+    },
+    {
+        "question_number": "3",
+        "section": "PART-I",
+        "subject": "GENERAL STUDIES",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "PART-I ( GENERAL STUDIES )",
+        "hindi_text": "",
+        "english_text": "The average monthly income of $P$ and $Q$ is ₹ 5,050. The average monthly income of $Q$ and $R$ is ₹ 6,250 and the average monthly income of $P$ and $R$ is ₹ 5,200. The monthly income of $P$ is",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "₹ 3,500",
+            "B": "₹ 4,050",
+            "C": "₹ 4,000",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 2
+    },
+    {
+        "question_number": "4",
+        "section": "PART-I",
+        "subject": "GENERAL STUDIES",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "PART-I ( GENERAL STUDIES )",
+        "hindi_text": "",
+        "english_text": "If $30\\%$ of $P$ is added to $40\\%$ of $Q$, it becomes $80\\%$ of $Q$. Accordingly, what is the percentage of $Q$ with respect to $P$?",
+        "math_latex": "30\\%, 40\\%, 80\\%",
+        "has_image": false,
+        "options": {
+            "A": "40%",
+            "B": "50%",
+            "C": "75%",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 2
+    },
+    {
+        "question_number": "5",
+        "section": "PART-I",
+        "subject": "GENERAL STUDIES",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "PART-I ( GENERAL STUDIES )",
+        "hindi_text": "",
+        "english_text": "A sum of money is to be distributed among $A$, $B$, $C$, $D$ in the proportion of $5 : 2 : 4 : 3$. If $C$ gets ₹ 1,000 more than $D$, what is $B$'s share?",
+        "math_latex": "5 : 2 : 4 : 3",
+        "has_image": false,
+        "options": {
+            "A": "₹ 500",
+            "B": "₹ 1,500",
+            "C": "₹ 2,000",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 2
+    },
+    {
+        "question_number": "6",
+        "section": "General Studies",
+        "subject": "Mathematics and Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "A shopkeeper gives a discount of 5% on the selling price of a watch. If he gives a discount of 6%, he will earn a profit which is ₹ 15 less than the before. Accordingly, what is the marked selling price of that watch?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "₹ 1,400",
+            "B": "₹ 1,500",
+            "C": "₹ 1,800",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 4
+    },
+    {
+        "question_number": "7",
+        "section": "General Studies",
+        "subject": "Mathematics and Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Three numbers are in the ratio 3 : 4 : 5. The total of the largest and the smallest numbers is equal to the other number plus 52. Accordingly, which is the smallest number?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "27",
+            "B": "39",
+            "C": "52",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 4
+    },
+    {
+        "question_number": "8",
+        "section": "General Studies",
+        "subject": "Mathematics and Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "If 2^{2n-1} = \\frac{1}{8^{n-3}}, then the value of n is",
+        "math_latex": "2^{2n-1} = \\frac{1}{8^{n-3}}",
+        "has_image": false,
+        "options": {
+            "A": "3",
+            "B": "2",
+            "C": "- 2",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 4
+    },
+    {
+        "question_number": "9",
+        "section": "General Studies",
+        "subject": "Physics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following photo-electric devices is the most suitable for digital applications?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Photo-voltaic cell",
+            "B": "Photo-emissive cell",
+            "C": "Photo-diode",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 4
+    },
+    {
+        "question_number": "10",
+        "section": "General Studies",
+        "subject": "Physics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The critical mass of a fissionable material is",
+        "math_latex": "10^{10} \\text{ joules}",
+        "has_image": false,
+        "options": {
+            "A": "one kilogram equivalent",
+            "B": "the minimum mass needed for chain reaction",
+            "C": "the rest mass equivalent to 10^{10} joules",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 4
+    },
+    {
+        "question_number": "11",
+        "section": "General Studies",
+        "subject": "Chemistry",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following gases is used to force the ripening of fruits?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Ethane",
+            "B": "Ethylene",
+            "C": "Methylene",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 4
+    },
+    {
+        "question_number": "12",
+        "section": "General Studies",
+        "subject": "Chemistry",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which one of the following has zero octane number?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Iso-octane",
+            "B": "Neo-octane",
+            "C": "n-octane",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 4
+    },
+    {
+        "question_number": "6",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "एक दुकानदार एक घड़ी बेचते समय बिक्री मूल्य पर 5% छूट देता है। यदि वह उस पर 6% छूट दे देता है, तो उसे पहले से ₹ 15 कम का लाभ मिलेगा। तदनुसार, उस घड़ी का अंकित बिक्री मूल्य क्या है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "₹ 1,400",
+            "B": "₹ 1,500",
+            "C": "₹ 1,800",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 5
+    },
+    {
+        "question_number": "7",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "तीन संख्याएँ 3:4:5 के अनुपात में हैं। उनमें सबसे बड़ी एवं सबसे छोटी संख्याओं का योग, दूसरी संख्या तथा 52 के योग के बराबर है। तदनुसार, सबसे छोटी संख्या कौन-सी है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "27",
+            "B": "39",
+            "C": "52",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 5
+    },
+    {
+        "question_number": "8",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "यदि 2^{2n-1} = \\frac{1}{8^{n-3}}, तो n का मान है",
+        "english_text": "",
+        "math_latex": "2^{2n-1} = \\frac{1}{8^{n-3}}",
+        "has_image": false,
+        "options": {
+            "A": "3",
+            "B": "2",
+            "C": "- 2",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 5
+    },
+    {
+        "question_number": "9",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "निम्नलिखित में से कौन-सा फोटो-इलेक्ट्रिक उपकरण डिजिटल अनुप्रयोगों के लिए सबसे उपयुक्त है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "फोटो-वोल्टिक सेल",
+            "B": "फोटो-उत्सर्जन सेल",
+            "C": "फोटो-डायोड",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 5
+    },
+    {
+        "question_number": "10",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "किसी विखण्डनीय द्रव्य का क्रान्तिक द्रव्यमान होगा",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "एक किलोग्राम समतुल्य",
+            "B": "श्रृंखला अभिक्रिया हेतु आवश्यक न्यूनतम द्रव्यमान",
+            "C": "10^{10} जूल के समतुल्य विराम द्रव्यमान",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 5
+    },
+    {
+        "question_number": "11",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "फलों को जबरदस्ती पकाने के लिए निम्नलिखित में से किस गैस का उपयोग किया जाता है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "ईथेन",
+            "B": "एथिलीन",
+            "C": "मेथिलीन",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 5
+    },
+    {
+        "question_number": "12",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "निम्नलिखित में से किसकी ऑक्टेन संख्या शून्य है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "आइसो-ऑक्टेन",
+            "B": "निओ-ऑक्टेन",
+            "C": "n-ऑक्टेन",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 5
+    },
+    {
+        "question_number": "13",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The edible part of Litchis is",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "aril",
+            "B": "thalamus",
+            "C": "seed coat",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 6
+    },
+    {
+        "question_number": "14",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The physical process involved in the release of molecular oxygen from leaves is",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "diffusion",
+            "B": "transpiration",
+            "C": "osmosis",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 6
+    },
+    {
+        "question_number": "15",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The process of finding the relative location of genes on a chromosome is called",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "genome walking",
+            "B": "chromosome walking",
+            "C": "gene mapping",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 6
+    },
+    {
+        "question_number": "16",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Spore mother cell in bryophytes is",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "haploid",
+            "B": "diploid",
+            "C": "triploid",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 6
+    },
+    {
+        "question_number": "17",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "In which year was NGT (National Green Tribunal) for protection of environment and forest established by the Government of India?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "2010",
+            "B": "2011",
+            "C": "2012",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 6
+    },
+    {
+        "question_number": "18",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which city of India started first under-water metro?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Kochi",
+            "B": "Visakhapatnam",
+            "C": "Bengaluru",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 6
+    },
+    {
+        "question_number": "19",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Under India's G20 Presidency, where was the Tourism Working Group Meeting held?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Patna (Bihar)",
+            "B": "Srinagar (Jammu and Kashmir)",
+            "C": "Ramnagar (Uttarakhand)",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 6
+    },
+    {
+        "question_number": "20",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Who among the following got the Silver Medal in the National Under-17 Girls Wrestling Championship?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Liza Tomar",
+            "B": "Nirjala",
+            "C": "Pushpa Yadav",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 6
+    },
+    {
+        "question_number": "13",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "लीची का खाद्य भाग है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "एरिल",
+            "B": "थैलेमस",
+            "C": "बीज कोट",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 7
+    },
+    {
+        "question_number": "14",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "आणविक ऑक्सीजन का पत्तियों से निकलना कौन-सी भौतिक क्रिया है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "विसरण",
+            "B": "वाष्पोत्सर्जन",
+            "C": "परासरण",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 7
+    },
+    {
+        "question_number": "15",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "किसी गुणसूत्र पर जीनों की आपेक्षिक स्थिति ज्ञात करने की प्रक्रिया कहलाती है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "जीनोम का चलना",
+            "B": "गुणसूत्र का चलना",
+            "C": "जीन मानचित्रण",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 7
+    },
+    {
+        "question_number": "16",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "ब्रायोफाइट में बीजाणु मातृ कोशिका होती है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "अगुणित",
+            "B": "द्विगुणित",
+            "C": "त्रिगुणित",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 7
+    },
+    {
+        "question_number": "17",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "भारत सरकार द्वारा पर्यावरण और वन की सुरक्षा के लिए किस वर्ष NGT (नेशनल ग्रीन ट्रिब्यूनल) की स्थापना की गई थी?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "2010",
+            "B": "2011",
+            "C": "2012",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 7
+    },
+    {
+        "question_number": "18",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "भारत के किस शहर ने सबसे पहले पानी के नीचे मेट्रो की शुरुआत की?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "कोच्चि",
+            "B": "विशाखापत्तनम",
+            "C": "बेंगलुरु",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 7
+    },
+    {
+        "question_number": "19",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "भारत की G20 अध्यक्षता में पर्यटन कार्यसमूह की बैठक कहाँ हुई थी?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "पटना (बिहार)",
+            "B": "श्रीनगर (जम्मू और कश्मीर)",
+            "C": "रामनगर (उत्तराखंड)",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 7
+    },
+    {
+        "question_number": "20",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "इनमें से किसने राष्ट्रीय अंडर-17 बालिका कुश्ती चैम्पियनशिप में रजत पदक प्राप्त किया?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "लीज़ा तोमर",
+            "B": "निर्जला",
+            "C": "पुष्पा यादव",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 7
+    },
+    {
+        "question_number": "21",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Who won the International Booker Prize, 2022 for the novel, Tomb of Sand?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Geetanjali Shree and Daisy Rockwell",
+            "B": "David Diop and Anna Moschovakis",
+            "C": "Marilyn Booth and Jokha Alharthi",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 8
+    },
+    {
+        "question_number": "22",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Who was the Chief Guest on India's 74th Republic Day?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Mohammed bin Salman",
+            "B": "Abdel Fattah El-Sisi",
+            "C": "Sheikh Mohammed bin Rashid Al Maktoum",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 8
+    },
+    {
+        "question_number": "23",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "In which district of Bihar, the first floating solar power plant has been built?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Darbhanga",
+            "B": "West Champaran",
+            "C": "Madhubani",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 8
+    },
+    {
+        "question_number": "24",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following has got GI Tag in Bihar?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Maghai Paan",
+            "B": "Basmati Rice",
+            "C": "Chanderi Saree",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 8
+    },
+    {
+        "question_number": "25",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "Match List-I with List-II :",
+        "hindi_text": "",
+        "english_text": "Match List-I with List-II :\nList-I\nList-II\na. Char\n1. Punjab plain\nb. Kankar\n2. Delta\nc. Kayal\n3. Bangar\nd. Mand\n4. Coastal plain\nSelect the correct answer using the codes given below.",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "a\tb\tc\td\n1\t4\t2\t3",
+            "B": "a\tb\tc\td\n2\t3\t4\t1",
+            "C": "a\tb\tc\td\n3\t1\t4\t2",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 8
+    },
+    {
+        "question_number": "26",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following tributaries does not join Brahmaputra river from north?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Subansiri",
+            "B": "Belsiri",
+            "C": "Manas",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 8
+    },
+    {
+        "question_number": "21",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "उपन्यास टॉम्ब ऑफ़ सैंड के लिए अन्तर्राष्ट्रीय बुकर पुरस्कार, 2022 किसने जीता?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "गीतांजलि श्री और डेज़ी रॉकवेल",
+            "B": "डेविड डिओप और अन्ना मोस्कोवाकिस",
+            "C": "मैरीलिन बूथ और जोखा अल्हार्थी",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 9
+    },
+    {
+        "question_number": "22",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "भारत के 74वें गणतंत्र दिवस पर कौन मुख्य अतिथि थे?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "मोहम्मद बिन सलमान",
+            "B": "अब्देल फतह अल-सीसी",
+            "C": "शेख मोहम्मद बिन राशिद अल मक्तूम",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 9
+    },
+    {
+        "question_number": "23",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "बिहार के किस जिले में प्रथम तैरता हुआ सोलर ऊर्जा संयंत्र बनाया गया है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "दरभंगा",
+            "B": "पश्चिम चम्पारण",
+            "C": "मधुबनी",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 9
+    },
+    {
+        "question_number": "24",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "बिहार में निम्नलिखित में से किसे GI टैग मिला है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "मगही पान",
+            "B": "बासमती चावल",
+            "C": "चंदेरी साड़ी",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 9
+    },
+    {
+        "question_number": "25",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "सूची-I को सूची-II से सुमेलित कीजिए :\nसूची-I\na. चार\nb. कंकर\nc. कायल\nd. मांड\n\nसूची-II\n1. पंजाब का मैदान\n2. डेल्टा\n3. बांगर\n4. तटीय मैदान\n\nनीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए।",
+        "hindi_text": "सूची-I को सूची-II से सुमेलित कीजिए :\nसूची-I\na. चार\nb. कंकर\nc. कायल\nd. मांड\n\nसूची-II\n1. पंजाब का मैदान\n2. डेल्टा\n3. बांगर\n4. तटीय मैदान\n\nनीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए।",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "a  b  c  d\n1  4  2  3",
+            "B": "a  b  c  d\n2  3  4  1",
+            "C": "a  b  c  d\n3  1  4  2",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 9
+    },
+    {
+        "question_number": "26",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "निम्नलिखित में से कौन-सी सहायक नदी ब्रह्मपुत्र से उत्तर दिशा से नहीं मिलती है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "सुबनसिरी",
+            "B": "बेलसिरी",
+            "C": "मानस",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 9
+    },
+    {
+        "question_number": "27",
+        "section": "General Studies",
+        "subject": "Geography",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Likhapani glacier is located in which State of India?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Arunachal Pradesh",
+            "B": "Himachal Pradesh",
+            "C": "Sikkim",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 10
+    },
+    {
+        "question_number": "28",
+        "section": "General Studies",
+        "subject": "Geography",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Magadha and Anga plains are parts of",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "upper Ganga plain",
+            "B": "middle Ganga plain",
+            "C": "lower Ganga plain",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 10
+    },
+    {
+        "question_number": "29",
+        "section": "General Studies",
+        "subject": "Geography",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following pairs of waterfalls and rivers is not correctly matched?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Jog—Sharavati",
+            "B": "Kapildhara—Kaveri",
+            "C": "Dhuandhar—Godavari",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 10
+    },
+    {
+        "question_number": "30",
+        "section": "General Studies",
+        "subject": "Geography",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Arrange the following seaports of India from north to south :\n1. Kakinada\n2. Machilipatnam\n3. Nagapattinam\n4. Visakhapatnam\nSelect the correct answer using the codes given below.",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "1, 2, 3, 4",
+            "B": "4, 1, 2, 3",
+            "C": "1, 3, 2, 4",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 10
+    },
+    {
+        "question_number": "31",
+        "section": "General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The Agreement of Kosi Irrigation and Hydroelectricity Plan in 1954 was signed between which two countries?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "India and Bangladesh",
+            "B": "India and China",
+            "C": "India and Nepal",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 10
+    },
+    {
+        "question_number": "32",
+        "section": "General Studies",
+        "subject": "Geography",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "In which climatic division does Bihar fall as per R. L. Singh's classification scheme?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Humid south-east",
+            "B": "Subhumid transitional",
+            "C": "Subhumid continental",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 10
+    },
+    {
+        "question_number": "27",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "लिखापानी हिमनद भारत के निम्नलिखित में से किस राज्य में स्थित है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "अरुणाचल प्रदेश",
+            "B": "हिमाचल प्रदेश",
+            "C": "सिक्किम",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 11
+    },
+    {
+        "question_number": "28",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "मगध एवं अंग का मैदान किसके हिस्से हैं?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "ऊपरी गंगा का मैदान",
+            "B": "मध्य गंगा का मैदान",
+            "C": "निम्न गंगा का मैदान",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 11
+    },
+    {
+        "question_number": "29",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "जलप्रपात और नदी के निम्नलिखित जोड़ों में से कौन-सा जोड़ा सही सुमेलित नहीं है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "जोग-शरावती",
+            "B": "कपिलधारा-कावेरी",
+            "C": "धुवाँधार-गोदावरी",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 11
+    },
+    {
+        "question_number": "30",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "भारत के निम्नलिखित बंदरगाहों को उत्तर से दक्षिण दिशा में व्यवस्थित कीजिए : \n1. काकीनाडा\n2. मछलीपट्टनम\n3. नागपट्टिनम\n4. विशाखापत्तनम\n\nनीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए।",
+        "hindi_text": "भारत के निम्नलिखित बंदरगाहों को उत्तर से दक्षिण दिशा में व्यवस्थित कीजिए :\n1. काकीनाडा\n2. मछलीपट्टनम\n3. नागपट्टिनम\n4. विशाखापत्तनम\n\nनीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए।",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "1, 2, 3, 4",
+            "B": "4, 1, 2, 3",
+            "C": "1, 3, 2, 4",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 11
+    },
+    {
+        "question_number": "31",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "1954 में किन दो देशों के बीच कोसी सिंचाई एवं विद्युत् परियोजना समझौता हस्ताक्षरित हुआ था?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "भारतवर्ष और बांग्लादेश",
+            "B": "भारतवर्ष और चीन",
+            "C": "भारतवर्ष और नेपाल",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 11
+    },
+    {
+        "question_number": "32",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "आर० एल० सिंह के वर्गीकरण स्कीम के अनुसार, बिहार किस प्रकार के जलवायु प्रदेश में आता है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "आर्द्र दक्षिण-पूर्व",
+            "B": "उपार्द्र संक्रमणकालीन",
+            "C": "उपार्द्र महाद्वीपिय",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 11
+    },
+    {
+        "question_number": "33",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "In which Session of the Indian National Congress was the resolution of 'Purna Swaraj' adopted?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Kanpur Session, 1925",
+            "B": "Lahore Session, 1929",
+            "C": "Karachi Session, 1931",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 12
+    },
+    {
+        "question_number": "34",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "What was an initial objective of 'Kuka Movement' in Punjab?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "To purify the Sikh religion",
+            "B": "To gain political power in Punjab",
+            "C": "Organization of peasant movement",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 12
+    },
+    {
+        "question_number": "35",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Who described the Revolt of 1857 as the 'First Indian War of Independence'?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "V. D. Savarkar",
+            "B": "Bal Gangadhar Tilak",
+            "C": "Bipin Chandra Pal",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 12
+    },
+    {
+        "question_number": "36",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Where was the first instance of organized non-cooperation in the history of Indian peasantry held?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Bihar and Bengal",
+            "B": "Madras Presidency",
+            "C": "Punjab Province",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 12
+    },
+    {
+        "question_number": "37",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which portfolio did Dr. Rajendra Prasad hold during the Interim Government of 1946?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Defence",
+            "B": "Home",
+            "C": "Food and Agriculture",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 12
+    },
+    {
+        "question_number": "38",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Who among the following particularly urged Gandhiji to visit Champaran to witness the miseries of the Ryots?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Brijkishore Prasad",
+            "B": "Rajkumar Shukla",
+            "C": "Sukhram Ganesh",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 12
+    },
+    {
+        "question_number": "39",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The 'Day of Deliverance' was observed by the Muslim League on which date?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "22nd December, 1939",
+            "B": "17th October, 1939",
+            "C": "22nd December, 1940",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 12
+    },
+    {
+        "question_number": "40",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Who laid the foundation stone of National College and Bihar Vidyapeeth?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Dr. Rajendra Prasad",
+            "B": "Maulana Abdul Bari",
+            "C": "Mahatma Gandhi",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 12
+    },
+    {
+        "question_number": "33",
+        "section": "General Studies",
+        "subject": "History",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "भारतीय राष्ट्रीय कांग्रेस के किस अधिवेशन में 'पूर्ण स्वराज' का सिद्धान्त गृहीत हुआ था?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "कानपुर अधिवेशन, 1925",
+            "B": "लाहौर अधिवेशन, 1929",
+            "C": "कराची अधिवेशन, 1931",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 13
+    },
+    {
+        "question_number": "34",
+        "section": "General Studies",
+        "subject": "History",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "पंजाब में 'कूका आन्दोलन' का प्रारम्भिक उद्देश्य क्या था?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "सिक्ख धर्म को परिष्कृत करना",
+            "B": "पंजाब में राजनीतिक शक्ति प्राप्त करना",
+            "C": "कृषक आन्दोलन का संगठन",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 13
+    },
+    {
+        "question_number": "35",
+        "section": "General Studies",
+        "subject": "History",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "1857 के विद्रोह को किसके द्वारा 'प्रथम भारतीय स्वतंत्रता संग्राम' के रूप में वर्णित किया गया था?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "वी० डी० सावरकर",
+            "B": "बाल गंगाधर तिलक",
+            "C": "बिपिन चन्द्र पाल",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 13
+    },
+    {
+        "question_number": "36",
+        "section": "General Studies",
+        "subject": "History",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "भारतीय किसानों के इतिहास में संगठित असहयोग का प्रथम उदाहरण कहाँ घटित हुआ था?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "बिहार और बंगाल",
+            "B": "मद्रास प्रेसीडेंसी",
+            "C": "पंजाब प्रॉविन्स",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 13
+    },
+    {
+        "question_number": "37",
+        "section": "General Studies",
+        "subject": "History",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "वर्ष 1946 में बनी अन्तरिम सरकार में डॉ० राजेन्द्र प्रसाद के पास कौन-सा विभाग था?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "रक्षा",
+            "B": "गृह",
+            "C": "खाद्य एवं कृषि",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 13
+    },
+    {
+        "question_number": "38",
+        "section": "General Studies",
+        "subject": "History",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "गाँधीजी को विशेष रूप से चम्पारण आने और वहाँ के कृषकों की दयनीय स्थिति को देखने हेतु किसने अनुग्रह किया था?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "ब्रजकिशोर प्रसाद",
+            "B": "राजकुमार शुक्ल",
+            "C": "सुखराम गणेश",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 13
+    },
+    {
+        "question_number": "39",
+        "section": "General Studies",
+        "subject": "History",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "मुस्लिम लीग द्वारा किस तिथि को 'मुक्ति दिवस' मनाया गया था?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "22 दिसम्बर, 1939",
+            "B": "17 अक्तूबर, 1939",
+            "C": "22 दिसम्बर, 1940",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 13
+    },
+    {
+        "question_number": "40",
+        "section": "General Studies",
+        "subject": "History",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "नेशनल कॉलेज और बिहार विद्यापीठ का शिलान्यास किसने किया था?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "डॉ० राजेन्द्र प्रसाद",
+            "B": "मौलाना अब्दुल बारी",
+            "C": "महात्मा गाँधी",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 13
+    },
+    {
+        "question_number": "41",
+        "section": "PART-II",
+        "subject": "SCIENCE",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "PART-II ( SCIENCE )",
+        "hindi_text": "",
+        "english_text": "A rocket, set for vertical firing, weighs 50 kg and contains 450 kg of fuel. It can have a maximum exhaust velocity of 5 km/sec. What should be its minimum rate of fuel consumption to just lift it off the launching pad?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "0.98 kg/sec",
+            "B": "0.098 kg/sec",
+            "C": "9.8 kg/sec",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 14
+    },
+    {
+        "question_number": "42",
+        "section": "PART-II",
+        "subject": "SCIENCE",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "PART-II ( SCIENCE )",
+        "hindi_text": "",
+        "english_text": "Consider circular orbits in a central force potential V(r) = -k/r^n, where k > 0 and 0 < n < 2. If the time period of a circular orbit of radius R is T_1 and that of radius 2R is T_2, then T_2 / T_1 is",
+        "math_latex": "V(r) = -k/r^n, k > 0, 0 < n < 2, R, T_1, 2R, T_2, T_2 / T_1",
+        "has_image": false,
+        "options": {
+            "A": "2^{\\frac{n}{2}}",
+            "B": "2^{\\frac{2n}{3}}",
+            "C": "2^{\\frac{n}{2} + 1}",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 14
+    },
+    {
+        "question_number": "43",
+        "section": "PART-II",
+        "subject": "SCIENCE",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "PART-II ( SCIENCE )",
+        "hindi_text": "",
+        "english_text": "What is the ratio of total kinetic energies in laboratory system (T_L) and centre of mass system (T_C) in the scattering with projectile of mass m_1 and target of mass m_2?",
+        "math_latex": "T_L, T_C, m_1, m_2",
+        "has_image": false,
+        "options": {
+            "A": "m_1 : m_2",
+            "B": "(m_1 + m_2) : m_2",
+            "C": "(m_1 + m_2) : m_1",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 14
+    },
+    {
+        "question_number": "44",
+        "section": "PART-II",
+        "subject": "SCIENCE",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "PART-II ( SCIENCE )",
+        "hindi_text": "",
+        "english_text": "In the analysis of flow velocity of a fluid for a fixed instant of time, a space curve is drawn so that it is tangent everywhere to the velocity vector. Then this curve is usually known as",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "instantaneous curve",
+            "B": "momentum curve",
+            "C": "streamline",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 14
+    },
+    {
+        "question_number": "41",
+        "section": "PART-II",
+        "subject": "SCIENCE",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "PART-II ( SCIENCE )",
+        "hindi_text": "ऊर्ध्वाधर फायरिंग के लिए सेट किए गए एक रॉकेट का वजन $50$ कि० ग्रा० है और इसमें $450$ कि० ग्रा० ईधन है। इसका अधिकतम निकास वेग $5$ कि० मी०/सेकंड हो सकता है। लॉन्चिंग पैड से इसे थोड़ा ऊपर उठाने के लिए इसकी ईधन खपत की न्यूनतम दर क्या होनी चाहिए?",
+        "english_text": "",
+        "math_latex": "50 \\text{ kg}, 450 \\text{ kg}, 5 \\text{ km/s}",
+        "has_image": false,
+        "options": {
+            "A": "$0.98$ कि० ग्रा०/सेकंड",
+            "B": "$0.098$ कि० ग्रा०/सेकंड",
+            "C": "$9.8$ कि० ग्रा०/सेकंड",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 15
+    },
+    {
+        "question_number": "42",
+        "section": "PART-II",
+        "subject": "SCIENCE",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "PART-II ( SCIENCE )",
+        "hindi_text": "केंद्रीय बल विभव $V(r) = -k / r^n$ में वृत्तीय कक्षाओं पर विचार कीजिए, जहाँ $k > 0$ और $0 < n < 2$ है। यदि त्रिज्या $R$ की एक वृत्ताकार कक्षा की समयावधि $T_1$ है और त्रिज्या $2R$ की एक वृत्ताकार कक्षा की समयावधि $T_2$ है, तब $T_2 / T_1$ है",
+        "english_text": "",
+        "math_latex": "V(r) = -k / r^n, k > 0, 0 < n < 2, R, 2R, T_1, T_2, T_2 / T_1",
+        "has_image": false,
+        "options": {
+            "A": "2^{\\frac{n}{2}}",
+            "B": "2^{\\frac{2n}{3}}",
+            "C": "2^{\\frac{n}{2}+1}",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 15
+    },
+    {
+        "question_number": "43",
+        "section": "PART-II",
+        "subject": "SCIENCE",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "PART-II ( SCIENCE )",
+        "hindi_text": "द्रव्यमान $m_1$ के प्रक्षेप्य और द्रव्यमान $m_2$ के लक्ष्य के साथ प्रकीर्णन में प्रयोगशाला तंत्र ($T_L$) और द्रव्यमान-केंद्र तंत्र ($T_C$) में कुल गतिज ऊर्जाओं का अनुपात क्या है?",
+        "english_text": "",
+        "math_latex": "m_1, m_2, T_L, T_C",
+        "has_image": false,
+        "options": {
+            "A": "m_1 : m_2",
+            "B": "(m_1 + m_2) : m_2",
+            "C": "(m_1 + m_2) : m_1",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 15
+    },
+    {
+        "question_number": "44",
+        "section": "PART-II",
+        "subject": "SCIENCE",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "PART-II ( SCIENCE )",
+        "hindi_text": "एक निश्चित समय के लिए किसी तरल पदार्थ के प्रवाह वेग के विश्लेषण में, एक अंतरिक्ष वक्र खींचा जाता है ताकि यह वेग सदिश के लिए हर जगह स्पर्श-रेखा हो। इस वक्र को आमतौर पर किस रूप में जाना जाता है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "तात्कालिक वक्र",
+            "B": "संवेग वक्र",
+            "C": "धारारेखा",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 15
+    },
+    {
+        "question_number": "45",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Two boxes A and B contain equal number of molecules of the same gas. If the volumes are V_A and V_B, and \\lambda_A and \\lambda_B denote respective mean free paths, then",
+        "math_latex": "Two boxes $A$ and $B$ contain equal number of molecules of the same gas. If the volumes are $V_A$ and $V_B$, and $\\lambda_A$ and $\\lambda_B$ denote respective mean free paths, then",
+        "has_image": false,
+        "options": {
+            "A": "\\lambda_A = \\lambda_B",
+            "B": "\\frac{\\lambda_A}{V_A} = \\frac{\\lambda_B}{V_B}",
+            "C": "\\frac{\\lambda_A}{V_A^{1/3}} = \\frac{\\lambda_B}{V_B^{1/3}}",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 16
+    },
+    {
+        "question_number": "46",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following is not the characteristic of Planck's black-body radiation distribution?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "As temperature increases, the peak of the curve shifts towards higher wavelength.",
+            "B": "Spectral emissive power varies continuously with the change in wavelength.",
+            "C": "At a given wavelength, as temperature increases, emissive power also increases.",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 16
+    },
+    {
+        "question_number": "47",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "In an interference pattern produced by two identical slits, the intensity at the site of maxima is I. If either of the slits is closed, the intensity at the same spot is I_0. What is the relation between I and I_0?",
+        "math_latex": "In an interference pattern produced by two identical slits, the intensity at the site of maxima is $I$. If either of the slits is closed, the intensity at the same spot is $I_0$. What is the relation between $I$ and $I_0$?",
+        "has_image": false,
+        "options": {
+            "A": "I = I_0",
+            "B": "I = 2I_0",
+            "C": "I = 4I_0",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 16
+    },
+    {
+        "question_number": "48",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "A light of 600 nm wavelength is incident on a single slit. The first minimum of the diffraction pattern is obtained at a distance of 4 mm from the centre. The distance between the screen and the slit is 2 m. What is the width of the slit?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "0.1 mm",
+            "B": "0.3 mm",
+            "C": "0.5 mm",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 16
+    },
+    {
+        "question_number": "45",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "दो बक्सों $A$ और $B$ में समान गैस के अणुओं की संख्या समान है। यदि आयतन $V_A$ और $V_B$ हैं, तथा $\\lambda_A$ और $\\lambda_B$ संबंधित माध्य मुक्त पथों को निरूपित करते हैं, तो",
+        "english_text": "",
+        "math_latex": "A, B, V_A, V_B, \\lambda_A, \\lambda_B",
+        "has_image": false,
+        "options": {
+            "A": "$\\lambda_A = \\lambda_B$",
+            "B": "$\\frac{\\lambda_A}{V_A} = \\frac{\\lambda_B}{V_B}$",
+            "C": "$\\frac{\\lambda_A}{V_A^{1/3}} = \\frac{\\lambda_B}{V_B^{1/3}}$",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 17
+    },
+    {
+        "question_number": "46",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "निम्नलिखित में से कौन-सी प्लांक के कृष्णिका विकिरण वितरण की विशेषता नहीं है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "जैसे ही तापमान बढ़ता है, वक्र का शिखर उच्च तरंगदैर्ध्य की ओर स्थानांतरित हो जाता है।",
+            "B": "तरंगदैर्ध्य में परिवर्तन के साथ वर्णक्रमीय उत्सर्जक शक्ति लगातार बदलती रहती है।",
+            "C": "किसी दिए गए तरंगदैर्ध्य पर, जैसे-जैसे तापमान बढ़ता है, उत्सर्जक शक्ति भी बढ़ती है।",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 17
+    },
+    {
+        "question_number": "47",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "दो समरूप रेखाछिद्रों द्वारा निर्मित एक व्यतिकरण प्रारूप में, उच्चिष्ठ पर तीव्रता $I$ है। यदि कोई एक रेखाछिद्र बंद होता है, तो उसी स्थान पर तीव्रता $I_0$ होती है। $I$ और $I_0$ के बीच क्या संबंध है?",
+        "english_text": "",
+        "math_latex": "I, I_0",
+        "has_image": false,
+        "options": {
+            "A": "$I = I_0$",
+            "B": "$I = 2I_0$",
+            "C": "$I = 4I_0$",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 17
+    },
+    {
+        "question_number": "48",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "600 नैनोमीटर तरंगदैर्ध्य का प्रकाश एकल रेखाछिद्र पर आपतित होता है। विवर्तन प्रारूप का पहला निम्निष्ठ केंद्र से 4 मि० मी० की दूरी पर प्राप्त होता है। पर्दे और रेखाछिद्र के बीच की दूरी 2 मी० है। रेखाछिद्र की चौड़ाई क्या है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "0.1 मि० मी०",
+            "B": "0.3 मि० मी०",
+            "C": "0.5 मि० मी०",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 17
+    },
+    {
+        "question_number": "49",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "At what angle of incidence of plane-polarized light with quarter-wave plate, elliptically polarized light becomes circularly polarized?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "90^\\circ",
+            "B": "45^\\circ",
+            "C": "60^\\circ",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 18
+    },
+    {
+        "question_number": "50",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "If a wave is having group velocity of 2\\times 10^8\\text{ m/sec}, then what is phase velocity?",
+        "math_latex": "2 \\times 10^8 \\text{ m/sec}",
+        "has_image": false,
+        "options": {
+            "A": "4.5 \\times 10^8 \\text{ m/sec}",
+            "B": "5.5 \\times 10^8 \\text{ m/sec}",
+            "C": "9 \\times 10^8 \\text{ m/sec}",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 18
+    },
+    {
+        "question_number": "51",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "From the wave equation y = 0.5\\sin \\frac{2\\pi}{3.2}(64t - x), the frequency of the wave is",
+        "math_latex": "y = 0.5 \\sin \\frac{2\\pi}{3.2}(64t - x)",
+        "has_image": false,
+        "options": {
+            "A": "5 \\text{ Hz}",
+            "B": "15 \\text{ Hz}",
+            "C": "20 \\text{ Hz}",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 18
+    },
+    {
+        "question_number": "52",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Identify which of the following expressions is not Maxwell's equation for time-varying fields.",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "\\vec{\\nabla} \\cdot \\vec{J} + \\frac{\\partial \\rho}{\\partial t} = 0",
+            "B": "\\vec{\\nabla} \\cdot \\vec{D} = \\rho",
+            "C": "\\vec{\\nabla} \\times \\vec{E} = -\\frac{\\partial \\vec{B}}{\\partial t}",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 18
+    },
+    {
+        "question_number": "53",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The voltage induced across a stationary conductor in an external static magnetic field",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "depends on the angle of the conductor with the magnetic field",
+            "B": "increases with time",
+            "C": "is zero",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 18
+    },
+    {
+        "question_number": "49",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "चतुर्थांश तरंग पट्टिका के साथ समतल ध्रुवीकृत प्रकाश के आपतन के किस कोण पर दीर्घवृत्तीय ध्रुवित प्रकाश गोलाकार ध्रुवीकृत हो जाता है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "90^\\circ",
+            "B": "45^\\circ",
+            "C": "60^\\circ",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 19
+    },
+    {
+        "question_number": "50",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "यदि एक तरंग का समूह वेग 2 \\times 10^8 मी०/से० है, तो कला वेग क्या है?",
+        "english_text": "",
+        "math_latex": "2 \\times 10^8 \\text{ मी०/से०}",
+        "has_image": false,
+        "options": {
+            "A": "4.5 \\times 10^8 \\text{ मी०/से०}",
+            "B": "5.5 \\times 10^8 \\text{ मी०/से०}",
+            "C": "9 \\times 10^8 \\text{ मी०/से०}",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 19
+    },
+    {
+        "question_number": "51",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "तरंग समीकरण y = 0.5 \\sin \\frac{2\\pi}{3.2} (64t - x) से तरंग की आवृत्ति है",
+        "english_text": "",
+        "math_latex": "y = 0.5 \\sin \\frac{2\\pi}{3.2} (64t - x)",
+        "has_image": false,
+        "options": {
+            "A": "5 हर्ट्ज",
+            "B": "15 हर्ट्ज",
+            "C": "20 हर्ट्ज",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 19
+    },
+    {
+        "question_number": "52",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "पहचानिए कि निम्नलिखित में से कौन-सा व्यंजक समय-परिवर्ती क्षेत्रों के लिए मैक्सवेल का समीकरण नहीं है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "\\vec{\\nabla} \\cdot \\vec{J} + \\frac{\\partial \\rho}{\\partial t} = 0",
+            "B": "\\vec{\\nabla} \\cdot \\vec{D} = \\rho",
+            "C": "\\vec{\\nabla} \\times \\vec{E} = \\frac{\\partial \\vec{B}}{\\partial t}",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 19
+    },
+    {
+        "question_number": "53",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "एक बाहरी स्थैतिक चुंबकीय क्षेत्र में एक स्थिर चालक में प्रेरित वोल्टेज",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "चुंबकीय क्षेत्र के साथ चालक के कोण पर निर्भर करता है",
+            "B": "समय के साथ बढ़ता है",
+            "C": "शून्य होता है",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 19
+    },
+    {
+        "question_number": "54",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "A wire in the shape of an equilateral triangle with sides of length $1\\text{ m}$ sits in a magnetic field of $2\\text{ T}$, pointing to the right. What is the magnitude of the magnetic flux through the triangle?",
+        "math_latex": "\\Phi = \\vec{B} \\cdot \\vec{A}",
+        "has_image": false,
+        "options": {
+            "A": "$0\\text{ Wb}$",
+            "B": "$1\\text{ Wb}$",
+            "C": "$1.73\\text{ Wb}$",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 20
+    },
+    {
+        "question_number": "55",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following statements is/are true regarding Biot-Savart law?\n\n(i) Magnetic field is directly proportional to the length of element.\n(ii) Biot-Savart law deals with electric field.\n(iii) Magnetic field is directly proportional to the current through the conductor.\n\nSelect the correct answer using the codes given below.",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "(i) only",
+            "B": "(i) and (ii)",
+            "C": "(i) and (iii)",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 20
+    },
+    {
+        "question_number": "56",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Find the value of the current $i$ in the given circuit :",
+        "math_latex": "",
+        "has_image": true,
+        "options": {
+            "A": "$2\\text{ A}$",
+            "B": "$3\\text{ A}$",
+            "C": "$1\\text{ A}$",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 20
+    },
+    {
+        "question_number": "57",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following statements is not correct about quality factor of a parallel resonance circuit?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "$Q$-factor of parallel resonance is the same as that of series resonance.",
+            "B": "$Q$-factor provides the current magnification.",
+            "C": "$Q$-factor provides the voltage magnification.",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 20
+    },
+    {
+        "question_number": "54",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "1 मी० लंबाई की भुजाओं वाला एक समबाहु त्रिभुज के आकार का एक तार दायीं ओर इंगित करते हुए $2\\text{ T}$ के चुंबकीय क्षेत्र में बैठता है। त्रिभुज के माध्यम से चुंबकीय प्रवाह का परिमाण क्या है?",
+        "english_text": "",
+        "math_latex": "B = 2\\text{ T}",
+        "has_image": false,
+        "options": {
+            "A": "0 वेबर",
+            "B": "1 वेबर",
+            "C": "1.73 वेबर",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 21
+    },
+    {
+        "question_number": "55",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "नीचे दिए गए कूट का प्रयोग करते हुए सही उत्तर का चयन कीजिए।",
+        "hindi_text": "बायो-सावर्ड के नियम के संबंध में, निम्नलिखित में से कौन-सा/से कथन सत्य है/हैं?\n(i) चुंबकीय क्षेत्र, तत्त्व की लंबाई के अनुक्रमानुपाती होता है।\n(ii) बायो-सावर्ड का नियम विद्युत् क्षेत्र से संबंधित है।\n(iii) चुंबकीय क्षेत्र, चालक में प्रवाहित धारा के अनुक्रमानुपाती होता है।\nनीचे दिए गए कूट का प्रयोग करते हुए सही उत्तर का चयन कीजिए।",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "केवल (i)",
+            "B": "(i) और (ii)",
+            "C": "(i) और (iii)",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 21
+    },
+    {
+        "question_number": "56",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "दिए गए परिपथ में धारा $i$ का मान ज्ञात कीजिए:",
+        "english_text": "",
+        "math_latex": "i = ?",
+        "has_image": true,
+        "options": {
+            "A": "2 A",
+            "B": "3 A",
+            "C": "1 A",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 21
+    },
+    {
+        "question_number": "57",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "किसी समानांतर अनुनादी परिपथ के गुणवत्ता कारक के बारे में, निम्नलिखित में से कौन-सा कथन सही नहीं है?",
+        "english_text": "",
+        "math_latex": "Q-\\text{फैक्टर}",
+        "has_image": false,
+        "options": {
+            "A": "समानांतर अनुनाद का $Q$-फैक्टर, श्रृंखला अनुनाद के $Q$-फैक्टर के समान ही है।",
+            "B": "$Q$-फैक्टर, धारा आवर्धन प्रदान करता है।",
+            "C": "$Q$-फैक्टर, वोल्टेज आवर्धन प्रदान करता है।",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 21
+    },
+    {
+        "question_number": "58",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "In a photoelectric experiment, both sodium (work function = $2.3$ eV) and tungsten (work function = $4.5$ eV) metals are illuminated by an ultraviolet light of same wavelength. If the stopping potential for tungsten is measured to be $1.8$ V, then the value of the stopping potential for sodium will be",
+        "math_latex": "2.3\\text{ eV}, 4.5\\text{ eV}, 1.8\\text{ V}",
+        "has_image": false,
+        "options": {
+            "A": "4 V",
+            "B": "2.2 V",
+            "C": "1.8 V",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 22
+    },
+    {
+        "question_number": "59",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The fine structure of atomic spectral lines arises from",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "electron spin-orbit coupling",
+            "B": "nuclear spin",
+            "C": "interaction between electron and nucleus",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 22
+    },
+    {
+        "question_number": "60",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "An atom with proton number 84 and nucleon number 216 decays into a new element. In this process, it emits an alpha particle. What is the structure of the new nucleus after the emission?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Proton number 82, Nucleon number 212",
+            "B": "Proton number 82, Nucleon number 214",
+            "C": "Proton number 85, Nucleon number 215",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 22
+    },
+    {
+        "question_number": "61",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following reactions is not allowed?",
+        "math_latex": "\\pi^+ + n \\to K^+ + \\Sigma^0",
+        "has_image": false,
+        "options": {
+            "A": "\\pi^+ + n \\to K^+ + \\Sigma^0",
+            "B": "\\Lambda^+ + n \\to \\Sigma^+ + p",
+            "C": "\\rho^0 \\to \\pi^+ + \\pi^-",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 22
+    },
+    {
+        "question_number": "62",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Donor-type impurities are the materials of",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "V group of periodic table",
+            "B": "IV group of periodic table",
+            "C": "III group of periodic table",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 22
+    },
+    {
+        "question_number": "58",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "प्रकाश-विद्युत् प्रयोग में, सोडियम (कार्य फलन = 2.3 eV) और टंगस्टन (कार्य फलन = 4.5 eV) दोनों धातुएँ समान तरंगदैर्ध्य के पराबैंगनी प्रकाश से प्रदीप्त होती हैं। यदि टंगस्टन का निरोधी विभव 1.8 V मापा जाता है, तो सोडियम के निरोधी विभव का मान होगा",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "4 V",
+            "B": "2.2 V",
+            "C": "1.8 V",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 23
+    },
+    {
+        "question_number": "59",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "परमाणु वर्णक्रमीय रेखाओं की सूक्ष्म संरचना किससे उत्पन्न होती है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "इलेक्ट्रॉन स्पिन-कक्षा युग्मन",
+            "B": "परमाणु स्पिन",
+            "C": "इलेक्ट्रॉन और नाभिक के बीच अन्योन्य-क्रिया",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 23
+    },
+    {
+        "question_number": "60",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "प्रोटॉन संख्या 84 और न्यूक्लियॉन संख्या 216 वाले एक परमाणु का एक नए तत्त्व में क्षय होता है। इस प्रक्रिया में, यह एक अल्फा कण का उत्सर्जन करता है। उत्सर्जन के बाद नए नाभिक की संरचना क्या है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "प्रोटॉन संख्या 82, न्यूक्लियॉन संख्या 212",
+            "B": "प्रोटॉन संख्या 82, न्यूक्लियॉन संख्या 214",
+            "C": "प्रोटॉन संख्या 85, न्यूक्लियॉन संख्या 215",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 23
+    },
+    {
+        "question_number": "61",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "निम्नलिखित में से किस अभिक्रिया की अनुमति नहीं है?",
+        "english_text": "",
+        "math_latex": "\\pi^+ + n \\rightarrow K^+ + \\Sigma^0, \\quad \\Lambda^+ + n \\rightarrow \\Sigma^+ + p, \\quad \\rho^0 \\rightarrow \\pi^+ \\pi^-",
+        "has_image": false,
+        "options": {
+            "A": "\\pi^+ + n \\rightarrow K^+ + \\Sigma^0",
+            "B": "\\Lambda^+ + n \\rightarrow \\Sigma^+ + p",
+            "C": "\\rho^0 \\rightarrow \\pi^+ \\pi^-",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 23
+    },
+    {
+        "question_number": "62",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "दाता प्रकार की अशुद्धियाँ किसकी सामग्री हैं?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "आवर्त सारणी का V समूह",
+            "B": "आवर्त सारणी का IV समूह",
+            "C": "आवर्त सारणी का III समूह",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 23
+    },
+    {
+        "question_number": "63",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "In an $n$-type semiconductor, the Fermi level lies",
+        "math_latex": "n\\text{-type}",
+        "has_image": false,
+        "options": {
+            "A": "above the top of the valence band",
+            "B": "below the bottom of the conduction band",
+            "C": "in the middle of the forbidden gap",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 24
+    },
+    {
+        "question_number": "64",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The maximum efficiency of a half-wave rectifier is",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "33.3%",
+            "B": "40.6%",
+            "C": "66.6%",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 24
+    },
+    {
+        "question_number": "65",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Consider the following types of modulation :\n(i) Amplitude modulation\n(ii) Frequency modulation\n(iii) Phase modulation\n(iv) Pulse modulation\n\nWhich of the above modulations are used for telecasting TV programs?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "(ii) and (iii)",
+            "B": "(iii) and (iv)",
+            "C": "(i) and (ii)",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 24
+    },
+    {
+        "question_number": "66",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "For every $10\\text{ }^{\\circ}\\text{C}$ increase in temperature, the reverse saturation current of a $p$-$n$ junction will be increased by",
+        "math_latex": "10\\text{ }^{\\circ}\\text{C}, p\\text{-}n",
+        "has_image": false,
+        "options": {
+            "A": "10 times",
+            "B": "2 times",
+            "C": "4 times",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 24
+    },
+    {
+        "question_number": "67",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The band gap energies for silicon and germanium photodiodes are $1\\cdot1\\text{ eV}$ and $0\\cdot67\\text{ eV}$ respectively. Their cut-off wavelengths respectively would be",
+        "math_latex": "1\\cdot1\\text{ eV}, 0\\cdot67\\text{ eV}",
+        "has_image": false,
+        "options": {
+            "A": "1127\\cdot27\\text{ nm}, 1850\\cdot75\\text{ nm}",
+            "B": "456\\cdot12\\text{ nm}, 1127\\cdot27\\text{ nm}",
+            "C": "1315\\cdot45\\text{ nm}, 1850\\cdot75\\text{ nm}",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 24
+    },
+    {
+        "question_number": "63",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "एक $n$-प्रकार के अर्धचालक में फर्मी स्तर स्थित होता है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "संयोजी बैंड के शीर्ष के ऊपर",
+            "B": "चालन बैंड के नीचे",
+            "C": "वर्जित अंतराल के बीच में",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 25
+    },
+    {
+        "question_number": "64",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "एक अर्ध-तरंग दिष्टकारी की अधिकतम दक्षता होती है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "33.3%",
+            "B": "40.6%",
+            "C": "66.6%",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 25
+    },
+    {
+        "question_number": "65",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "निम्नलिखित प्रकार के मॉड्यूलेशनों पर विचार कीजिए :\n(i) आयाम मॉड्यूलेशन\n(ii) आवृत्ति मॉड्यूलेशन\n(iii) कला मॉड्यूलेशन\n(iv) स्पंद मॉड्यूलेशन\nउपर्युक्त में से कौन-से मॉड्यूलेशन टी० वी० कार्यक्रमों के प्रसारण के लिए उपयोग किए जाते हैं?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "(ii) और (iii)",
+            "B": "(iii) और (iv)",
+            "C": "(i) और (ii)",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 25
+    },
+    {
+        "question_number": "66",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "प्रत्येक $10\\text{ }^\\circ\\text{C}$ तापमान में वृद्धि के लिए $p\\text{-}n$ जंक्शन की उत्क्रम संतृप्ति धारा में वृद्धि होगी",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "10 गुनी",
+            "B": "2 गुनी",
+            "C": "4 गुनी",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 25
+    },
+    {
+        "question_number": "67",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "सिलिकॉन और जर्मेनियम फोटोडायोड के लिए बैंड अंतराल ऊर्जाएँ क्रमशः $1\\cdot1\\text{ eV}$ और $0\\cdot67\\text{ eV}$ हैं। उनके कट-ऑफ तरंगदैर्ध्य होंगे, क्रमशः:",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "$1127\\cdot27$ नैनोमीटर, $1850\\cdot75$ नैनोमीटर",
+            "B": "$456\\cdot12$ नैनोमीटर, $1127\\cdot27$ नैनोमीटर",
+            "C": "$1315\\cdot45$ नैनोमीटर, $1850\\cdot75$ नैनोमीटर",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 25
+    },
+    {
+        "question_number": "68",
+        "section": "Part-II General Studies",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which method can be employed to produce a high degree of homogeneity in the creation of ZnFe_{2}O_{4} spinel?",
+        "math_latex": "ZnFe_{2}O_{4}",
+        "has_image": false,
+        "options": {
+            "A": "Distillation method",
+            "B": "Vaporization method",
+            "C": "Coprecipitation method",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 26
+    },
+    {
+        "question_number": "69",
+        "section": "Part-II General Studies",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "______ is a crystalline solid's basic repetitive structural unit.",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Monomer",
+            "B": "Molecule",
+            "C": "Unit cell",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 26
+    },
+    {
+        "question_number": "70",
+        "section": "Part-II General Studies",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "For all the reactions, what is the nature of the chemical dissociation?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Exothermic",
+            "B": "Reversible",
+            "C": "Endothermic",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 26
+    },
+    {
+        "question_number": "71",
+        "section": "Part-II General Studies",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The radius of an atomic nucleus is of the order of",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "10^{-10} \\text{ cm}",
+            "B": "10^{-13} \\text{ cm}",
+            "C": "10^{-15} \\text{ cm}",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 26
+    },
+    {
+        "question_number": "72",
+        "section": "Part-II General Studies",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Atomic orbital is",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "the circular path of electron",
+            "B": "an elliptical shaped orbit",
+            "C": "the region in which there is a maximum possibility of finding an electron",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 26
+    },
+    {
+        "question_number": "68",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "ZnFe_{2}O_{4} स्पिनल के निर्माण में उच्च स्तर की एकरूपता उत्पन्न करने के लिए किस विधि को नियोजित किया जा सकता है?",
+        "english_text": "",
+        "math_latex": "\\text{ZnFe}_{2}\\text{O}_{4}",
+        "has_image": false,
+        "options": {
+            "A": "आसवन विधि",
+            "B": "वाष्पीकरण विधि",
+            "C": "सह-अवक्षेपण विधि",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 27
+    },
+    {
+        "question_number": "69",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "______ एक क्रिस्टलीय ठोस की मूल दोहरावदार संरचनात्मक इकाई है।",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "एकलक",
+            "B": "अणु",
+            "C": "एकक सेल",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 27
+    },
+    {
+        "question_number": "70",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "सभी अभिक्रियाओं के लिए, रासायनिक वियोजन की प्रकृति क्या होती है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "ऊष्माक्षेपी",
+            "B": "प्रतिवर्ती",
+            "C": "ऊष्माशोषी",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 27
+    },
+    {
+        "question_number": "71",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "परमाणु नाभिक की त्रिज्या ______ की कोटि की होती है।",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "10^{-10} से० मी०",
+            "B": "10^{-13} से० मी०",
+            "C": "10^{-15} से० मी०",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 27
+    },
+    {
+        "question_number": "72",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "परमाणु कक्षक ______ है।",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "इलेक्ट्रॉन का वृत्ताकार पथ",
+            "B": "अंडाकार कक्षा",
+            "C": "वह क्षेत्र है, जिसमें इलेक्ट्रॉन के पाए जाने की संभावना अधिकतम होती",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 27
+    },
+    {
+        "question_number": "73",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "In the rate equation, when the concentration of reactants is unity, then the rate is equal to",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "specific rate constant",
+            "B": "average rate constant",
+            "C": "instantaneous rate constant",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 28
+    },
+    {
+        "question_number": "74",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "In the reaction $2A + B \\rightarrow A_2B$, if the concentration of $A$ is doubled and that of $B$ is halved, then the rate of the reaction will",
+        "math_latex": "2A + B \\rightarrow A_2B",
+        "has_image": false,
+        "options": {
+            "A": "increase 2 times",
+            "B": "increase 4 times",
+            "C": "decrease 2 times",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 28
+    },
+    {
+        "question_number": "75",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "A substance $A$ decomposes by a first-order reaction starting initially with $[A] = 2.00 \\ M$ and after 200 minutes, $[A]$ becomes $0.15 \\ M$. For this reaction $t_{1/2}$ is",
+        "math_latex": "[A] = 2.00 \\ M, [A], t_{1/2}",
+        "has_image": false,
+        "options": {
+            "A": "53.72 minutes",
+            "B": "50.49 minutes",
+            "C": "48.45 minutes",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 28
+    },
+    {
+        "question_number": "76",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following assertions about the main cell is correct?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "An example of a primary cell is a mercury cell.",
+            "B": "An example of a primary cell is a nickel-cadmium storage cell.",
+            "C": "The electrode reactions can be reversed.",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 28
+    },
+    {
+        "question_number": "73",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "दर समीकरण में, जब अभिकारकों की सांद्रता एक होती है, तो दर बराबर होती है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "विशिष्ट दर स्थिरांक के",
+            "B": "औसत दर स्थिरांक के",
+            "C": "तात्कालिक दर स्थिरांक के",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 29
+    },
+    {
+        "question_number": "74",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "अभिक्रिया $2A + B \\rightarrow A_2B$ में, यदि $A$ की सान्द्रता दुगुनी कर दी जाए और $B$ की सान्द्रता आधी कर दी जाए, तो अभिक्रिया की दर",
+        "english_text": "",
+        "math_latex": "2A + B \\rightarrow A_2B",
+        "has_image": false,
+        "options": {
+            "A": "2 गुनी बढ़ जाएगी",
+            "B": "4 गुनी बढ़ जाएगी",
+            "C": "2 गुनी कम हो जाएगी",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 29
+    },
+    {
+        "question_number": "75",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "एक पदार्थ $A$ प्रथम कोटि की अभिक्रिया से विघटित होता है, जो पहले $[A] = 2.00\\ M$ के साथ शुरू होता है और $200$ मिनट के बाद $[A], 0.15\\ M$ हो जाता है। इस अभिक्रिया के लिए $t_{1/2}$ है",
+        "english_text": "",
+        "math_latex": "[A] = 2.00\\ M, t_{1/2}, [A], 0.15\\ M",
+        "has_image": false,
+        "options": {
+            "A": "53.72 मिनट",
+            "B": "50.49 मिनट",
+            "C": "48.45 मिनट",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 29
+    },
+    {
+        "question_number": "76",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "मुख्य सेल के बारे में, निम्नलिखित में से कौन-सा कथन सही है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "पारा सेल, प्राथमिक सेल का एक उदाहरण है।",
+            "B": "प्राथमिक सेल का एक उदाहरण निकल-कैडमियम स्टोरेज सेल है।",
+            "C": "इलेक्ट्रोड अभिक्रियाओं को उल्टा किया जा सकता है।",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 29
+    },
+    {
+        "question_number": "77",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "A catalyst alters which of the following in a chemical reaction?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Entropy",
+            "B": "Activation energy",
+            "C": "Internal energy",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 30
+    },
+    {
+        "question_number": "78",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Photochemistry deals with the study of",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "photons",
+            "B": "photos",
+            "C": "reactions which proceed with absorptions of visible or UV light",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 30
+    },
+    {
+        "question_number": "79",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The number of photons that pass through a unit area in a unit time is called",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "amplitude of light",
+            "B": "frequency of light",
+            "C": "intensity of light",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 30
+    },
+    {
+        "question_number": "80",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The transition without emission of radiation of a molecule from a stable excited state to an unstable excited state that leads to dissociation is",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "predissociation",
+            "B": "dissociation",
+            "C": "photodissociation",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 30
+    },
+    {
+        "question_number": "81",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following products are obtained when $\\text{Na}_2\\text{CO}_3$ is added to a solution of copper sulphate?",
+        "math_latex": "\\text{Na}_2\\text{CO}_3",
+        "has_image": false,
+        "options": {
+            "A": "Basic copper carbonate, sodium sulphate and $\\text{CO}_2$",
+            "B": "Copper hydroxide, sodium sulphate and $\\text{CO}_2$",
+            "C": "Copper carbonate, sodium sulphate and $\\text{CO}_2$",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 30
+    },
+    {
+        "question_number": "77",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "रासायनिक अभिक्रिया में उत्प्रेरक निम्नलिखित में से किसमें परिवर्तन करता है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "एन्ट्रापी",
+            "B": "सक्रियण ऊर्जा",
+            "C": "आंतरिक ऊर्जा",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 31
+    },
+    {
+        "question_number": "78",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "प्रकाश-रसायन किसके अध्ययन से संबंधित है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "फोटॉन",
+            "B": "तस्वीर",
+            "C": "अभिक्रियाएँ, जो दृश्य या UV प्रकाश के अवशोषण के साथ आगे बढ़ती हैं",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 31
+    },
+    {
+        "question_number": "79",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "एक इकाई समय में एक इकाई क्षेत्रफल से होकर गुजरने वाले फोटॉनों की संख्या कहलाती है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "प्रकाश का आयाम",
+            "B": "प्रकाश की आवृत्ति",
+            "C": "प्रकाश की तीव्रता",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 31
+    },
+    {
+        "question_number": "80",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "स्थिर उत्तेजित अवस्था से अस्थिर उत्तेजित अवस्था में एक अणु के विकिरण के उत्सर्जन के बिना संक्रमण, जो पृथक्करण की ओर जाता है, है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "पूर्व-पृथक्करण",
+            "B": "पृथक्करण",
+            "C": "प्रकाशिक पृथक्करण",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 31
+    },
+    {
+        "question_number": "81",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "कॉपर सल्फेट के विलयन में $\\text{Na}_2\\text{CO}_3$ मिलाने पर निम्नलिखित में से कौन-से उत्पाद प्राप्त होते हैं?",
+        "english_text": "",
+        "math_latex": "\\text{Na}_2\\text{CO}_3",
+        "has_image": false,
+        "options": {
+            "A": "बेसिक कॉपर कार्बोनेट, सोडियम सल्फेट और $\\text{CO}_2$",
+            "B": "कॉपर हाइड्रोक्साइड, सोडियम सल्फेट और $\\text{CO}_2$",
+            "C": "कॉपर कार्बोनेट, सोडियम सल्फेट और $\\text{CO}_2$",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 31
+    },
+    {
+        "question_number": "82",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The pair that has similar atomic radii is",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Mn and Re",
+            "B": "Mo and W",
+            "C": "Sc and Ni",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 32
+    },
+    {
+        "question_number": "83",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "According to the IUPAC nomenclature, sodium nitroprusside dihydrate is named as",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "sodium pentacyanonitrosyl-ferrate(III)",
+            "B": "sodium nitroferrocyanide",
+            "C": "sodium pentacyanonitrosyl-ferrate(II)",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 32
+    },
+    {
+        "question_number": "84",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "A substance X is used in whitewashing and is obtained by heating limestone in the absence of air. Identify X.",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "CaOCl_2",
+            "B": "Ca(OH)_2",
+            "C": "CaO",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 32
+    },
+    {
+        "question_number": "85",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "A dilute ferrous sulphate solution is gradually added to the beaker containing acidified permanganate solution. The light purple colour of the solution fades and finally disappears. Which of the following is the correct explanation for the observation?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "KMnO_4 is an oxidizing agent and it oxidizes FeSO_4.",
+            "B": "FeSO_4 acts as an oxidizing agent and it oxidizes KMnO_4.",
+            "C": "The colour disappears due to dilution, no reaction is involved.",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 32
+    },
+    {
+        "question_number": "82",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "समान परमाणु त्रिज्याओं वाला युग्म है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Mn और Re",
+            "B": "Mo और W",
+            "C": "Sc और Ni",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 33
+    },
+    {
+        "question_number": "83",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "IUPAC नामकरण के अनुसार, सोडियम नाइट्रोप्रुसाइड डाइहाइड्रेट का नाम है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "सोडियम पेंटासायनोनाइट्रोसिलफेरेट(III)",
+            "B": "सोडियम नाइट्रोफेरोसाइनाइड",
+            "C": "सोडियम पेंटासायनोनाइट्रोसिलफेरेट(II)",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 33
+    },
+    {
+        "question_number": "84",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "एक पदार्थ X का उपयोग सफेदीकरण में किया जाता है और इसे हवा की अनुपस्थिति में चूनापत्थर को गर्म करके प्राप्त किया जाता है। X की पहचान कीजिए।",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "CaOCl_2",
+            "B": "Ca(OH)_2",
+            "C": "CaO",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 33
+    },
+    {
+        "question_number": "85",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "अम्लीकृत परमैँगनेट विलयन वाले बीकर में धीरे-धीरे तनु फेरस सल्फेट का विलयन डाला गया। विलयन का हल्का बैंगनी रंग फीका पड़ जाता है और अंत में गायब हो जाता है। निम्नलिखित में से कौन-सा अवलोकन के लिए सही स्पष्टीकरण है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "KMnO_4 एक ऑक्सीकारक है और यह FeSO_4 का ऑक्सीकरण करता है।",
+            "B": "FeSO_4 एक ऑक्सीकारक के रूप में कार्य करता है और यह KMnO_4 का ऑक्सीकरण करता है।",
+            "C": "तनुकरण के कारण रंग गायब हो जाता है, कोई अभिक्रिया शामिल नहीं है।",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 33
+    },
+    {
+        "question_number": "86",
+        "section": "Part-III Subject Paper",
+        "subject": "Chemistry",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "How many structural isomers are possible if one hydrogen in diphenylmethane is replaced by chlorine?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "8",
+            "B": "4",
+            "C": "7",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 34
+    },
+    {
+        "question_number": "87",
+        "section": "Part-III Subject Paper",
+        "subject": "Chemistry",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which among the following statements is/are true?\nExposure of silver chloride to sunlight for a long duration turns it grey due to the\n(i) formation of silver by decomposition of silver chloride\n(ii) sublimation of silver chloride\n(iii) decomposition of chlorine gas from silver chloride\n(iv) oxidation of silver chloride\nSelect the correct answer using the codes given below.",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "(i) only",
+            "B": "(i) and (iii)",
+            "C": "(ii) and (iv)",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 34
+    },
+    {
+        "question_number": "88",
+        "section": "Part-III Subject Paper",
+        "subject": "Chemistry",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following is a branched polymer?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Low-density polymer",
+            "B": "Polyester",
+            "C": "High-density polymer",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 34
+    },
+    {
+        "question_number": "89",
+        "section": "Part-III Subject Paper",
+        "subject": "Chemistry",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following monomers form biodegradable polymers?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "3-Hydroxybutanoic acid + 3-Hydroxypentanoic acid",
+            "B": "Glycine + Aminocaproic acid",
+            "C": "Ethylene glycol + Phthalic acid",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 34
+    },
+    {
+        "question_number": "86",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "डाइफेनिलमीथेन में एक हाइड्रोजन को क्लोरीन से बदलने पर कितने संरचनात्मक समावयवी संभव हैं?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "8",
+            "B": "4",
+            "C": "7",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 35
+    },
+    {
+        "question_number": "87",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "निम्नलिखित में से कौन-सा/से कथन सही है/हैं?\nलंबे समय तक सूर्य के प्रकाश के संपर्क में रहने के कारण सिल्वर क्लोराइड धूसर हो जाता है\n(i) सिल्वर क्लोराइड के अपघटन से सिल्वर के निर्माण के कारण\n(ii) सिल्वर क्लोराइड के ऊर्ध्वपातन के कारण\n(iii) सिल्वर क्लोराइड से क्लोरीन गैस के अपघटन के कारण\n(iv) सिल्वर क्लोराइड के ऑक्सीकरण के कारण\nनीचे दिए गए कूट का प्रयोग करते हुए सही उत्तर का चयन कीजिए।",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "केवल (i)",
+            "B": "(i) और (iii)",
+            "C": "(ii) और (iv)",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 35
+    },
+    {
+        "question_number": "88",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "निम्नलिखित में से कौन-सा शाखित बहुलक है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "कम घनत्व वाला बहुलक",
+            "B": "पॉリエステル",
+            "C": "उच्च घनत्व वाला बहुलक",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 35
+    },
+    {
+        "question_number": "89",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "निम्नलिखित में से कौन-से मोनोमर बायो-डिग्रेडेबल पॉलिमिर बनाते हैं?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "3-हाइड्रॉक्सीब्यूटेनोइक ऐसिड + 3-हाइड्रॉक्सीपेंटेनोइक ऐसिड",
+            "B": "ग्लाइसिन + अमीनोकैप्रोइक ऐसिड",
+            "C": "एथिलीन ग्लाइकॉल + थैलिक ऐसिड",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 35
+    },
+    {
+        "question_number": "90",
+        "section": "Part-III Subject Paper",
+        "subject": "Chemistry",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The correct order of increasing nucleophilicity is",
+        "math_latex": "\\text{Cl}^- < \\text{Br}^- < \\text{I}^-",
+        "has_image": false,
+        "options": {
+            "A": "Cl⁻ < Br⁻ < I⁻",
+            "B": "Br⁻ < Cl⁻ < I⁻",
+            "C": "I⁻ < Br⁻ < Cl⁻",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 36
+    },
+    {
+        "question_number": "91",
+        "section": "Part-III Subject Paper",
+        "subject": "Chemistry",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Select the correct statement from the following options.",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Spectroscopic methods require less time and more amount of sample than classical methods.",
+            "B": "Spectroscopic methods require more time and more amount of sample than classical methods.",
+            "C": "Spectroscopic methods require less time and less amount of sample than classical methods.",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 36
+    },
+    {
+        "question_number": "92",
+        "section": "Part-III Subject Paper",
+        "subject": "Chemistry",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "A carbonyl group will cause a sharp dip at about _____ cm⁻¹.",
+        "math_latex": "\\text{cm}^{-1}",
+        "has_image": false,
+        "options": {
+            "A": "1700",
+            "B": "2800",
+            "C": "3400",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 36
+    },
+    {
+        "question_number": "93",
+        "section": "Part-III Subject Paper",
+        "subject": "Chemistry",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which is the best suited method for the separation of para- and ortho-nitrophenols from 1:1 mixture?",
+        "math_latex": "1:1",
+        "has_image": false,
+        "options": {
+            "A": "Crystallization",
+            "B": "Chromatography",
+            "C": "Steam distillation",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 36
+    },
+    {
+        "question_number": "94",
+        "section": "Part-III Subject Paper",
+        "subject": "Chemistry",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Find the compound which undergoes nucleophilic substitution reaction exclusively by an S_N1 mechanism.",
+        "math_latex": "\\text{S}_\\text{N}1",
+        "has_image": false,
+        "options": {
+            "A": "Benzyl chloride",
+            "B": "Chlorobenzene",
+            "C": "Ethyl chloride",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 36
+    },
+    {
+        "question_number": "90",
+        "section": "Part-III Subject Paper",
+        "subject": "Chemistry",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "बढ़ते हुए न्यूक्लियोफिलिसिटी का सही क्रम है",
+        "english_text": "",
+        "math_latex": "\\text{Cl}^- < \\text{Br}^- < \\text{I}^-",
+        "has_image": false,
+        "options": {
+            "A": "\\text{Cl}^- < \\text{Br}^- < \\text{I}^-",
+            "B": "\\text{Br}^- < \\text{Cl}^- < \\text{I}^-",
+            "C": "\\text{I}^- < \\text{Br}^- < \\text{Cl}^-",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 37
+    },
+    {
+        "question_number": "91",
+        "section": "Part-III Subject Paper",
+        "subject": "Chemistry",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "निम्नलिखित विकल्पों में से सही कथन का चयन कीजिए।",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "शास्त्रीय विधियों की तुलना में स्पेक्ट्रोस्कोपिक विधियों में कम समय और नमूने की अधिक मात्रा की आवश्यकता होती है।",
+            "B": "शास्त्रीय विधियों की तुलना में स्पेक्ट्रोस्कोपिक विधियों में अधिक समय और नमूने की अधिक मात्रा की आवश्यकता होती है।",
+            "C": "शास्त्रीय विधियों की तुलना में स्पेक्ट्रोस्कोपिक विधियों में कम समय और नमूने की कम मात्रा की आवश्यकता होती है।",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 37
+    },
+    {
+        "question_number": "92",
+        "section": "Part-III Subject Paper",
+        "subject": "Chemistry",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "लगभग ______ से० मी०$^{-1}$ पर कार्बोनिल समूह तीव्र गिरावट का कारण बनेगा।",
+        "english_text": "",
+        "math_latex": "\\text{cm}^{-1}",
+        "has_image": false,
+        "options": {
+            "A": "1700",
+            "B": "2800",
+            "C": "3400",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 37
+    },
+    {
+        "question_number": "93",
+        "section": "Part-III Subject Paper",
+        "subject": "Chemistry",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "1:1 मिश्रण से पैरा- और ऑर्थो-नाइट्रो-फिनॉल को अलग करने के लिए सबसे उपयुक्त तरीका कौन-सा है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "क्रिस्टलीकरण",
+            "B": "क्रोमैटोग्राफी",
+            "C": "भाप आसवन",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 37
+    },
+    {
+        "question_number": "94",
+        "section": "Part-III Subject Paper",
+        "subject": "Chemistry",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "उस यौगिक का पता लगाइए, जो विशेष रूप से एक S_N1 तंत्र द्वारा न्यूक्लियोफिलिक प्रतिस्थापन अभिक्रिया से गुजरता है।",
+        "english_text": "",
+        "math_latex": "S_N1",
+        "has_image": false,
+        "options": {
+            "A": "बेंジル क्लोराइड",
+            "B": "क्लोरोबेंजीन",
+            "C": "एथिल क्लोराइड",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 37
+    },
+    {
+        "question_number": "95",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The majority of phytophagous nematodes are",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "root parasites",
+            "B": "stem parasites",
+            "C": "tissue parasites",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 38
+    },
+    {
+        "question_number": "96",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "One of the purposes of secondary treatment of waste-water and sewage is",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "to increase the chlorine content",
+            "B": "to reduce the BOD",
+            "C": "to encourage the formation of PCBs",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 38
+    },
+    {
+        "question_number": "97",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Most bacteria that cause plant diseases are members of the group of",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "rod-shaped and gram-positive bacteria",
+            "B": "rod-shaped and gram-negative bacteria",
+            "C": "filament-shaped and gram-positive bacteria",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 38
+    },
+    {
+        "question_number": "98",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Nutritionally Albugo is",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "saprophyte",
+            "B": "facultative saprophyte",
+            "C": "obligate parasite",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 38
+    },
+    {
+        "question_number": "99",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following is incorrect statement?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "In Liliaceae, some plants have underground parts.",
+            "B": "Fibre-yielding plants are found in Malvaceae.",
+            "C": "Trees with large flowers and seeds are found in Compositae.",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 38
+    },
+    {
+        "question_number": "100",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "One of the major Basmati rice-producing States in our country is",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Kerala",
+            "B": "Andhra Pradesh",
+            "C": "Uttar Pradesh",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 38
+    },
+    {
+        "question_number": "95",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "अधिकांश फाइटोफैगस नेमाटोड हैं",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "जड़ परजीवी",
+            "B": "तना परजीवी",
+            "C": "ऊतक परजीवी",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 39
+    },
+    {
+        "question_number": "96",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "अपशिष्ट जल और सीवेज के द्वितीयक उपचार के उद्देश्यों में से एक है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "क्लोरीन की मात्रा बढ़ाना",
+            "B": "बी० ओ० डी० कम करना",
+            "C": "पी० सी० बी० के गठन को प्रोत्साहित करना",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 39
+    },
+    {
+        "question_number": "97",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "अधिकांश बैक्टीरिया, जो पौधों की बीमारियों का कारण बनते हैं, वे किस समूह के सदस्य हैं?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "छड़ के आकार के और ग्राम-पॉजिटिव बैक्टीरिया",
+            "B": "छड़ के आकार के और ग्राम-नेगेटिव बैक्टीरिया",
+            "C": "तंतु के आकार के और ग्राम-पॉजिटिव बैक्टीरिया",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 39
+    },
+    {
+        "question_number": "98",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "पौष्टिक रूप से अल्बुगो है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "मृतोपजीवी",
+            "B": "विकल्पी मृतोपजीवी",
+            "C": "अनिवार्य परजीवी",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 39
+    },
+    {
+        "question_number": "99",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "निम्नलिखित में से कौन-सा कथन गलत है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "लिलिएसी में, कुछ पौधों में भूमिगत भाग होते हैं।",
+            "B": "मालवेसी में, रेशा देने वाले पौधे पाए जाते हैं।",
+            "C": "कंपोजिटी में, बड़े फूल और बीज वाले पेड़ पाए जाते हैं।",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 39
+    },
+    {
+        "question_number": "100",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "हमारे देश में प्रमुख बासमती चावल उत्पादक राज्यों में से एक है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "केरल",
+            "B": "आंध्र प्रदेश",
+            "C": "उत्तर प्रदेश",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 39
+    },
+    {
+        "question_number": "101",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "What is Somaclone?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Plant which is chemically identical to the source plant",
+            "B": "Plant which is morphologically similar to the original plant",
+            "C": "Plant which is automatically identical to the original plant",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 40
+    },
+    {
+        "question_number": "102",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The functional unit of synthesis of protein is",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "peroxisome",
+            "B": "polysome",
+            "C": "lysosome",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 40
+    },
+    {
+        "question_number": "103",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Active transport takes place",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "against concentration gradient and requires ATP",
+            "B": "against concentration gradient and does not require ATP",
+            "C": "with concentration gradient and does not require ATP",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 40
+    },
+    {
+        "question_number": "104",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Tropical evergreen forests are found in which of the following States of India?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Tamil Nadu",
+            "B": "Assam",
+            "C": "Madhya Pradesh",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 40
+    },
+    {
+        "question_number": "105",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Ozone hole refers to",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "decrease in ozone concentration in stratosphere",
+            "B": "decrease in the thickness of ozone layer in stratosphere",
+            "C": "increase in the thick layer of ozone in stratosphere",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 40
+    },
+    {
+        "question_number": "106",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Groundnut oil is obtained from",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Brassica juncea",
+            "B": "Artabotrys odoratissimus",
+            "C": "Arachis hypogaea",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 40
+    },
+    {
+        "question_number": "107",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The component of food that does not provide any nutrient to our body and yet is essential in our food is",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "fat",
+            "B": "carbohydrate",
+            "C": "roughage",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 40
+    },
+    {
+        "question_number": "101",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "सोमाक्लोन क्या है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "पौधे, जो रासायनिक रूप से स्रोत पौधे के समान होते हैं",
+            "B": "पौधे, जो आकारिकी रूप से मूल पौधे के समान होते हैं",
+            "C": "पौधे, जो स्वतः ही मूल पौधे के समान होते हैं",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 41
+    },
+    {
+        "question_number": "102",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "प्रोटीन संश्लेषण की क्रियात्मक इकाई है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "परऑक्सीसोम",
+            "B": "पॉलिसोम",
+            "C": "लाइसोसोम",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 41
+    },
+    {
+        "question_number": "103",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "सक्रिय परिवहन",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "सांद्रण प्रवणता के विरुद्ध होता है और इसमें ए० टी० पी० की आवश्यकता होती है",
+            "B": "सांद्रण प्रवणता के विरुद्ध होता है और इसमें ए० टी० पी० की आवश्यकता नहीं होती है",
+            "C": "में सांद्रण प्रवणता होती है और इसमें ए० टी० पी० की आवश्यकता नहीं होती है",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 41
+    },
+    {
+        "question_number": "104",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "भारत के निम्नलिखित में से किस राज्य में उष्णकटिबंधीय सदाबहार वन पाए जाते हैं?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "तमिलनाडु",
+            "B": "असम",
+            "C": "मध्य प्रदेश",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 41
+    },
+    {
+        "question_number": "105",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "ओजोन छिद्र का अर्थ है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "समतापमंडल में ओजोन सांद्रता में कमी",
+            "B": "समतापमंडल में ओज़ोन परत की मोटाई में कमी",
+            "C": "समतापमंडल में ओज़ोन की मोटी परत में वृद्धि",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 41
+    },
+    {
+        "question_number": "106",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "मूंगफली का तेल प्राप्त होता है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "ब्रैसिका जुन्सिया से",
+            "B": "आर्टाबोट्रिस ओडोरेटिसिमस से",
+            "C": "अरचिस हाइपोगिया से",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 41
+    },
+    {
+        "question_number": "107",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "भोजन का वह घटक, जो हमारे शरीर को कोई पोषक तत्व प्रदान नहीं करता है और फिर भी हमारे भोजन में आवश्यक है, है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "वसा",
+            "B": "कार्बोहाइड्रेट",
+            "C": "चारा",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 41
+    },
+    {
+        "question_number": "108",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Plasma membrane is built up of",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "protein",
+            "B": "lipid",
+            "C": "carbohydrate",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 42
+    },
+    {
+        "question_number": "109",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Mendel's principle of inheritance is based on",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "vegetative reproduction",
+            "B": "asexual reproduction",
+            "C": "sexual reproduction",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 42
+    },
+    {
+        "question_number": "110",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "When there is a decrease in the concentration of oxygen in the blood, the rate of breathing",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "decreases",
+            "B": "increases",
+            "C": "does not change",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 42
+    },
+    {
+        "question_number": "111",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "In human body, which one of the following hormones regulates blood calcium and phosphate?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Glucagon",
+            "B": "Growth hormone",
+            "C": "Parathyroid hormone",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 42
+    },
+    {
+        "question_number": "112",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Quick response towards stress is done by",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "androgen",
+            "B": "epinephrine",
+            "C": "corticosteroid",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 42
+    },
+    {
+        "question_number": "113",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Cimex hemipterus parasitizes on",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "sheep",
+            "B": "man",
+            "C": "elephant",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 42
+    },
+    {
+        "question_number": "114",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following is a human blood fluke?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Enterobius vermicularis",
+            "B": "Schistosoma mansoni",
+            "C": "Wuchereria bancrofti",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 42
+    },
+    {
+        "question_number": "108",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "प्लाज़मा झिल्ली किससे बनी होती है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "प्रोटीन",
+            "B": "लिपीड",
+            "C": "कार्बोहाइड्रेट",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 43
+    },
+    {
+        "question_number": "109",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "मेंडलीय वंशागति सिद्धान्त किस पर आधारित है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "वानस्पतिक जनन",
+            "B": "अलैंगिक जनन",
+            "C": "लैंगिक जनन",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 43
+    },
+    {
+        "question_number": "110",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "यदि रक्त में ऑक्सीजन की सान्द्रता घटती है, तो साँस लेने की दर",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "घटती है",
+            "B": "बढ़ती है",
+            "C": "में कोई परिवर्तन नहीं होता है",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 43
+    },
+    {
+        "question_number": "111",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "मनुष्य में कौन-सा हार्मोन, रक्त में कैल्शियम एवं फॉस्फेट को नियन्त्रित करता है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "ग्लूकागॉन",
+            "B": "वृद्धि हार्मोन",
+            "C": "पैराथायरॉयड हार्मोन",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 43
+    },
+    {
+        "question_number": "112",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "तनाव के प्रति त्वरित प्रतिक्रिया निम्नलिखित में से किससे संचालित होती है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "एंड्रोजन",
+            "B": "एपिनेफ्रिन",
+            "C": "कॉर्टिकोस्टेरॉयड",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 43
+    },
+    {
+        "question_number": "113",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "साइमेक्स हेमिप्टेरस निम्नलिखित में से किस पर परजीवी होता है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "भेड़",
+            "B": "मनुष्य",
+            "C": "हाथी",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 43
+    },
+    {
+        "question_number": "114",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "निम्नलिखित में से कौन-सा मानव 'रक्त पर्णकृमि' है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "एन्टेरोबियस वर्मीकुलेरिस",
+            "B": "सिस्टोसोमा मैनसोनी",
+            "C": "वूचेरेरिया बैनक्रॉप्टी",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 43
+    },
+    {
+        "question_number": "115",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The embryonic respiratory organ in chick is",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "amnion",
+            "B": "chorion",
+            "C": "allantois",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 44
+    },
+    {
+        "question_number": "116",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following characterizes aging?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "An increase in the consumption of oxygen",
+            "B": "Increased anabolism",
+            "C": "Increased metabolic activity",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 44
+    },
+    {
+        "question_number": "117",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Eugenics is the study of",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "different races",
+            "B": "people of European origin",
+            "C": "altering human beings by changing the genetic components",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 44
+    },
+    {
+        "question_number": "118",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "In some animal groups, the body is found divided into compartments with at least some organs serially repeated. This feature is named as",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "segmentation",
+            "B": "metamerism",
+            "C": "metagenesis",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 44
+    },
+    {
+        "question_number": "119",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which type of larva is found in majority of Crustacea?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Tornaria",
+            "B": "Bipinnaria",
+            "C": "Nauplius",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 44
+    },
+    {
+        "question_number": "120",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "According to Oparin, which of the following was not present in the primitive atmosphere of the Earth?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Oxygen",
+            "B": "Hydrogen",
+            "C": "Water vapour",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 44
+    },
+    {
+        "question_number": "115",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "चूजे का भ्रूणीय श्वसन अंग कौन-सा है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "एम्नियन",
+            "B": "कौरिऑन",
+            "C": "ऐलेन्टॉइस",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 45
+    },
+    {
+        "question_number": "116",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "निम्नलिखित में से कौन-सी स्थिति बुढ़ापा दर्शाती है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "ऑक्सीजन की खपत में वृद्धि",
+            "B": "उपचय का बढ़ना",
+            "C": "उपापचय क्रिया का बढ़ना",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 45
+    },
+    {
+        "question_number": "117",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "सुजननिकी ______ का अध्ययन है।",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "विभिन्न जातियों",
+            "B": "यूरोपियन मूल के लोगों",
+            "C": "आनुवंशिक घटक के परिवर्तन से मनुष्य जाति के उत्थान",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 45
+    },
+    {
+        "question_number": "118",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "कुछ जन्तु वर्गों में, शरीर खण्डों में विभाजित होता है, जिसमें कम-से-कम कुछ अंगों की क्रमिक पुनरावृत्ति होती है। इस लक्षण को क्या कहते हैं?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "विखण्डन",
+            "B": "मध्यावयवता",
+            "C": "पीढ़ी एकान्तरण",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 45
+    },
+    {
+        "question_number": "119",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "क्रस्टेशिया वर्ग के अधिकांश भाग में, निम्नलिखित में से कौन-सा लार्वा पाया जाता है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "टोर्नेरिया",
+            "B": "बाइपिन्नेरिया",
+            "C": "नॉपलियस",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 45
+    },
+    {
+        "question_number": "120",
+        "section": "Part-III Subject Paper",
+        "subject": "Science",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "ओपेरिन के अनुसार, पृथ्वी के आदिम (पूर्वस्थ) वातावरण में निम्नलिखित में से क्या उपलब्ध नहीं था?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "ऑक्सीजन",
+            "B": "हाइड्रोजन",
+            "C": "जलवाष्प",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 45
+    }
+]

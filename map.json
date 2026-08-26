@@ -1,0 +1,53 @@
+{
+  "$schema_version": "2.0.0",
+  "project_identity": {
+    "project_id": "PRJ-02-FRANKBASE",
+    "project_name": "02_frankbase.com",
+    "domain": "frankbase.com",
+    "canonical_url": "https://frankbase.com",
+    "canonical_path": "D:\\01_Websites_and_Content\\MMY_Website_Project\\02_frankbase.com",
+    "tier_level": 3,
+    "status": "ACTIVE_PRODUCTION",
+    "purpose": "Comprehensive Knowledge Base, Study Materials, Competitive Exam Notes (BPSC, SSC, CTET, NCERT), and Ebook Library.",
+    "support_email": "support@frankbase.com",
+    "forwarding_destination": "mastermanikant.in@gmail.com",
+    "inquiries_webhook_target": "https://mmcentral.pages.dev/api/submit-lead"
+  },
+  "modules_and_folder_map": {
+    "01_Website_Code": {
+      "path": "D:\\01_Websites_and_Content\\MMY_Website_Project\\02_frankbase.com\\01_Website_Code",
+      "description": "Production JAMstack web application, Core Brand Trust pages (Home, About, Contact, Legal Suite), styles, scripts, and SEO configuration.",
+      "sub_sections": [
+        "index.html (Education Hub Gateway)",
+        "about-us.html (Founder Master Manikant Profile)",
+        "contact.html (Central Ingestion Lead Form)",
+        "privacy-policy.html, terms-and-conditions.html, disclaimer.html, legal.html, agreement.html (Legal Suite)",
+        "css/style.css & js/app.js (Design System & Theme Engine)",
+        "robots.txt, sitemap.xml, _headers, _redirects (SEO & Cloudflare Edge Rules)"
+      ]
+    },
+    "01_Study_and_Notes_Content": {
+      "path": "D:\\01_Websites_and_Content\\MMY_Website_Project\\02_frankbase.com\\01_Study_and_Notes_Content",
+      "description": "Exhaustive exam notes and structured subject modules.",
+      "sub_sections": [
+        "01_Competitive_Exams_BPSC_SSC_CTET (BPSC GS/History/Polity, SSC CGL/CHSL Reasoning & Math, CTET Child Pedagogy)",
+        "02_School_and_Boards_10th_12th (NCERT Solutions, BSEB/CBSE Class 10 & 12 revision formula sheets)",
+        "03_Ebooks_and_Learning_Packs (General knowledge digests, current affairs compilations)",
+        "FrankBase_Education_Hub (Curated learning trees and article guides)"
+      ]
+    },
+    "09_Raw_Materials_and_Legacy_Backups": {
+      "path": "D:\\01_Websites_and_Content\\MMY_Website_Project\\02_frankbase.com\\09_Raw_Materials_and_Legacy_Backups",
+      "description": "Original PDFs, docx notes, and migration snapshots from C: Drive and Hostinger assets."
+    }
+  },
+  "provenance_record": {
+    "consolidated_from": [
+      "D:\\05_Personal_Vault_and_Backups\\From_C_Drive\\Documents",
+      "D:\\01_Websites_and_Content\\Hostinger_and_Digital_Assets"
+    ],
+    "total_files_migrated": 985,
+    "last_sync_timestamp": "2026-08-18 07:55:00",
+    "integrity_status": "100% LIVE ON FRANKBASE.COM (CLOUDFLARE PAGES & 11TY)"
+  }
+}

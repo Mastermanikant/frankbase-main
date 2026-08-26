@@ -1,0 +1,5402 @@
+[
+    {
+        "question_number": "1",
+        "section": "PART-I",
+        "subject": "Language",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "Directions (Q. Nos. 1 and 2) : Choose the most appropriate prepositions in the following sentences :",
+        "hindi_text": "",
+        "english_text": "The poems written by Dinkar are ______ the most appealing quality.",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "for",
+            "B": "by",
+            "C": "of",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 2
+    },
+    {
+        "question_number": "2",
+        "section": "PART-I",
+        "subject": "Language",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "Directions (Q. Nos. 1 and 2) : Choose the most appropriate prepositions in the following sentences :",
+        "hindi_text": "",
+        "english_text": "What is the time ______ your watch?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "in",
+            "B": "by",
+            "C": "at",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 2
+    },
+    {
+        "question_number": "3",
+        "section": "PART-I",
+        "subject": "Language",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "Directions (Q. Nos. 3 and 4) : Fill in the blanks with suitable articles like 'a', 'an' and 'the' :",
+        "hindi_text": "",
+        "english_text": "The Sun rises in the east and sets in ______ west.",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "a",
+            "B": "an",
+            "C": "the",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 2
+    },
+    {
+        "question_number": "4",
+        "section": "PART-I",
+        "subject": "Language",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "Directions (Q. Nos. 3 and 4) : Fill in the blanks with suitable articles like 'a', 'an' and 'the' :",
+        "hindi_text": "",
+        "english_text": "Aurangabad is ______ less known city in Bihar.",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "the",
+            "B": "a",
+            "C": "an",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 2
+    },
+    {
+        "question_number": "5",
+        "section": "PART-I",
+        "subject": "Language",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following is not found in a car?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Gear",
+            "B": "Accelerator",
+            "C": "Pistol",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 2
+    },
+    {
+        "question_number": "6",
+        "section": "PART-I",
+        "subject": "Language",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "A sister's husband is called in English as",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "jija",
+            "B": "brother-in-law",
+            "C": "maternal brother",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 2
+    },
+    {
+        "question_number": "7",
+        "section": "PART-I",
+        "subject": "Language",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which is the seventh planet from the Sun?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Jupiter",
+            "B": "Uranus",
+            "C": "Neptune",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 2
+    },
+    {
+        "question_number": "8",
+        "section": "PART-I",
+        "subject": "Language",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "If the last day of the week is Saturday, the third day will be",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Tuesday",
+            "B": "Sunday",
+            "C": "Monday",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 2
+    },
+    {
+        "question_number": "9",
+        "section": "Part-I Language",
+        "subject": "Hindi",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "'विकारी' शब्द का अर्थ क्या है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "परिवर्तन",
+            "B": "विकीर",
+            "C": "स्थिर",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 3
+    },
+    {
+        "question_number": "10",
+        "section": "Part-I Language",
+        "subject": "Hindi",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "मध्यमपुरुष एकवचन का मूल रूप क्या है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "तुम",
+            "B": "तुझ",
+            "C": "तू",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 3
+    },
+    {
+        "question_number": "11",
+        "section": "Part-I Language",
+        "subject": "Hindi",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "हिन्दी में कौन-सा अव्यय शब्द संबंध तत्त्व का कार्य करता है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "क्रम",
+            "B": "तथापि",
+            "C": "समीप",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 3
+    },
+    {
+        "question_number": "12",
+        "section": "Part-I Language",
+        "subject": "Hindi",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "तीन का विकास किस संस्कृत शब्द से हुआ?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "तिग्णि",
+            "B": "त्रीणि",
+            "C": "त्रिन्",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 3
+    },
+    {
+        "question_number": "13",
+        "section": "Part-I Language",
+        "subject": "Hindi",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "'सुहावना' कौन-सा प्रत्यय है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "गुणवाचक",
+            "B": "भाववाचक",
+            "C": "करणवाचक",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 3
+    },
+    {
+        "question_number": "14",
+        "section": "Part-I Language",
+        "subject": "Hindi",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "जब शब्दों का अर्थ सीमित एवं संकुचित क्षेत्र से निकलकर अधिक विस्तृत हो जाता है, उसे कहते हैं",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "अर्थ विस्तार",
+            "B": "अर्थ संकोच",
+            "C": "अर्थापकर्ष",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 3
+    },
+    {
+        "question_number": "15",
+        "section": "Part-I Language",
+        "subject": "Hindi",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "बादल खूब गरजे किन्तु वर्षा नहीं हुई। कौन-सा वाक्य है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "संयुक्त",
+            "B": "साधारण",
+            "C": "मिश्रित",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 3
+    },
+    {
+        "question_number": "16",
+        "section": "Part-I Language",
+        "subject": "Hindi",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "'अनिल हँसता है', कौन-सी क्रिया है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "सकर्मक",
+            "B": "प्रेरणार्थक",
+            "C": "अकर्मक",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 3
+    },
+    {
+        "question_number": "17",
+        "section": "Part-I Language",
+        "subject": "Hindi",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "ब्राह्मी लिपि की उत्पत्ति कहाँ हुई?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "पाकिस्तान",
+            "B": "भारत",
+            "C": "एशिया",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 4
+    },
+    {
+        "question_number": "18",
+        "section": "Part-I Language",
+        "subject": "Hindi",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "आधुनिक भारतीय आर्यभाषाओं का मूल स्रोत है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "वैदिक संस्कृत",
+            "B": "लौकिक संस्कृत",
+            "C": "संस्कृत",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 4
+    },
+    {
+        "question_number": "19",
+        "section": "Part-I Language",
+        "subject": "Hindi",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "कौन-सी ध्वनि 'युग्मक ध्वनि' है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "सम्बल्",
+            "B": "दिक्कत",
+            "C": "प्राण",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 4
+    },
+    {
+        "question_number": "20",
+        "section": "Part-I Language",
+        "subject": "Hindi",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "'तथैव' का संधि-विच्छेद क्या है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "तथ + ऐव",
+            "B": "तथ + एव",
+            "C": "तथा + एव",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 4
+    },
+    {
+        "question_number": "21",
+        "section": "Part-I Language",
+        "subject": "Hindi",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "किस वाक्य में निश्चयवाचक सर्वनाम का प्रयोग हुआ है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "वह कौन है, जो पड़ा रो रहा है।",
+            "B": "रोटी मत खाओ, क्योंकि वह जली है।",
+            "C": "उसने कुछ नहीं खाया।",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 4
+    },
+    {
+        "question_number": "22",
+        "section": "Part-I Language",
+        "subject": "Hindi",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "कौन-सा शब्द 'नि' उपसर्ग से बना है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "निर्वास",
+            "B": "निश्चल",
+            "C": "निरोग",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 4
+    },
+    {
+        "question_number": "23",
+        "section": "Part-I Language",
+        "subject": "Hindi",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "वाक्यांश के लिए एक शब्द का कौन-सा युग्म सुमेलित नहीं है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "जो खुले हाथों से दान करता हो—दानी",
+            "B": "जैसा पहले था वैसा ही—यथाविधि",
+            "C": "जिसने मृत्यु को जीत लिया हो—मुमूर्षु",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 4
+    },
+    {
+        "question_number": "24",
+        "section": "Part-I Language",
+        "subject": "Hindi",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "मुहावरा और अर्थ की दृष्टि से कौन-सा युग्म सही नहीं है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "गोबर गणेश—बिलकुल बुद्धू",
+            "B": "गीदड़ भभकी—दिखावटी भय",
+            "C": "गूंगे का गुड़ होना—बोल न पाना",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 4
+    },
+    {
+        "question_number": "25",
+        "section": "Part-III Subject Paper",
+        "subject": "Hindi",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "'वक्रोक्ति जीवित' के रचनाकार कौन हैं?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "वामन",
+            "B": "भामह",
+            "C": "कुंतक",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 5
+    },
+    {
+        "question_number": "26",
+        "section": "Part-III Subject Paper",
+        "subject": "Hindi",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "“बीती विभावरी जाग री। अंबर पनघट में डुबो रही तारा-घट ऊषा नागरी।”\n\nउपर्युक्त पंक्तियों में कौन-सा अलंकार है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "रूपक",
+            "B": "वक्रोक्ति",
+            "C": "उपमा",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 5
+    },
+    {
+        "question_number": "27",
+        "section": "Part-III Subject Paper",
+        "subject": "Hindi",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "“रक्त मांस के सड़े पंक से उमड़ रही है महाघोर दुर्गन्ध, रुद्ध हो उठती श्वास।”\n\nउपर्युक्त पंक्तियों में कौन-सा रस है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "रौद्र",
+            "B": "वीभत्स",
+            "C": "अद्भुत",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 5
+    },
+    {
+        "question_number": "28",
+        "section": "Part-III Subject Paper",
+        "subject": "Hindi",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "22 से 26 वर्णों तक के चार चरणों वाला छंद क्या कहलाता है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "टोटक छंद",
+            "B": "भुजंगी छंद",
+            "C": "सवैया छंद",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 5
+    },
+    {
+        "question_number": "29",
+        "section": "Part-III Subject Paper",
+        "subject": "Hindi",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "राजभाषा विधेयक 1963 को किसने प्रस्तुत किया?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "जवाहरलाल नेहरू",
+            "B": "लालबहादुर शास्त्री",
+            "C": "सरदार पटेल",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 5
+    },
+    {
+        "question_number": "30",
+        "section": "Part-III Subject Paper",
+        "subject": "Hindi",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "“मेरी भव बाधा हरौ, राधा नागरि सोइ। जा तन की झाई परे, स्यामू हरित द्युति होइ।।”\n\nउपर्युक्त पंक्तियाँ किस छंद का उदाहरण हैं?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "रोला",
+            "B": "सोरठा",
+            "C": "बरवै",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 5
+    },
+    {
+        "question_number": "31",
+        "section": "PART-II",
+        "subject": "GENERAL STUDIES",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "PART-II ( GENERAL STUDIES )",
+        "hindi_text": "",
+        "english_text": "The compound interest on ₹8,000 at 15% per annum for 2 years and 4 months, compounded annually would be",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "₹3,109",
+            "B": "₹4,119",
+            "C": "₹8,530",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 6
+    },
+    {
+        "question_number": "32",
+        "section": "PART-II",
+        "subject": "GENERAL STUDIES",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "PART-II ( GENERAL STUDIES )",
+        "hindi_text": "",
+        "english_text": "A candidate got 35% of the votes polled and he lost to his rival by 2250 votes. How many votes were cast if there are only two candidates for voting?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "4700",
+            "B": "7500",
+            "C": "8600",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 6
+    },
+    {
+        "question_number": "33",
+        "section": "PART-II",
+        "subject": "GENERAL STUDIES",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "PART-II ( GENERAL STUDIES )",
+        "hindi_text": "",
+        "english_text": "If the sum of the first 14 terms of an arithmetic progression is 1050 and its first term is 10, then the 20th term of the arithmetic progression is",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "100",
+            "B": "150",
+            "C": "200",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 6
+    },
+    {
+        "question_number": "34",
+        "section": "PART-II",
+        "subject": "GENERAL STUDIES",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "PART-II ( GENERAL STUDIES )",
+        "hindi_text": "",
+        "english_text": "The value of a gadget worth ₹10,000 is depreciating at the rate of 10% per annum. In how many years will its value be reduced to ₹6,561?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "7 years",
+            "B": "5 years",
+            "C": "4 years",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 6
+    },
+    {
+        "question_number": "31",
+        "section": "PART-II",
+        "subject": "GENERAL STUDIES",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "GENERAL STUDIES",
+        "hindi_text": "₹ 8,000 पर 2 वर्ष और 4 महीने के लिए 15% प्रति वर्ष की दर से चक्रवृद्धि ब्याज, जो वार्षिक रूप से संयोजित होता है, होगा",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "₹ 3,109",
+            "B": "₹ 4,119",
+            "C": "₹ 8,530",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 7
+    },
+    {
+        "question_number": "32",
+        "section": "PART-II",
+        "subject": "GENERAL STUDIES",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "GENERAL STUDIES",
+        "hindi_text": "एक उम्मीदवार को मतदान के 35% वोट मिले और वह अपने प्रतिद्वंदी से 2250 वोटों से हार गया। यदि मतदान के लिए केवल दो उम्मीदवार हों, तो कितने वोट पड़े?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "4700",
+            "B": "7500",
+            "C": "8600",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 7
+    },
+    {
+        "question_number": "33",
+        "section": "PART-II",
+        "subject": "GENERAL STUDIES",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "GENERAL STUDIES",
+        "hindi_text": "यदि किसी समान्तर श्रेणी के पहले 14 पदों का योग 1050 है और इसका पहला पद 10 है, तो इस समान्तर श्रेणी का 20वाँ पद है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "100",
+            "B": "150",
+            "C": "200",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 7
+    },
+    {
+        "question_number": "34",
+        "section": "PART-II",
+        "subject": "GENERAL STUDIES",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "GENERAL STUDIES",
+        "hindi_text": "₹ 10,000 मूल्य के गैजेट का मूल्य प्रति वर्ष 10% की दर से घट रहा है। कितने वर्षों में इसका मूल्य घटकर ₹ 6,561 हो जाएगा?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "7 वर्ष",
+            "B": "5 वर्ष",
+            "C": "4 वर्ष",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 7
+    },
+    {
+        "question_number": "35",
+        "section": "Part-II General Studies",
+        "subject": "Mathematics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "If 2 men and 3 women can do a piece of work in 8 days and 3 men and 2 women in 7 days, in how many days the work be done by 5 men and 4 women working together?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "3 days",
+            "B": "4 days",
+            "C": "5 days",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 8
+    },
+    {
+        "question_number": "36",
+        "section": "Part-II General Studies",
+        "subject": "Mathematics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "If 17th term of an arithmetic progression exceeds its 10th term by 7, then the common difference of the arithmetic progression is",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "2",
+            "B": "1",
+            "C": "-1",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 8
+    },
+    {
+        "question_number": "37",
+        "section": "Part-II General Studies",
+        "subject": "Mathematics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The ratio between the speeds of two trains is 7:8. If the second train runs 400 km in 4 hours, then the speed of the first train is",
+        "math_latex": "7:8",
+        "has_image": false,
+        "options": {
+            "A": "82·5 km/hr",
+            "B": "87·5 km/hr",
+            "C": "92·5 km/hr",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 8
+    },
+    {
+        "question_number": "38",
+        "section": "Part-II General Studies",
+        "subject": "Mathematics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The greatest number which on dividing 1657 and 2037 leaves remainders 6 and 5 respectively, is",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "121",
+            "B": "123",
+            "C": "127",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 8
+    },
+    {
+        "question_number": "35",
+        "section": "Part-II General Studies",
+        "subject": "Mathematics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "यदि 2 पुरुष और 3 महिलाएँ एक काम को 8 दिनों में तथा 3 पुरुष और 2 महिलाएँ 7 दिनों में कर सकते हैं, तो 5 पुरुष और 4 महिलाएँ एक साथ काम करके कितने दिनों में काम पूरा कर सकते हैं?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "3 दिन",
+            "B": "4 दिन",
+            "C": "5 दिन",
+            "D": "उपयुक्त में से एक से अधिक",
+            "E": "उपयुक्त में से कोई नहीं"
+        },
+        "source_page": 9
+    },
+    {
+        "question_number": "36",
+        "section": "Part-II General Studies",
+        "subject": "Mathematics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "यदि एक समान्तर श्रेणी का 17वाँ पद उसके 10वें पद से 7 अधिक है, तो उस समान्तर श्रेणी का सार्व अंतर है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "2",
+            "B": "1",
+            "C": "-1",
+            "D": "उपयुक्त में से एक से अधिक",
+            "E": "उपयुक्त में से कोई नहीं"
+        },
+        "source_page": 9
+    },
+    {
+        "question_number": "37",
+        "section": "Part-II General Studies",
+        "subject": "Mathematics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "दो ट्रेनों की गति के बीच का अनुपात 7:8 है। यदि दूसरी ट्रेन 4 घंटे में 400 कि० मी० चलती है, तो पहली ट्रेन की गति है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "82.5 कि० मी०/घंटा",
+            "B": "87.5 कि० मी०/घंटा",
+            "C": "92.5 कि० मी०/घंटा",
+            "D": "उपयुक्त में से एक से अधिक",
+            "E": "उपयुक्त में से कोई नहीं"
+        },
+        "source_page": 9
+    },
+    {
+        "question_number": "38",
+        "section": "Part-II General Studies",
+        "subject": "Mathematics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "वह सबसे बड़ी संख्या, जिसे 1657 और 2037 से भाग देने पर क्रमशः 6 और 5 शेष बचते हैं, होगी",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "121",
+            "B": "123",
+            "C": "127",
+            "D": "उपयुक्त में से एक से अधिक",
+            "E": "उपयुक्त में से कोई नहीं"
+        },
+        "source_page": 9
+    },
+    {
+        "question_number": "39",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The decomposers of dead organisms is/are",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "viruses",
+            "B": "bacteria",
+            "C": "fungi",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 10
+    },
+    {
+        "question_number": "40",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The material normally used to make core of an electromagnet is",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "soft iron",
+            "B": "stainless steel",
+            "C": "aluminium",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 10
+    },
+    {
+        "question_number": "41",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Ornithology is the study of",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "leaves",
+            "B": "bones",
+            "C": "birds",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 10
+    },
+    {
+        "question_number": "42",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Chandrayaan-3 satellite was launched by ISRO on",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "August 23, 2023",
+            "B": "July 14, 2023",
+            "C": "September 2, 2023",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 10
+    },
+    {
+        "question_number": "43",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Water enters from soil into root hairs of plants due to",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "atmospheric pressure",
+            "B": "capillarity",
+            "C": "osmotic pressure",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 10
+    },
+    {
+        "question_number": "44",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The compound which on dissolution in water makes it hard, is",
+        "math_latex": "CaCO_3, MgSO_4, Ca(HCO_3)_2",
+        "has_image": false,
+        "options": {
+            "A": "CaCO_3",
+            "B": "MgSO_4",
+            "C": "Ca(HCO_3)_2",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 10
+    },
+    {
+        "question_number": "45",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The pollen grains in water pollinated flowers are",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "light and smooth",
+            "B": "sticky",
+            "C": "dry",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 10
+    },
+    {
+        "question_number": "46",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which gland provides both endocrine and exocrine function?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Thyroid",
+            "B": "Adrenal",
+            "C": "Pancreas",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 10
+    },
+    {
+        "question_number": "39",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "मृत जीवों के अपघटक हैं",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "वायरस",
+            "B": "जीवाणु",
+            "C": "कवक",
+            "D": "उपयुक्त में से एक से अधिक",
+            "E": "उपयुक्त में से कोई नहीं"
+        },
+        "source_page": 11
+    },
+    {
+        "question_number": "40",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "विद्युत् चुम्बक का कोर बनाने के लिए सामान्यतः उपयोग की जाने वाली सामग्री है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "नरम लोहा",
+            "B": "स्टेनलेस स्टील",
+            "C": "अलuminium",
+            "D": "उपयुक्त में से एक से अधिक",
+            "E": "उपयुक्त में से कोई नहीं"
+        },
+        "source_page": 11
+    },
+    {
+        "question_number": "41",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "'ऑर्निथोलॉजी' अध्ययन है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "पत्तियों का",
+            "B": "हड्डियों का",
+            "C": "पक्षियों का",
+            "D": "उपयुक्त में से एक से अधिक",
+            "E": "उपयुक्त में से कोई नहीं"
+        },
+        "source_page": 11
+    },
+    {
+        "question_number": "42",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "ISRO द्वारा चन्द्रयान-3 को प्रक्षेपित किए जाने का दिनांक है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "अगस्त 23, 2023",
+            "B": "जुलाई 14, 2023",
+            "C": "सितम्बर 2, 2023",
+            "D": "उपयुक्त में से एक से अधिक",
+            "E": "उपयुक्त में से कोई नहीं"
+        },
+        "source_page": 11
+    },
+    {
+        "question_number": "43",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "पौधों की जड़ों में मृदा से जल प्रवेश का कारक है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "वायुदाब",
+            "B": "केशikatv",
+            "C": "ऑस्मोटिक दाब",
+            "D": "उपयुक्त में से एक से अधिक",
+            "E": "उपयुक्त में से कोई नहीं"
+        },
+        "source_page": 11
+    },
+    {
+        "question_number": "44",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "पानी में घुलने पर उसे कठोर बनाने वाला यौगिक है",
+        "english_text": "",
+        "math_latex": "CaCO_3, MgSO_4, Ca(HCO_3)_2",
+        "has_image": false,
+        "options": {
+            "A": "CaCO_3",
+            "B": "MgSO_4",
+            "C": "Ca(HCO_3)_2",
+            "D": "उपयुक्त में से एक से अधिक",
+            "E": "उपयुक्त में से कोई नहीं"
+        },
+        "source_page": 11
+    },
+    {
+        "question_number": "45",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "जल परागित पुष्पों में परागकण होते हैं",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "हल्के एवं चिकने",
+            "B": "चिपचिपे",
+            "C": "सूखे",
+            "D": "उपयुक्त में से एक से अधिक",
+            "E": "उपयुक्त में से कोई नहीं"
+        },
+        "source_page": 11
+    },
+    {
+        "question_number": "46",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "कौन-सी ग्रन्थि दोनों अंतःस्रावी एवं बाह्यस्रावी के रूप में कार्य करती है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "थाय्रॉयड",
+            "B": "एड्रीनल",
+            "C": "अग्न्याशय",
+            "D": "उपयुक्त में से एक से अधिक",
+            "E": "उपयुक्त में से कोई नहीं"
+        },
+        "source_page": 11
+    },
+    {
+        "question_number": "47",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which team won the FIFA Women's World Cup, 2023 football final?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "England",
+            "B": "Netherlands",
+            "C": "Spain",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 12
+    },
+    {
+        "question_number": "48",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The Exorcist, the first horror film to be nominated for a Best Picture Oscar whose director, William Friedkin, died recently at the age of 87, was based on a novel of the same name written by",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Dean Koontz",
+            "B": "William Peter Blatty",
+            "C": "Jack Ketchum",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 12
+    },
+    {
+        "question_number": "49",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Oommen Chandy, former CM of Kerala, who died recently, remained an MLA continuously for about 53 years from which constituency in Kerala?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Chalakudy",
+            "B": "Payyanur",
+            "C": "Pattambi",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 12
+    },
+    {
+        "question_number": "50",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which country was expelled the United Nations Commission on the Status of Women?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Iraq",
+            "B": "Iran",
+            "C": "Kuwait",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 12
+    },
+    {
+        "question_number": "47",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "फीफा महिला विश्व कप, 2023 फुटबॉल फाइनल किस टीम ने जीता?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "इंग्लैंड",
+            "B": "नीदरलैंड्स",
+            "C": "स्पेन",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 13
+    },
+    {
+        "question_number": "48",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "'द एक्सॉरसिस्ट' सर्वश्रेष्ठ पिक्चर ऑस्कर के लिए नामांकित होने वाली पहली डरावनी फिल्म है, जिसके निर्देशक विलियम फ्राइडकिन का हाल ही में 87 वर्ष की आयु में निधन हो गया, यह फिल्म इसी नाम से लिखे गए किसके उपन्यास पर आधारित है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "डीन कून्ट्ज़",
+            "B": "विलियम पीटर ब्लाटी",
+            "C": "जैक केचम",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 13
+    },
+    {
+        "question_number": "49",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "केरल के पूर्व सी० एम० ओमन चांडी, जिनका हाल ही में निधन हो गया, लगभग 53 वर्षों तक लगातार केरल के किस निर्वाचन-क्षेत्र से विधायक बने रहे?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "चालाकुडी",
+            "B": "पय्यान्नूर",
+            "C": "पट्टांबी",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 13
+    },
+    {
+        "question_number": "50",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "महिलाओं की स्थिति पर संयुक्त राष्ट्र आयोग द्वारा किस देश को निष्कासित किया गया था?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "इराक",
+            "B": "ईरान",
+            "C": "कुवैत",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 13
+    },
+    {
+        "question_number": "51",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which woman was killed during Hijab in police custody in Iran?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Mahsa Amini",
+            "B": "Hina Rabbani Khar",
+            "C": "Maryam Nawaz",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 14
+    },
+    {
+        "question_number": "52",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Who has the name of Ni-Kshay Mitra and the National Ambassador of Tuberculosis-free India campaign?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Anu Malik",
+            "B": "Deepa Malik",
+            "C": "Shiba Malik",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 14
+    },
+    {
+        "question_number": "53",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "How many astronauts are to be sent for how many days in the manned mission of H1 Gaganyaan?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "2 astronauts for 2 days",
+            "B": "3 astronauts for 5 days",
+            "C": "3 astronauts for 7 days",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 14
+    },
+    {
+        "question_number": "54",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Where did the Chief Minister M. K. Stalin unveiled the statue of Mahakavi Subramanya Bharathiyar?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Varanasi",
+            "B": "Rameshwaram",
+            "C": "Chennai",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 14
+    },
+    {
+        "question_number": "51",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "ईरान में हिजाब पुलिस हिरासत के दौरान किस महिला की मौत हो गई?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "महसा अमीनी",
+            "B": "हिना रब्बानी खार",
+            "C": "मरियम नवाज",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 15
+    },
+    {
+        "question_number": "52",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "क्षयरोग मुक्त भारत अभियान के राष्ट्रीय राजदूत और निश्चय मित्र का नाम क्या है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "अनु मलिक",
+            "B": "दीपा मलिक",
+            "C": "शीबा मलिक",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 15
+    },
+    {
+        "question_number": "53",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "H-1 गगनयान के मानव मिशन में कितने दिनों के लिए कितने अंतरिक्ष यात्रियों को भेजा जाना है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "2 अंतरिक्ष यात्री 2 दिनों के लिए",
+            "B": "3 अंतरिक्ष यात्री 5 दिनों के लिए",
+            "C": "3 अंतरिक्ष यात्री 7 दिनों के लिए",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 15
+    },
+    {
+        "question_number": "54",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "मुख्यमंत्री एम० के० स्टालिन ने कहाँ महाकवि सुब्रह्मण्यम भरथियार की प्रतिमा का अनावरण किया?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "वाराणसी",
+            "B": "रामेश्वरम",
+            "C": "चेन्नई",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 15
+    },
+    {
+        "question_number": "55",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following countries is sharing longest border with India?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Pakistan",
+            "B": "Myanmar",
+            "C": "Bangladesh",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 16
+    },
+    {
+        "question_number": "56",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following cities is located in the North of Tropic of Cancer?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Bhopal",
+            "B": "Aizawl",
+            "C": "Ranchi",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 16
+    },
+    {
+        "question_number": "57",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following rivers has largest catchment area?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Kalinadi",
+            "B": "Ponnani",
+            "C": "Periyar",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 16
+    },
+    {
+        "question_number": "58",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which type of climate is in eastern Bihar according to Thornthwaite's scheme?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "C2",
+            "B": "C1",
+            "C": "A",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 16
+    },
+    {
+        "question_number": "59",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Millets are called miracle grains and crops of the future. Why?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Drought-tolerant crops",
+            "B": "Require few external inputs",
+            "C": "Nutritionally comparable to rice and wheat",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 16
+    },
+    {
+        "question_number": "60",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The share of mountains in total land area of India is",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "30 percent",
+            "B": "27 percent",
+            "C": "40 percent",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 16
+    },
+    {
+        "question_number": "61",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Fossil fuels are examples of which type of resources?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Renewable",
+            "B": "Biological",
+            "C": "Non-renewable",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 16
+    },
+    {
+        "question_number": "62",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "From where was Chandrayaan-3 launched?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Paradeep",
+            "B": "Sriharikota",
+            "C": "Thumba",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 16
+    },
+    {
+        "question_number": "55",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "निम्नलिखित देशों में से किसकी भारत के साथ सबसे अधिक लम्बी सीमा है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "पाकिस्तान",
+            "B": "म्यांमार",
+            "C": "बांग्लादेश",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 17
+    },
+    {
+        "question_number": "56",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "निम्नलिखित नगरों में से कौन-सा नगर कर्क रेखा के उत्तर में अवस्थित है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "भोपाल",
+            "B": "आइजोल",
+            "C": "राँची",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 17
+    },
+    {
+        "question_number": "57",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "निम्नलिखित नदियों में से सबसे बड़ा जलग्रह-क्षेत्र किसका है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "कालीन्दी",
+            "B": "पोनानी",
+            "C": "पेरियार",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 17
+    },
+    {
+        "question_number": "58",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "थॉनवेट की योजना के अनुसार पूर्वी बिहार की जलवायु किस प्रकार की है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "C2",
+            "B": "C1",
+            "C": "A",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 17
+    },
+    {
+        "question_number": "59",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "मोटा अनाज को चमत्कारिक अनाज और भविष्य की फसल कहा जाता है। क्यों?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "सूखी सहिष्णु फसल",
+            "B": "कुछ बाहरी कारक की आवश्यकता है",
+            "C": "पोषण की दृष्टि से चावल और गेहूँ के बराबर",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 17
+    },
+    {
+        "question_number": "60",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "भारत के कुल भूमि-क्षेत्र में पर्वतों का हिस्सा है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "30 प्रतिशत",
+            "B": "27 प्रतिशत",
+            "C": "40 प्रतिशत",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 17
+    },
+    {
+        "question_number": "61",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "जीवाश्म ईधन किस प्रकार के संसाधनों के उदाहरण हैं?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "नवीकरणीय",
+            "B": "जैविक",
+            "C": "गैर-नवीकरणीय",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 17
+    },
+    {
+        "question_number": "62",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "चन्द्रयान-3 कहाँ से प्रक्षेपित किया गया था?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "पारादीप",
+            "B": "श्रीहरिकोटा",
+            "C": "थुम्बा",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 17
+    },
+    {
+        "question_number": "63",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Who was the 'political guru' of Mahatma Gandhi?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Dadabhai Naoroji",
+            "B": "M. G. Ranade",
+            "C": "Surendranath Banerjea",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 18
+    },
+    {
+        "question_number": "64",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Who decided to persuade Gandhiji to come to Champaran?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "S. N. Sinha",
+            "B": "Raj Kumar Shukla",
+            "C": "Surendranath Banerjea",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 18
+    },
+    {
+        "question_number": "65",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The Lucknow Pact took place in",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "1915",
+            "B": "1916",
+            "C": "1917",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 18
+    },
+    {
+        "question_number": "66",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The Non-Cooperation Movement was suspended in",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "1921",
+            "B": "1922",
+            "C": "1923",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 18
+    },
+    {
+        "question_number": "67",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Who started the Asiatic Society of Bengal in 1784?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Max Muller",
+            "B": "Charles William",
+            "C": "William Jones",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 18
+    },
+    {
+        "question_number": "68",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Who was the President of the Patna Session of Indian National Congress held in 1912?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "R. N. Mudholkar",
+            "B": "A. C. Majumdar",
+            "C": "Madan Mohan Malaviya",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 18
+    },
+    {
+        "question_number": "69",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "On the outbreak of 1942, the people proclaimed the establishment of a National Government under Siaram Singh at",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Patna",
+            "B": "Bhagalpur",
+            "C": "Champaran",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 18
+    },
+    {
+        "question_number": "70",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Who was the commander of the British army sent against Kunwar Singh during the 1857 Revolt?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "General Hewitt",
+            "B": "Sir Colin Campbell",
+            "C": "Sir Hugh Rose",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 18
+    },
+    {
+        "question_number": "63",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "महात्मा गाँधी का 'राजनीतिक गुरु' कौन था?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "दादाभाई नौरोजी",
+            "B": "एम० जी० रानाडे",
+            "C": "सुरेन्द्रनाथ बनर्जी",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 19
+    },
+    {
+        "question_number": "64",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "चम्पारण आने के लिए किसने गाँधीजी को राजी करने के लिए निर्णय लिया था?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "एस० एन० सिन्हा",
+            "B": "राजकुमार शुक्ल",
+            "C": "सुरेन्द्रनाथ बनर्जी",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 19
+    },
+    {
+        "question_number": "65",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "लखनऊ समझौता हुआ था",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "1915 में",
+            "B": "1916 में",
+            "C": "1917 में",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 19
+    },
+    {
+        "question_number": "66",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "असहयोग आन्दोलन को निलम्बित किया गया था",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "1921 में",
+            "B": "1922 में",
+            "C": "1923 में",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 19
+    },
+    {
+        "question_number": "67",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "1784 ई० में एशियाटिक सोसाइटी ऑफ़ बंगाल का आरम्भ किसने किया था?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "मैक्स मूलर",
+            "B": "चार्ल्स विलियम",
+            "C": "विलियम जोन्स",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 19
+    },
+    {
+        "question_number": "68",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "1912 में पटना में होने वाले भारतीय राष्ट्रीय काँग्रेस के अधिवेशन के अध्यक्ष कौन थे?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "आर० एन० मुधोलकर",
+            "B": "ए० सी० मजूमदार",
+            "C": "मदन मोहन मालवीय",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 19
+    },
+    {
+        "question_number": "69",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "1942 के आन्दोलन में लोगों ने सियाराम सिंह की अगुवाई में कहाँ पर राष्ट्रीय सरकार की स्थापना की घोषणा की थी?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "पटना",
+            "B": "भागलपुर",
+            "C": "चम्पारण",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 19
+    },
+    {
+        "question_number": "70",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "1857 के विद्रोह के दौरान ब्रिटिश सेना के किस सेनापति को कुँवर सिंह के विरुद्ध भेजा गया था?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "जेनरत हेविट",
+            "B": "सर कॉलिन कैम्पबेल",
+            "C": "सर ह्यू रोज़",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 19
+    },
+    {
+        "question_number": "71",
+        "section": "PART-III",
+        "subject": "EDUCATION AND SUBJECT RELATED QUESTIONS",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "PART-III ( EDUCATION AND SUBJECT RELATED QUESTIONS )",
+        "hindi_text": "",
+        "english_text": "The basic foundations of physical, mental and personality development are laid in the period of",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "adulthood",
+            "B": "adolescence",
+            "C": "childhood",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 20
+    },
+    {
+        "question_number": "72",
+        "section": "PART-III",
+        "subject": "EDUCATION AND SUBJECT RELATED QUESTIONS",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "PART-III ( EDUCATION AND SUBJECT RELATED QUESTIONS )",
+        "hindi_text": "",
+        "english_text": "According to Piaget, which of the following factors plays an important role in influencing development?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Reinforcement",
+            "B": "Language",
+            "C": "Experience with the physical world",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 20
+    },
+    {
+        "question_number": "73",
+        "section": "PART-III",
+        "subject": "EDUCATION AND SUBJECT RELATED QUESTIONS",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "PART-III ( EDUCATION AND SUBJECT RELATED QUESTIONS )",
+        "hindi_text": "",
+        "english_text": "Schools are social institutions because they",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "preserve and instill in future generations the knowledge, ideas, and customs of our culture",
+            "B": "suggest ways and means of social progress",
+            "C": "are established by the society",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 20
+    },
+    {
+        "question_number": "74",
+        "section": "PART-III",
+        "subject": "EDUCATION AND SUBJECT RELATED QUESTIONS",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "PART-III ( EDUCATION AND SUBJECT RELATED QUESTIONS )",
+        "hindi_text": "",
+        "english_text": "Which of the following is not a characteristic of slow learners?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "The educational attainment falls below the level of their natural abilities",
+            "B": "Possess low intelligence",
+            "C": "Unable to keep pace with the normal schoolwork",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 20
+    },
+    {
+        "question_number": "75",
+        "section": "PART-III",
+        "subject": "EDUCATION AND SUBJECT RELATED QUESTIONS",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "PART-III ( EDUCATION AND SUBJECT RELATED QUESTIONS )",
+        "hindi_text": "",
+        "english_text": "A child who reads 'dog' as 'God' or 'bat' as 'tab' falls in which category of learning disability?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Dyspraxia",
+            "B": "Dysgraphia",
+            "C": "Dysphasia",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 20
+    },
+    {
+        "question_number": "76",
+        "section": "PART-III",
+        "subject": "EDUCATION AND SUBJECT RELATED QUESTIONS",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "PART-III ( EDUCATION AND SUBJECT RELATED QUESTIONS )",
+        "hindi_text": "",
+        "english_text": "To inculcate protection and consolidation of democracy through education is one of the objectives of",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Kothari Education Commission (1964–66)",
+            "B": "National Policy of Education (1986)",
+            "C": "National Knowledge Commission (2007)",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 20
+    },
+    {
+        "question_number": "71",
+        "section": "PART-III",
+        "subject": "शिक्षा एवं विषय से संबंधित प्रश्न",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "PART-III ( शिक्षा एवं विषय से संबंधित प्रश्न )",
+        "hindi_text": "शारीरिक, मानसिक और व्यक्तित्व विकास की बुनियादी नींव किस काल में रखी जाती है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "वयस्कता",
+            "B": "किशोरावस्था",
+            "C": "बाल्यावस्था",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 21
+    },
+    {
+        "question_number": "72",
+        "section": "PART-III",
+        "subject": "शिक्षा एवं विषय से संबंधित प्रश्न",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "PART-III ( शिक्षा एवं विषय से संबंधित प्रश्न )",
+        "hindi_text": "पियाजे के अनुसार, निम्नलिखित में से कौन-सा कारक विकास को प्रभावित करने में महत्वपूर्ण भूमिका निभाता है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "सुदृढ़ीकरण",
+            "B": "भाषा",
+            "C": "भौतिक लोक के साथ अनुभव",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 21
+    },
+    {
+        "question_number": "73",
+        "section": "PART-III",
+        "subject": "शिक्षा एवं विषय से संबंधित प्रश्न",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "PART-III ( शिक्षा एवं विषय से संबंधित प्रश्न )",
+        "hindi_text": "विद्यालय सामाजिक संस्थाएँ होती हैं, क्योंकि वे",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "भविष्य की पीढ़ियों में हमारी संस्कृति के ज्ञान, विचारों और रीति-रिवाजों को संरक्षित और स्थापित करती हैं",
+            "B": "सामाजिक प्रगति के तरीकों और साधनों का सुझाव देती हैं",
+            "C": "सामाजिक समस्याओं के समाधान का सुझाव देती हैं",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 21
+    },
+    {
+        "question_number": "74",
+        "section": "PART-III",
+        "subject": "शिक्षा एवं विषय से संबंधित प्रश्न",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "PART-III ( शिक्षा एवं विषय से संबंधित प्रश्न )",
+        "hindi_text": "निम्नलिखित में से कौन-सी धीमी गति से सीखने वालों की विशेषता नहीं है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "शैक्षिक उपलब्धि उनकी प्राकृतिक क्षमताओं के स्तर से नीचे होती है",
+            "B": "कम बुद्धि का होना",
+            "C": "सामान्य स्कूल के काम के साथ तालमेल रखने में असमर्थ",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 21
+    },
+    {
+        "question_number": "75",
+        "section": "PART-III",
+        "subject": "शिक्षा एवं विषय से संबंधित प्रश्न",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "PART-III ( शिक्षा एवं विषय से संबंधित प्रश्न )",
+        "hindi_text": "एक बच्चा, जो 'डॉग' को 'गॉड' या 'बैट' को 'टैब' के रूप में पढ़ता है, वह अधिगम अक्षमता की किस श्रेणी में आता है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "डिस्प्रैक्सिया",
+            "B": "डिस्ग्राफिया",
+            "C": "डिस्पैसिया",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 21
+    },
+    {
+        "question_number": "76",
+        "section": "PART-III",
+        "subject": "शिक्षा एवं विषय से संबंधित प्रश्न",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "PART-III ( शिक्षा एवं विषय से संबंधित प्रश्न )",
+        "hindi_text": "\"शिक्षा के माध्यम से लोकतंत्र के संरक्षण और सुदृढ़ीकरण को विकसित करना\" किस आयोग का उद्देश्य है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "कोठारी शिक्षा आयोग (1964-66)",
+            "B": "शिक्षा की राष्ट्रीय नीति (1986)",
+            "C": "राष्ट्रीय ज्ञान आयोग (2007)",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 21
+    },
+    {
+        "question_number": "77",
+        "section": "General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Who advocated, \"We do not want mass production but we want production for the masses\"?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Vivekananda",
+            "B": "Mahatma Gandhi",
+            "C": "J. Krishnamurti",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 22
+    },
+    {
+        "question_number": "78",
+        "section": "General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Epistemology is the branch of Philosophy which deals with the theories of",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "knowledge",
+            "B": "reality",
+            "C": "existence",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 22
+    },
+    {
+        "question_number": "79",
+        "section": "General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which one of the following categories of Fundamental Rights incorporates 'abolition of untouchability'?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Right to Religion",
+            "B": "Right to Freedom",
+            "C": "Right to Equality",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 22
+    },
+    {
+        "question_number": "80",
+        "section": "General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Religion acts as a great barrier in social change because",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "it depends on social gatherings",
+            "B": "it is based on faith",
+            "C": "it preaches values",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 22
+    },
+    {
+        "question_number": "81",
+        "section": "General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Insightful theory of learning is given by",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Thorndike",
+            "B": "Kohler",
+            "C": "Gardener",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 22
+    },
+    {
+        "question_number": "82",
+        "section": "General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following statements regarding internal forces of motivation is true?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "They are more important to understand than external forces of motivation",
+            "B": "They are less important to understand than external forces of motivation",
+            "C": "They are as important as external forces of motivation",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 22
+    },
+    {
+        "question_number": "83",
+        "section": "General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The best way to react to wrong answer given by a student is",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "to scold him for not having learnt lesson",
+            "B": "to ignore the wrong answer and pass on to the next question",
+            "C": "to explain why the answer is wrong",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 22
+    },
+    {
+        "question_number": "77",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Education",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "“हम बड़े पैमाने पर उत्पादन नहीं चाहते, लेकिन हम जनता के लिए उत्पादन चाहते हैं” की वकालत किसने की?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "विवेकानंद",
+            "B": "महात्मा गाँधी",
+            "C": "जे० कृष्णमूर्ति",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 23
+    },
+    {
+        "question_number": "78",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Education",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "ज्ञानमीमांसा दर्शनशास्त्र की वह शाखा है, जो ________ के सिद्धांतों से संबंधित है।",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "ज्ञान",
+            "B": "वास्तविकता",
+            "C": "अस्तित्व",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 23
+    },
+    {
+        "question_number": "79",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Education",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "मौलिक अधिकारों की निम्नलिखित में से किस श्रेणी में 'अस्पृश्यता का उन्मूलन' शामिल है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "धर्म का अधिकार",
+            "B": "स्वतंत्रता का अधिकार",
+            "C": "समानता का अधिकार",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 23
+    },
+    {
+        "question_number": "80",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Education",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "धर्म सामाजिक परिवर्तन में एक बड़ी बाधा के रूप में कार्य करता है, क्योंकि",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "यह सामाजिक समारोहों पर निर्भर करता है",
+            "B": "यह विश्वास पर आधारित है",
+            "C": "यह मूल्यों का प्रचार करता है",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 23
+    },
+    {
+        "question_number": "81",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Education",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "अधिगम का अंतर्दृष्टिपूर्ण सिद्धांत किसके द्वारा दिया गया है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "थॉर्न्डाइक",
+            "B": "कोहलर",
+            "C": "गार्डनर",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 23
+    },
+    {
+        "question_number": "82",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Education",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "प्रेरणा का आंतरिक बलों के संबंध में, निम्नलिखित में से कौन-सा कथन सत्य है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "प्रेरणा के बाहरी बलों की तुलना में उन्हें समझना अधिक महत्त्वपूर्ण है।",
+            "B": "प्रेरणा के बाहरी बलों की तुलना में उन्हें समझना कम महत्त्वपूर्ण है।",
+            "C": "वे प्रेरणा के बाहरी बलों के रूप में महत्त्वपूर्ण हैं।",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 23
+    },
+    {
+        "question_number": "83",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Education",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "एक छात्र द्वारा दिए गए गलत उत्तर पर प्रतिक्रिया करने का सबसे अच्छा तरीका है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "सबक न सीखने के लिए उसे डाँटना",
+            "B": "गलत उत्तर को अनदेखा करने और अगले प्रश्न पर आगे बढ़ें",
+            "C": "उसे समझाना कि उत्तर क्यों गलत है",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 23
+    },
+    {
+        "question_number": "84",
+        "section": "Part-III Subject Paper",
+        "subject": "Pedagogy / General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The sequence of steps of lesson planning is\n1. Presentation\n2. Setting of general objectives\n3. Introduction\n4. Homework\n5. Recapitulation\nGive your answer from the following options :",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "1, 2, 3, 4, 5",
+            "B": "2, 3, 1, 4, 5",
+            "C": "2, 3, 1, 5, 4",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 24
+    },
+    {
+        "question_number": "85",
+        "section": "Part-III Subject Paper",
+        "subject": "Pedagogy / General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "A situation where a group of people meet to generate few ideas around a specific area of interest is known as",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "brainstorming",
+            "B": "indoctrination",
+            "C": "simulated teaching",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 24
+    },
+    {
+        "question_number": "86",
+        "section": "Part-III Subject Paper",
+        "subject": "Pedagogy / General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The process of being fair to men and women is also termed as",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "gender sensitivity",
+            "B": "gender equity",
+            "C": "gender awareness",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 24
+    },
+    {
+        "question_number": "87",
+        "section": "Part-III Subject Paper",
+        "subject": "Pedagogy / General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following is the compilation of information maintained in the school for the student?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Authentic record",
+            "B": "Cumulative record",
+            "C": "Anecdotal record",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 24
+    },
+    {
+        "question_number": "88",
+        "section": "Part-III Subject Paper",
+        "subject": "Pedagogy / General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "According to Article ______ of the Constitution, Hindi written in Devanagari script is the official language of India.",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "343",
+            "B": "345",
+            "C": "351",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 24
+    },
+    {
+        "question_number": "89",
+        "section": "Part-III Subject Paper",
+        "subject": "Pedagogy / General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following is not the characteristic of Philosophy?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Philosophy is discipline based on experience, speculation and logic, not empirical one",
+            "B": "Philosophy is subjective and not objective discipline",
+            "C": "Philosophy is not related to logical analysis of ultimate reality of the universe",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 24
+    },
+    {
+        "question_number": "84",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "पाठ योजना के सोपानकों का क्रम ______ होता है।\n1. प्रस्तुति\n2. सामान्य उद्देश्यों की स्थापना\n3. परिचय\n4. गृहकार्य\n5. पुनरावृत्ति\nनिम्नलिखित विकल्पों में से अपना उत्तर चुनिए :",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "1, 2, 3, 4, 5",
+            "B": "2, 3, 1, 4, 5",
+            "C": "2, 3, 1, 5, 4",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 25
+    },
+    {
+        "question_number": "85",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "एक ऐसी स्थिति, जहाँ लोगों का एक समूह रुचि के एक विशिष्ट क्षेत्र के बारे में कुछ विचार करने के लिए मिलता है, को जाना जाता है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "ब्रेन स्टॉर्मिंग",
+            "B": "अनुदेशन",
+            "C": "अनुकरण शिक्षण",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 25
+    },
+    {
+        "question_number": "86",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "पुरुषों और महिलाओं के लिए निष्पक्ष होने की प्रक्रिया को भी ______ कहा जाता है।",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "लिंग संवेदनशीलता",
+            "B": "लिंग समानता",
+            "C": "लिंग जागरूकता",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 25
+    },
+    {
+        "question_number": "87",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "निम्नलिखित में से कौन-सा रिकॉर्ड विद्यालय में छात्र के लिए अनूरक्षित सूचनाओं का संकलन है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "प्रामाणिक रिकॉर्ड",
+            "B": "संचयी रिकॉर्ड",
+            "C": "उपाख्यानात्मक रिकॉर्ड",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 25
+    },
+    {
+        "question_number": "88",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "संविधान के अनुच्छेद ______ के अनुसार, भारत की आधिकारिक भाषा में हिन्दी, देवनागरी लिपि में लिखी जाती है।",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "343",
+            "B": "345",
+            "C": "351",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 25
+    },
+    {
+        "question_number": "89",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "निम्नलिखित में से कौन-सी दर्शनशास्त्र की विशेषता नहीं है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "दर्शनशास्त्र अनुभव, अटकलॉं और तर्क पर आधारित अनुशासन है, प्रयोगसिद्ध नहीं",
+            "B": "दर्शनशास्त्र व्यक्तिपरक है न कि वस्तुनिष्ठ अनुशासन",
+            "C": "दर्शनशास्त्र, ब्रह्माण्ड की परम वास्तविकता का तार्किक विश्लेषण से संबंधित नहीं है",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 25
+    },
+    {
+        "question_number": "90",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Democracy as an ideology is based on the principle that",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "the individual must be willing to sacrifice his life for the protection of the country",
+            "B": "country is more important than the individual",
+            "C": "integrity of the individual is worth protecting at any cost",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 26
+    },
+    {
+        "question_number": "91",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The term 'vicarious reinforcement' is related with",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Skinner",
+            "B": "Hull",
+            "C": "Bandura",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 26
+    },
+    {
+        "question_number": "92",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following types of learning comes after multiple discrimination in the Gagne's hierarchy of learning?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Learning of Concepts",
+            "B": "Verbal Association Learning",
+            "C": "Learning of Principles",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 26
+    },
+    {
+        "question_number": "93",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The essence of Pavlov's classical conditioning is",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "response generalization",
+            "B": "stimulus substitution",
+            "C": "behaviour modification",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 26
+    },
+    {
+        "question_number": "94",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "A child first learnt to fear its mother, then its aunt, and now it fears any women. This is an example of",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "transfer of learning",
+            "B": "stimulus generalization",
+            "C": "response set",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 26
+    },
+    {
+        "question_number": "95",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following is known as the 'Magna Carta' of modern Indian education?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Education Commission (1966)",
+            "B": "National Policy (1986)",
+            "C": "Wood's Dispatch (1854)",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 26
+    },
+    {
+        "question_number": "96",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The science that deals with the things which are beyond physical appearance is known as",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Nanotechnology",
+            "B": "Parapsychology",
+            "C": "Metaphysics",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 26
+    },
+    {
+        "question_number": "90",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "लोकतंत्र एक विचारधारा के रूप में इस सिद्धांत पर आधारित है कि",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "व्यक्ति को देश की सुरक्षा के लिए अपने जीवन का बलिदान करने के लिए तैयार रहना चाहिए",
+            "B": "देश व्यक्ति से ज्यादा महत्त्वपूर्ण है",
+            "C": "व्यक्ति की अखंडता की किसी भी कीमत पर रक्षा की जानी चाहिए",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 27
+    },
+    {
+        "question_number": "91",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "'प्रतिस्थानिक पुनर्बलन' पद किससे संबंधित है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "स्किनर",
+            "B": "हल",
+            "C": "बान्डुरा",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 27
+    },
+    {
+        "question_number": "92",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "गैने के अधिगम सोपान में विभेदी अधिगम के बाद कौन-सा अधिगम आता है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "प्रत्यय अधिगम",
+            "B": "शाब्दिक साहचर्य अधिगम",
+            "C": "सिद्धांत अधिगम",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 27
+    },
+    {
+        "question_number": "93",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "पावलव के क्लासिकल अनुबंधन सिद्धांत का सार है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "अनुक्रिया सामान्यीकरण",
+            "B": "उद्दीपक प्रतिस्थापन",
+            "C": "व्यवहार का उन्नयन",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 27
+    },
+    {
+        "question_number": "94",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "एक बालक पहले अपनी माता से फिर अपनी चाची से और फिर सभी महिलाओं से भय महसूस करता है। यह उदाहरण है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "अधिगम अन्तरण का",
+            "B": "उद्दीपक सामान्यीकरण का",
+            "C": "अनुक्रिया चर का",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 27
+    },
+    {
+        "question_number": "95",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "निम्नलिखित में से किसे आधुनिक भारतीय शिक्षा का 'मैग्ना कार्टा' कहते हैं?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "शिक्षा आयोग (1966)",
+            "B": "राष्ट्रीय नीति (1986)",
+            "C": "वुड्स डिस्पैच (1954)",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 27
+    },
+    {
+        "question_number": "96",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "वह विज्ञान, जो उन वस्तुओं का अध्ययन करता है और भौतिक दर्शन से परे है, कहलाता है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "नैनoteknology (नैनoteknology / नैनोटेक्नोलॉजी)",
+            "B": "परामनोविज्ञान",
+            "C": "तत्त्वमीमांसा",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 27
+    },
+    {
+        "question_number": "97",
+        "section": "Part-III Subject Paper",
+        "subject": "Mathematics / Physics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Let $p \\ge 5$ be a prime. Then",
+        "math_latex": "Let p \\ge 5 be a prime. Then",
+        "has_image": false,
+        "options": {
+            "A": "\\mathbb{F}_p \\times \\mathbb{F}_p has at least five subgroups of order p",
+            "B": "every subgroup of \\mathbb{F}_p \\times \\mathbb{F}_p is of the form H_1 \\times H_2, where H_1, H_2 are subgroups of \\mathbb{F}_p",
+            "C": "every subgroup of \\mathbb{F}_p \\times \\mathbb{F}_p is an ideal of the ring \\mathbb{F}_p \\times \\mathbb{F}_p",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 28
+    },
+    {
+        "question_number": "98",
+        "section": "Part-III Subject Paper",
+        "subject": "Mathematics / Physics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Let p be a prime number and N_p be the number of pairs of positive integers (x, y) such that \\frac{1}{x} + \\frac{1}{y} = \\frac{1}{p^4}. Which among the following is possible values of N_p?",
+        "math_latex": "Let p be a prime number and N_p be the number of pairs of positive integers (x, y) such that \\frac{1}{x} + \\frac{1}{y} = \\frac{1}{p^4}. Which among the following is possible values of N_p?",
+        "has_image": false,
+        "options": {
+            "A": "0",
+            "B": "4",
+            "C": "9",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 28
+    },
+    {
+        "question_number": "99",
+        "section": "Part-III Subject Paper",
+        "subject": "Mathematics / Physics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Let the general integral of the partial differential equation (2xy - 1)\\frac{\\partial z}{\\partial x} + (z - 2x^2)\\frac{\\partial z}{\\partial y} = 2(x - yz) be given by F(u, v) = 0, where F : \\mathbb{R}^2 \\to \\mathbb{R} is a continuously differentiable function. (\\mathbb{R} is the set of all real numbers and \\mathbb{R}^2 = \\{(x, y) : x, y \\in \\mathbb{R}\\}) Then which of the following is true?",
+        "math_latex": "Let the general integral of the partial differential equation (2xy - 1)\\frac{\\partial z}{\\partial x} + (z - 2x^2)\\frac{\\partial z}{\\partial y} = 2(x - yz) be given by F(u, v) = 0, where F : \\mathbb{R}^2 \\to \\mathbb{R} is a continuously differentiable function. (\\mathbb{R} is the set of all real numbers and \\mathbb{R}^2 = \\{(x, y) : x, y \\in \\mathbb{R}\\}) Then which of the following is true?",
+        "has_image": false,
+        "options": {
+            "A": "u = x^2 + y^2 + z, \\ v = xz + y",
+            "B": "u = x^2 + y^2 - z, \\ v = xz - y",
+            "C": "u = x^2 - y^2 + z, \\ v = yz + x",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 28
+    },
+    {
+        "question_number": "100",
+        "section": "Part-III Subject Paper",
+        "subject": "Mathematics / Physics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The period T and radius R of the circular orbit of a planet about the Sun are related by (Note : M_S is the mass of the Sun, G is gravitational constant)",
+        "math_latex": "The period T and radius R of the circular orbit of a planet about the Sun are related by (Note : M_S is the mass of the Sun, G is gravitational constant)",
+        "has_image": false,
+        "options": {
+            "A": "T^2 = \\left(\\frac{4\\pi^2}{GM_S}\\right)R^3",
+            "B": "T^3 = \\left(\\frac{4\\pi^2}{GM_S}\\right)R^2",
+            "C": "T = \\left(\\frac{4\\pi^2}{GM_S}\\right)R^3",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 28
+    },
+    {
+        "question_number": "101",
+        "section": "Part-III Subject Paper",
+        "subject": "Mathematics / Physics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "A conducting rod of length l is moving with a constant velocity \\vec{v} in a magnetic field. A potential difference appears across the two ends, if",
+        "math_latex": "A conducting rod of length l is moving with a constant velocity \\vec{v} in a magnetic field. A potential difference appears across the two ends, if",
+        "has_image": false,
+        "options": {
+            "A": "rod length is parallel to \\vec{v}",
+            "B": "\\vec{v} is parallel to \\vec{B}",
+            "C": "rod length is parallel to \\vec{B}",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 28
+    },
+    {
+        "question_number": "102",
+        "section": "Part-III Subject Paper",
+        "subject": "Mathematics / Physics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "A light bulb and an open coil inductor are connected to an a.c. source in series through a switch. The switch is closed and after some time, an iron rod is inserted into the interior of the coil inductor. As the iron rod is inserted, the glow of the light bulb",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "decreases",
+            "B": "increases",
+            "C": "is unchanged",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 28
+    },
+    {
+        "question_number": "97",
+        "section": "Part-III Subject Paper",
+        "subject": "Mathematics / Physics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "मान लीजिए कि $p \\ge 5$ एक अविभाज्य संख्या है, तो\n(A) $\\mathbb{F}_p \\times \\mathbb{F}_p$ के कोटि $p$ के कम-से-कम पाँच उपसमूह हैं\n(B) $\\mathbb{F}_p \\times \\mathbb{F}_p$ का प्रत्येक उपसमूह $H_1 \\times H_2$ रूप का है, जहाँ $H_1, H_2$, $\\mathbb{F}_p$ के उपसमूह हैं\n(C) $\\mathbb{F}_p \\times \\mathbb{F}_p$ का प्रत्येक उपसमूह, वलय $\\mathbb{F}_p \\times \\mathbb{F}_p$ का एक आदर्श है\n(D) उपर्युक्त में से एक से अधिक\n(E) उपर्युक्त में से कोई नहीं",
+        "english_text": "",
+        "math_latex": "p \\ge 5, \\quad \\mathbb{F}_p \\times \\mathbb{F}_p, \\quad H_1 \\times H_2",
+        "has_image": false,
+        "options": {
+            "A": "$\\mathbb{F}_p \\times \\mathbb{F}_p$ के कोटि $p$ के कम-से-कम पाँच उपसमूह हैं",
+            "B": "$\\mathbb{F}_p \\times \\mathbb{F}_p$ का प्रत्येक उपसमूह $H_1 \\times H_2$ रूप का है, जहाँ $H_1, H_2$, $\\mathbb{F}_p$ के उपसमूह हैं",
+            "C": "$\\mathbb{F}_p \\times \\mathbb{F}_p$ का प्रत्येक उपसमूह, वलय $\\mathbb{F}_p \\times \\mathbb{F}_p$ का एक आदर्श है",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 29
+    },
+    {
+        "question_number": "98",
+        "section": "Part-III Subject Paper",
+        "subject": "Mathematics / Physics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "मान लीजिए कि $p$ एक अभाज्य संख्या है और $N_p$ धनात्मक पूर्णांकों $(x, y)$ के युग्मों की संख्या इस प्रकार है कि $\\frac{1}{x} + \\frac{1}{y} = \\frac{1}{p^4}$\nनिम्नलिखित में से $N_p$ का संभावित मान कौन-सा है?\n(A) 0\n(B) 4\n(C) 9\n(D) उपर्युक्त में से एक से अधिक\n(E) उपर्युक्त में से कोई नहीं",
+        "english_text": "",
+        "math_latex": "N_p, \\quad (x, y), \\quad \\frac{1}{x} + \\frac{1}{y} = \\frac{1}{p^4}",
+        "has_image": false,
+        "options": {
+            "A": "0",
+            "B": "4",
+            "C": "9",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 29
+    },
+    {
+        "question_number": "99",
+        "section": "Part-III Subject Paper",
+        "subject": "Mathematics / Physics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "मान लीजिए कि आंशिक अवकल समीकरण $(2xy - 1)\\frac{\\partial z}{\\partial x} + (z - 2x^2)\\frac{\\partial z}{\\partial y} = 2(x - yz)$ का सामान्य समाकलन $F(u, v) = 0$ द्वारा दिया गया है, जहाँ $F: \\mathbb{R}^2 \\to \\mathbb{R}$ एक निरंतर अवकल समीकरण ($\\mathbb{R}$ सभी वास्तविक संख्याओं का समुच्चय है और $\\mathbb{R}^2 = \\{(x, y) : x, y \\in \\mathbb{R}\\}$), निम्नलिखित में से कौन-सा सत्य है?\n(A) $u = x^2 + y^2 + z, \\ v = xz + y$\n(B) $u = x^2 + y^2 - z, \\ v = xz - y$\n(C) $u = x^2 - y^2 + z, \\ v = yz + x$\n(D) उपर्युक्त में से एक से अधिक\n(E) उपर्युक्त में से कोई नहीं",
+        "english_text": "",
+        "math_latex": "(2xy - 1)\\frac{\\partial z}{\\partial x} + (z - 2x^2)\\frac{\\partial z}{\\partial y} = 2(x - yz), \\quad F(u, v) = 0, \\quad F: \\mathbb{R}^2 \\to \\mathbb{R}, \\quad \\mathbb{R}^2 = \\{(x, y) : x, y \\in \\mathbb{R}\\}, \\quad u = x^2 + y^2 + z, \\ v = xz + y",
+        "has_image": false,
+        "options": {
+            "A": "$u = x^2 + y^2 + z, \\ v = xz + y$",
+            "B": "$u = x^2 + y^2 - z, \\ v = xz - y$",
+            "C": "$u = x^2 - y^2 + z, \\ v = yz + x$",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 29
+    },
+    {
+        "question_number": "100",
+        "section": "Part-III Subject Paper",
+        "subject": "Mathematics / Physics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "सूर्य के चारों ओर किसी ग्रह की वृत्ताकार कक्षा की अवधि $T$ और त्रिज्या $R$ संबंधित हैं\n(टिप्पणी : $M_s$ सूर्य का द्रव्यमान है, $G$ गुरुत्वाकर्षण स्थिरांक है)\n(A) $T^2 = \\left(\\frac{4\\pi^2}{GM_s}\\right) R^3$ से\n(B) $T^3 = \\left(\\frac{4\\pi^2}{GM_s}\\right) R^2$ से\n(C) $T = \\left(\\frac{4\\pi^2}{GM_s}\\right) R^3$ से\n(D) उपर्युक्त में से एक से अधिक\n(E) उपर्युक्त में से कोई नहीं",
+        "english_text": "",
+        "math_latex": "T, \\quad R, \\quad M_s, \\quad G, \\quad T^2 = \\left(\\frac{4\\pi^2}{GM_s}\\right) R^3, \\quad T^3 = \\left(\\frac{4\\pi^2}{GM_s}\\right) R^2, \\quad T = \\left(\\frac{4\\pi^2}{GM_s}\\right) R^3",
+        "has_image": false,
+        "options": {
+            "A": "$T^2 = \\left(\\frac{4\\pi^2}{GM_s}\\right) R^3$ से",
+            "B": "$T^3 = \\left(\\frac{4\\pi^2}{GM_s}\\right) R^2$ से",
+            "C": "$T = \\left(\\frac{4\\pi^2}{GM_s}\\right) R^3$ से",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 29
+    },
+    {
+        "question_number": "101",
+        "section": "Part-III Subject Paper",
+        "subject": "Mathematics / Physics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "लंबाई $l$ की एक चालक छड़ चुंबकीय क्षेत्र में स्थिर वेग $\\vec{v}$ से घूम रही है। दोनों सिरों पर एक विभव अंतर दिखाई देता है, यदि\n(A) छड़ की लंबाई $\\vec{v}$ के समानांतर है\n(B) $\\vec{v}$ और $\\vec{B}$ समानांतर हैं\n(C) छड़ की लंबाई $\\vec{B}$ के समानांतर है\n(D) उपर्युक्त में से एक से अधिक\n(E) उपर्युक्त में से कोई नहीं",
+        "english_text": "",
+        "math_latex": "l, \\quad \\vec{v}, \\quad \\vec{B}",
+        "has_image": false,
+        "options": {
+            "A": "छड़ की लंबाई $\\vec{v}$ के समानांतर है",
+            "B": "$\\vec{v}$ और $\\vec{B}$ समानांतर हैं",
+            "C": "छड़ की लंबाई $\\vec{B}$ के समानांतर है",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 29
+    },
+    {
+        "question_number": "102",
+        "section": "Part-III Subject Paper",
+        "subject": "Mathematics / Physics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "एक प्रकाश बल्ब और एक खुला कुंडल प्रेरक एक स्विच के माध्यम से श्रृंखला में एक ए० सी० स्रोत से जुड़े हुए हैं। स्विच बंद कर दिया जाता है और कुछ समय बाद, कुंडल प्रेरक के अंदरूनी हिस्से में एक लोहे की छड़ डाली जाती है। जैसे ही लोहे की छड़ डाली जाती है, प्रकाश बल्ब की चमक\n(A) कम हो जाती है\n(B) बढ़ जाती है\n(C) अपरिवर्तित रहती है\n(D) उपर्युक्त में से एक से अधिक\n(E) उपर्युक्त में से कोई नहीं",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "कम हो जाती है",
+            "B": "बढ़ जाती है",
+            "C": "अपरिवर्तित रहती है",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 29
+    },
+    {
+        "question_number": "103",
+        "section": "Part-III Subject Paper",
+        "subject": "Chemistry/Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "According to Maxwell-Boltzmann law of distribution, average kinetic energy is",
+        "math_latex": "\\frac{1}{2}kT",
+        "has_image": false,
+        "options": {
+            "A": "\\frac{1}{2}kT",
+            "B": "kT per mol",
+            "C": "\\frac{3}{2}kT per mol",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 30
+    },
+    {
+        "question_number": "104",
+        "section": "Part-III Subject Paper",
+        "subject": "Chemistry/Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Transition metals are often paramagnetic owing to",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "high MP and BP",
+            "B": "the presence of vacant orbitals",
+            "C": "the presence of unpaired electrons",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 30
+    },
+    {
+        "question_number": "105",
+        "section": "Part-III Subject Paper",
+        "subject": "Chemistry/Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Ascorbic acid is a",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "protein",
+            "B": "vitamin",
+            "C": "carbohydrate",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 30
+    },
+    {
+        "question_number": "106",
+        "section": "Part-III Subject Paper",
+        "subject": "Biology/Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Genetic recombination and first indication of sexuality in bacteria was discovered by",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Lederberg and Tatum",
+            "B": "Griffith",
+            "C": "Wollman",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 30
+    },
+    {
+        "question_number": "107",
+        "section": "Part-III Subject Paper",
+        "subject": "Biology/Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The diseases produced by fungus Ustilago are known as 'smuts' because",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "the affected hosts become completely black",
+            "B": "they produce sooty masses of spores",
+            "C": "their mycelium is black",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 30
+    },
+    {
+        "question_number": "108",
+        "section": "Part-III Subject Paper",
+        "subject": "Biology/Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The 80s ribosomes are present in",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "eukaryotic cells",
+            "B": "prokaryotic cells",
+            "C": "bacterial cells",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 30
+    },
+    {
+        "question_number": "103",
+        "section": "Part-III Subject Paper",
+        "subject": "Physics/Science",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "मैक्सवेल-बोल्ट्ज़मान के वितरण नियम के अनुसार, औसत गतिज ऊर्जा है",
+        "english_text": "",
+        "math_latex": "\\frac{1}{2}kT",
+        "has_image": false,
+        "options": {
+            "A": "\\frac{1}{2}kT",
+            "B": "kT प्रति मोल",
+            "C": "\\frac{3}{2}kT प्रति मोल",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 31
+    },
+    {
+        "question_number": "104",
+        "section": "Part-III Subject Paper",
+        "subject": "Chemistry/Science",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "संक्रमण तत्त्व प्रायः अनुचुंबकीय होते हैं",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "उच्च गलनांक एवं कथनांक के कारण",
+            "B": "रिक्त कक्षकों की उपस्थिति के कारण",
+            "C": "अयुग्मित इलेक्ट्रॉनों की उपस्थिति के कारण",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 31
+    },
+    {
+        "question_number": "105",
+        "section": "Part-III Subject Paper",
+        "subject": "Chemistry/Science",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "ऐस्कॉर्बिक अम्ल है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "प्रोटीन",
+            "B": "विटामिन",
+            "C": "कार्बोहाइड्रेट",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 31
+    },
+    {
+        "question_number": "106",
+        "section": "Part-III Subject Paper",
+        "subject": "Biology/Science",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "आनुवंशिक पुनर्विन्यास एवं सेक्सुअलिटी का प्रथम संकेत की जीवाणु में खोज की थी",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "लेडरबर्ग एवं टैटम ने",
+            "B": "ग्रिफिथ ने",
+            "C": "वॉलमैन ने",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 31
+    },
+    {
+        "question_number": "107",
+        "section": "Part-III Subject Paper",
+        "subject": "Biology/Science",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "अस्टीलेगो कवक द्वारा पैदा होने वाली बीमारी 'स्मट' को कहा जाता है, क्योंकि",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "प्रभावित मेजबान (होस्ट) पूरी तरह काला हो जाता है",
+            "B": "वे बीजाणुओं के कालिकयुक्त पुंज बनाते हैं",
+            "C": "उनका मायसिलियम काला होता है",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 31
+    },
+    {
+        "question_number": "108",
+        "section": "Part-III Subject Paper",
+        "subject": "Biology/Science",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "80s राइबोसोम पाये जाते हैं",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "यūkैर्योटिक कोशिकाओं में",
+            "B": "प्रोकैर्योटिक कोशिकाओं में",
+            "C": "जीवाणु कोशिकाओं में",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 31
+    },
+    {
+        "question_number": "109",
+        "section": "Part-III Subject Paper",
+        "subject": "Computer Science / Biology",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Identify the hormone that causes the smooth uterine muscle to contract during animal parturition, which is released by the pituitary gland.",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Vasopressin",
+            "B": "Oxytocin",
+            "C": "Prolactin",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 32
+    },
+    {
+        "question_number": "110",
+        "section": "Part-III Subject Paper",
+        "subject": "Computer Science / Biology",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "If the sequence of bases in DNA is TACCGACCA, then the sequence of codons on the transcript will be",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "ATGGCTGGT",
+            "B": "AUGGCUGGU",
+            "C": "AUGGACUAA",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 32
+    },
+    {
+        "question_number": "111",
+        "section": "Part-III Subject Paper",
+        "subject": "Computer Science / Biology",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Whose experiments cracked the DNA and discovered unequivocally that a genetic code is 'triplet'?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Hershey and Chase",
+            "B": "Nirenberg and Matthaei",
+            "C": "Beadle and Tatum",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 32
+    },
+    {
+        "question_number": "112",
+        "section": "Part-III Subject Paper",
+        "subject": "Computer Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which data structure is used for implementing a Last-In-First-Out (LIFO) behavior?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Queue",
+            "B": "Dequeue",
+            "C": "Tree",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 32
+    },
+    {
+        "question_number": "113",
+        "section": "Part-III Subject Paper",
+        "subject": "Computer Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Through which technique, the speed imbalance between 'memory access' and CPU operation can be reduced?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Memory interleaving",
+            "B": "Cache memory",
+            "C": "Reducing the size of memory",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 32
+    },
+    {
+        "question_number": "114",
+        "section": "Part-III Subject Paper",
+        "subject": "Computer Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The Boolean expression X = (A + B)(C + D) represents",
+        "math_latex": "X = (A + B)(C + D)",
+        "has_image": false,
+        "options": {
+            "A": "two ORs ANDed together",
+            "B": "two ANDs ORed together",
+            "C": "a 4-input AND gate",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 32
+    },
+    {
+        "question_number": "109",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Computer Science",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "उस हॉर्मोन की पहचान कीजिए, जो पशु के प्रसव के दौरान पिट्यूटरी ग्रंथि द्वारा स्रावित होकर गर्भाशय की चिकनी माँसपेशियों के सिकुड़ने का कारण बनता है।",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "वैसोप्रेसिन",
+            "B": "ऑक्सीटोसिन",
+            "C": "प्रोलैक्टिन",
+            "D": "उपयुक्त में से एक से अधिक",
+            "E": "उपयुक्त में से कोई नहीं"
+        },
+        "source_page": 33
+    },
+    {
+        "question_number": "110",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Computer Science",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "यदि डी० एन० ए० में आधारों का क्रम TACCGACCA है, तो प्रतिलेख पर कोडॉनों का क्रम होगा",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "ATGGCTGGT",
+            "B": "AUGGCUGGU",
+            "C": "AUGGACUAA",
+            "D": "उपयुक्त में से एक से अधिक",
+            "E": "उपयुक्त में से कोई नहीं"
+        },
+        "source_page": 33
+    },
+    {
+        "question_number": "111",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Computer Science",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "किनके प्रयोगों ने डी० एन० ए० को तोड़ दिया और स्पष्ट रूप से पता लगाया कि एक आनुवंशिक कोड 'ट्रिप्लेट' है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "हर्श और चेज़",
+            "B": "नirenबर्ग और मथई",
+            "C": "बीडल और टैटम",
+            "D": "उपयुक्त में से एक से अधिक",
+            "E": "उपयुक्त में से कोई नहीं"
+        },
+        "source_page": 33
+    },
+    {
+        "question_number": "112",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Computer Science",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "लास्ट-इन-फर्स्ट-आउट (LIFO) व्यवहार को लागू करने के लिए किस डेटा संरचना का उपयोग किया जाता है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "क्यू",
+            "B": "डिक्यू",
+            "C": "ट्री",
+            "D": "उपयुक्त में से एक से अधिक",
+            "E": "उपयुक्त में से कोई नहीं"
+        },
+        "source_page": 33
+    },
+    {
+        "question_number": "113",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Computer Science",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "किस तकनीक के माध्यम से 'मेमोरी ऐक्सेस' और सी० पी० यू० ऑपरेशन के बीच गति असंतुलन को कम किया जा सकता है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "मेमोरी इन्टरलीविंग",
+            "B": "कैश मेमोरी",
+            "C": "मेमोरी साइज़ को घटाना",
+            "D": "उपयुक्त में से एक से अधिक",
+            "E": "उपयुक्त में से कोई नहीं"
+        },
+        "source_page": 33
+    },
+    {
+        "question_number": "114",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Computer Science",
+        "language": "bilingual",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "बूलियन व्यंजक X = (A + B)(C + D) क्या दर्शाता है?",
+        "english_text": "Boolean expression X = (A + B)(C + D) represents what?",
+        "math_latex": "X = (A + B)(C + D)",
+        "has_image": false,
+        "options": {
+            "A": "two ORs ANDed together",
+            "B": "two ANDs ORed together",
+            "C": "a 4-input AND gate",
+            "D": "उपयुक्त में से एक से अधिक",
+            "E": "उपयुक्त में से कोई नहीं"
+        },
+        "source_page": 33
+    },
+    {
+        "question_number": "115",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / History / Geography",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "“The only man (Bismarck) who could juggle with five balls of which at least two were always in air.” Who said it?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Garibaldi",
+            "B": "German emperor, Kaiser William-I",
+            "C": "D. M. Ketelbey",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 34
+    },
+    {
+        "question_number": "116",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / History / Geography",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Mudrarakshasa of Vishakhadatta throws light on the reign of",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Ashoka",
+            "B": "Bindusara",
+            "C": "Chandragupta Maurya",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 34
+    },
+    {
+        "question_number": "117",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / History / Geography",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The Indian sepoys fired and attacked their officers in which part of Bihar?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Santhal Pargana",
+            "B": "Muzaffarpur",
+            "C": "Gonda",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 34
+    },
+    {
+        "question_number": "118",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / History / Geography",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Igneous rocks are formed from",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "compression and heating of existing rocks",
+            "B": "accumulation of organic matter",
+            "C": "solidification of magma or lava",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 34
+    },
+    {
+        "question_number": "119",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / History / Geography",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following is a correct statement about India?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "India has total geographical area of 3.187 million square kilometer.",
+            "B": "It is the 6th largest country of the world.",
+            "C": "India has a coastline of 6700 km in mainland.",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 34
+    },
+    {
+        "question_number": "120",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / History / Geography",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "What is the total length of the Golden Quadrilateral, the highway network connecting four major cities in India?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "4552 km",
+            "B": "5846 km",
+            "C": "7538 km",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 34
+    },
+    {
+        "question_number": "115",
+        "section": "General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "\"केवल वही व्यक्ति (बिस्मार्क) एक ऐसा बाज़ीगर था जो एकसाथ पाँच गेंदों के साथ खेल सकता था और दो को तो हवा में उछालता रहता था।' किसने कहा?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "गैरीबॉल्डी",
+            "B": "जर्मन सम्राट, काइज़र विलियम प्रथम",
+            "C": "डी० एम० कैटलबी",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 35
+    },
+    {
+        "question_number": "116",
+        "section": "General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "विशाखदत्त रचित 'मुद्राराक्षस' किसके काल पर प्रकाश डालती है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "अशोक",
+            "B": "बिंदुसार",
+            "C": "चंद्रगुप्त मौर्य",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 35
+    },
+    {
+        "question_number": "117",
+        "section": "General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "भारतीय सैनिकों ने अपने अफसरों पर बिहार के किस हिस्से में गोली चलाई और आक्रमण किया?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "संथाल परगना",
+            "B": "मुजफ्फरपुर",
+            "C": "गोंडा",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 35
+    },
+    {
+        "question_number": "118",
+        "section": "General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "आग्नेय चट्टानों का निर्माण होता है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "मौजूदा चट्टानों के संपीड़न और तापन से",
+            "B": "कार्बनिक पदार्थ के संचयन से",
+            "C": "मैग्मा या लावा के जमने से",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 35
+    },
+    {
+        "question_number": "119",
+        "section": "General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "भारत के बारे में, निम्नलिखित में से कौन-सा कथन सही है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "भारत का कुल भौगोलिक क्षेत्रफल 3.187 मिलियन वर्ग किलोमीटर है।",
+            "B": "यह विश्व का छठा सबसे बड़ा देश है।",
+            "C": "भारत की मुख्य भूमि पर समुद्रतट 6700 किलोमीटर है।",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 35
+    },
+    {
+        "question_number": "120",
+        "section": "General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "भारत के चार प्रमुख शहरों को जोड़ने वाले राजमार्ग नेटवर्क, 'स्वर्णिम चतुर्भुज' की कुल लंबाई कितनी है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "4552 कि० मी०",
+            "B": "5846 कि० मी०",
+            "C": "7538 कि० मी०",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 35
+    },
+    {
+        "question_number": "121",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Education",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Who said, \"Children pass through the various stages of moral development which are age-related\"?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Piaget",
+            "B": "Kohlberg",
+            "C": "Erickson",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 36
+    },
+    {
+        "question_number": "122",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Education",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which one is the second stage of memory process?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Storage",
+            "B": "Sensory input",
+            "C": "Encoding",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 36
+    },
+    {
+        "question_number": "123",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Education",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Who considered emotional intelligence 'as the ability to monitor one's own and other's emotions, to discriminate them, and to use the information to guide one's thinking and actions'?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Goleman",
+            "B": "Salovey and Mayer",
+            "C": "Baron",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 36
+    },
+    {
+        "question_number": "124",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Political Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which school of thought has established 'power' as the axis of political science?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Paris school",
+            "B": "Chicago school",
+            "C": "Cambridge school",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 36
+    },
+    {
+        "question_number": "125",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Political Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Kautilya has explained the four branches of knowledge in which of the following series?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Anvikshiki-Varta-Trai-Dandniti",
+            "B": "Trai-Varta-Anvikshiki-Dandniti",
+            "C": "Varta-Trai-Dandniti-Anvikshiki",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 36
+    },
+    {
+        "question_number": "126",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Polity",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The Sixth Schedule of the Indian Constitution makes special administrative provisions with regards to the tribal areas of",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Assam, Rajasthan, Tripura and Bihar",
+            "B": "Assam, Meghalaya, Tripura and Mizoram",
+            "C": "Bihar, Odisha, Mizoram and West Bengal",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 36
+    },
+    {
+        "question_number": "121",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Education",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "किसने कहा, “बच्चे नैतिक विकास की विभिन्न अवस्थाओं से गुजरते हैं, जो आयु से संबंधित होती हैं”?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "प्याजे",
+            "B": "कोहलबर्ग",
+            "C": "एरिकसन",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 37
+    },
+    {
+        "question_number": "122",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Education",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "स्मृति-प्रक्रिया की द्वितीय अवस्था कौन-सी है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "भण्डारण",
+            "B": "संवेदी इनपुट",
+            "C": "कूट संकेतन",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 37
+    },
+    {
+        "question_number": "123",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Education",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "किसने माना कि सांवेगिक बुद्धि में ‘अपने स्वयं के और दूसरों के संवेगों को नियंत्रित करने की योग्यता, उनमें भेदभाव करने और किसी के चिन्तन और कार्य का मार्गदर्शन करने के लिए, इस जानकारी का उपयोग करने की क्षमता है’?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "गोलमैन",
+            "B": "सैलोवी एवं मेयर",
+            "C": "बारॉन",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 37
+    },
+    {
+        "question_number": "124",
+        "section": "Part-III Subject Paper",
+        "subject": "Political Science",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "किस विचार सम्प्रदाय ने ‘शक्ति’ को राजनीति विज्ञान की धुरी के रूप में प्रतिष्ठित किया है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "पेरिस सम्प्रदाय (स्कूल)",
+            "B": "शिकागो सम्प्रदाय (स्कूल)",
+            "C": "कैम्ब्रिज सम्प्रदाय (स्कूल)",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 37
+    },
+    {
+        "question_number": "125",
+        "section": "Part-III Subject Paper",
+        "subject": "Political Science",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "कौटिल्य ने निम्नलिखित में से ज्ञान की कौन-सी चार शाखाओं का उल्लेख किया है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "आन्वीक्षिकी-वार्ता-त्रयी-दण्डनीति",
+            "B": "त्रयी-वार्ता-आन्वीक्षिकी-दण्डनीति",
+            "C": "वार्ता-त्रयी-दण्डनीति-आन्वीक्षिकी",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 37
+    },
+    {
+        "question_number": "126",
+        "section": "Part-III Subject Paper",
+        "subject": "Political Science",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "भारतीय संविधान की छठी अनुसूची के अन्तर्गत विशेष प्रशासनिक प्रावधान निम्नलिखित में से किन जनजातीय क्षेत्रों के लिए किए गए हैं?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "असम, राजस्थान, त्रिपुरा एवं बिहार",
+            "B": "असम, मेघालय, त्रिपुरा एवं मिजोरम",
+            "C": "बिहार, ओडिशा, मिजोरम एवं पश्चिम बंगाल",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 37
+    },
+    {
+        "question_number": "127",
+        "section": "Part-III Subject Paper",
+        "subject": "Economics / General Studies",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "If the percentage change in demand is -7.5%, and the percentage change in price is 5%, then price elasticity of demand shall be",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "1.5",
+            "B": "0",
+            "C": "2.5",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 38
+    },
+    {
+        "question_number": "128",
+        "section": "Part-III Subject Paper",
+        "subject": "Economics / General Studies",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The Mudra loans for Bihar increased in 2019-20 by",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "₹ 9,531·12 crores",
+            "B": "₹ 9,513·12 crores",
+            "C": "₹ 9,561·12 crores",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 38
+    },
+    {
+        "question_number": "129",
+        "section": "Part-III Subject Paper",
+        "subject": "Economics / General Studies",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The other name of macro-economics is",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "income and employment theory",
+            "B": "price theory",
+            "C": "distribution theory",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 38
+    },
+    {
+        "question_number": "130",
+        "section": "Part-III Subject Paper",
+        "subject": "Economics / General Studies",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which one of the following, based on the belief of sanctity of habit and obedience to a person, has a position of divisional power?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Feudal power",
+            "B": "Traditional authority",
+            "C": "Miraculous authority",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 38
+    },
+    {
+        "question_number": "131",
+        "section": "Part-III Subject Paper",
+        "subject": "Economics / General Studies",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "National Scheduled Tribe Commission was formed through which of the following Constitutional Amendments?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "89th",
+            "B": "90th",
+            "C": "91st",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 38
+    },
+    {
+        "question_number": "132",
+        "section": "Part-III Subject Paper",
+        "subject": "Economics / General Studies",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Who is the author of the book, Kinship Organization in India?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Irawati Karve",
+            "B": "G. S. Ghurye",
+            "C": "M. N. Srinivas",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 38
+    },
+    {
+        "question_number": "127",
+        "section": "Part-III Subject Paper",
+        "subject": "Economics / General Studies",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "यदि माँग में प्रतिशत परिवर्तन -7.5% तथा कीमत में प्रतिशत परिवर्तन 5% है, तो माँग की कीमत लोच होगी",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "1.5",
+            "B": "0",
+            "C": "2.5",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 39
+    },
+    {
+        "question_number": "128",
+        "section": "Part-III Subject Paper",
+        "subject": "Economics / General Studies",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "बिहार में 2019-20 में मुद्रा ऋण बढ़े",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "₹ 9,531·12 करोड़",
+            "B": "₹ 9,513·12 करोड़",
+            "C": "₹ 9,561·12 करोड़",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 39
+    },
+    {
+        "question_number": "129",
+        "section": "Part-III Subject Paper",
+        "subject": "Economics / General Studies",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "मैक्रो-अर्थशास्त्र का दूसरा नाम है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "आय तथा रोज़गार सिद्धांत",
+            "B": "कीमत सिद्धांत",
+            "C": "वितरण सिद्धांत",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 39
+    },
+    {
+        "question_number": "130",
+        "section": "Part-III Subject Paper",
+        "subject": "Economics / General Studies",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "निम्नलिखित में से कौन-सा एक आदत की पवित्रता और एक व्यक्ति के प्रति आज्ञाकारिता की आस्था पर आधारित है, जिसकी एक प्रथागत सत्ता की स्थिति है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "सामन्ती सत्ता",
+            "B": "परम्परागत सत्ता",
+            "C": "चमत्कारी सत्ता",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 39
+    },
+    {
+        "question_number": "131",
+        "section": "Part-III Subject Paper",
+        "subject": "Economics / General Studies",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "राष्ट्रीय अनुसूचित जनजाति आयोग का गठन निम्नलिखित में से किस संविधान संशोधन के जरिए हुआ?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "89वाँ",
+            "B": "90वाँ",
+            "C": "91वाँ",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 39
+    },
+    {
+        "question_number": "132",
+        "section": "Part-III Subject Paper",
+        "subject": "Economics / General Studies",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "किनशिप ऑર્ગेनाइजेशन इन इण्डिया नामक पुस्तक के लेखक कौन हैं?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "इरावती कर्वे",
+            "B": "जी० एस० घुर्ये",
+            "C": "एम० एन० श्रीनिवास",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 39
+    },
+    {
+        "question_number": "133",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Commerce / Science",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which gland controls basal metabolic rate (BMR)?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Thyroid",
+            "B": "Pancreas",
+            "C": "Testes",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 40
+    },
+    {
+        "question_number": "134",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Commerce / Science",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The Nirmal Bharat Abhiyan (NBA) goals universal toilet coverage by the year",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "2020",
+            "B": "2022",
+            "C": "2024",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 40
+    },
+    {
+        "question_number": "135",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Commerce / Science",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "'Cold sterilization' refers to the preservation of food by",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "dehydration",
+            "B": "radiation",
+            "C": "refrigeration",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 40
+    },
+    {
+        "question_number": "136",
+        "section": "Part-III Subject Paper",
+        "subject": "Accountancy",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Accounting equation means",
+        "math_latex": "Capital - Liabilities = Profit",
+        "has_image": false,
+        "options": {
+            "A": "Capital \\text{ -- } \\text{ Liabilities } = \\text{ Profit}",
+            "B": "Assets = Equities",
+            "C": "Current Assets + \\text{ Current Liabilities } = \\text{ Long-term Liabilities}",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 40
+    },
+    {
+        "question_number": "137",
+        "section": "Part-III Subject Paper",
+        "subject": "Accountancy",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Repairing incurred before using a second hand motor car purchased recently is a",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "revenue expenditure",
+            "B": "deferred revenue expenditure",
+            "C": "capital expenditure",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 40
+    },
+    {
+        "question_number": "138",
+        "section": "Part-III Subject Paper",
+        "subject": "Accountancy",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "$x$ and $y$ are sharing Profits and Losses in the ratio of $3:2$. They admit $z$ as a partner and give him $2/10 \\text{th}$ share of the profits. The new profit-sharing ratio will be",
+        "math_latex": "x \\text{ and } y \\text{ ratio } 3:2, \\text{ admit } z \\text{ for } 2/10",
+        "has_image": false,
+        "options": {
+            "A": "12:8:5",
+            "B": "6:4:4",
+            "C": "3:2:2",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 40
+    },
+    {
+        "question_number": "133",
+        "section": "Part-III Subject Paper",
+        "subject": "Commerce / General Studies",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "कौन-सी ग्रंथि बेसल मेटाबोलिक दर (बी० एम० आर०) को प्रभावित करती है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "थायराइड",
+            "B": "अग्न्याशय",
+            "C": "टेस्टीज़",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 41
+    },
+    {
+        "question_number": "134",
+        "section": "Part-III Subject Paper",
+        "subject": "Commerce / General Studies",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "निर्मल भारत अभियान का उद्देश्य सन् ____ तक सार्वभौमिक शौचालय कवरेज है।",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "2020",
+            "B": "2022",
+            "C": "2024",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 41
+    },
+    {
+        "question_number": "135",
+        "section": "Part-III Subject Paper",
+        "subject": "Commerce / General Studies",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "‘शीत विसंक्रमण’ से तात्पर्य है खाद्य का संरक्षण ____ द्वारा किया जाए।",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "डीहाइड्रेशन",
+            "B": "रेडिएशन",
+            "C": "रेफ्रिजरेशन",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 41
+    },
+    {
+        "question_number": "136",
+        "section": "Part-III Subject Paper",
+        "subject": "Commerce",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "लेखांकन समीकरण का अर्थ है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "पूँजी - दायित्व = लाभ",
+            "B": "सम्पत्तियाँ = समता",
+            "C": "चल सम्पत्तियाँ + चल दायित्व = दीर्घकालीन दायित्व",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 41
+    },
+    {
+        "question_number": "137",
+        "section": "Part-III Subject Paper",
+        "subject": "Commerce",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "हाल ही में क्रय की गयी पुरानी मोटर गाड़ी के उपयोग से पूर्व मरम्मत का व्यय है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "आगम व्यय",
+            "B": "आस्थगित आगम व्यय",
+            "C": "पूँजीगत व्यय",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 41
+    },
+    {
+        "question_number": "138",
+        "section": "Part-III Subject Paper",
+        "subject": "Commerce",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "x एवं y, 3:2 के अनुपात में लाभ-हानि बाँटते हैं। उन्होंने z को लाभ में 2/10वाँ भाग देकर फर्म में साझेदार बनाया। लाभ-विभाजन का नया अनुपात होगा",
+        "english_text": "",
+        "math_latex": "x : y = 3 : 2, z = \\frac{2}{10}",
+        "has_image": false,
+        "options": {
+            "A": "12:8:5",
+            "B": "6:4:4",
+            "C": "3:2:2",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 41
+    },
+    {
+        "question_number": "139",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Music",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "What measures has the government taken to solve the problem of finance and marketing in the small-scale sector?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Setting up of Small Industries Development Bank of India (SIDBI)",
+            "B": "Providing credit guarantee scheme for MSMEs",
+            "C": "Launching of Prime Minister's Employment Generation Programme (PMEGP)",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 42
+    },
+    {
+        "question_number": "140",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Music",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "What is the Export Promotion Capital Goods (EPCGs) scheme?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "A scheme that allows exporters to import capital goods at zero duty",
+            "B": "A scheme that provides financial assistance to exporters for marketing their products in foreign countries",
+            "C": "A scheme that provides subsidies to exporters for setting up new production facilities in foreign countries",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 42
+    },
+    {
+        "question_number": "141",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Music",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "PSEs are organizations owned by",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "joint Hindu family",
+            "B": "government",
+            "C": "foreign companies",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 42
+    },
+    {
+        "question_number": "142",
+        "section": "Part-III Subject Paper",
+        "subject": "Music",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "'Dundubhi' is classified as",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Ghana Vadya",
+            "B": "Sushir Vadya",
+            "C": "Avanadha Vadya",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 42
+    },
+    {
+        "question_number": "143",
+        "section": "Part-III Subject Paper",
+        "subject": "Music",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Tabla is tuned for accompaniment on",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Nishad Swar",
+            "B": "Shadaj Swar",
+            "C": "Rishabh Swar",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 42
+    },
+    {
+        "question_number": "144",
+        "section": "Part-III Subject Paper",
+        "subject": "Music",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "How many Dhatus of Prabandha have been accepted?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 42
+    },
+    {
+        "question_number": "139",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Subject",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "लघु-उद्योग क्षेत्र में वित्त एवं विपणन की समस्या के समाधान के लिए सरकार ने क्या उपाय किये हैं?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "भारतीय लघु उद्योग विकास बैंक (SIDBI) की स्थापना",
+            "B": "एम० एस० एम० ई० के लिए क्रेडिट गारंटी योजना प्रदान करना",
+            "C": "प्रधानमंत्री रोजगार सृजन कार्यक्रम (पी० एम० ई० जी० पी०) का शुभारंभ",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 43
+    },
+    {
+        "question_number": "140",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Subject",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "एक्सपोर्ट प्रमोशन कैपिटल गुड्स (ई० पी० सी० जी०) स्कीम क्या है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "एक योजना, जो निर्यातकों को शून्य शुल्क पर पूँजीगत सामान आयात करने की अनुमति देती है",
+            "B": "एक योजना, जो निर्यातकों को विदेशों में अपने उत्पादों के विपणन के लिए वित्तीय सहायता प्रदान करती है",
+            "C": "एक योजना, जो निर्यातकों को विदेशों में नई उत्पादन सुविधाएँ स्थापित करने के लिए सब्सिडी प्रदान करती है",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 43
+    },
+    {
+        "question_number": "141",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Subject",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "सार्वजनिक उपक्रम (PSEs) किसके स्वामित्व वाले संगठन हैं?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "संयुक्त हिंदू परिवार",
+            "B": "सरकार",
+            "C": "विदेशी कम्पनियाँ",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 43
+    },
+    {
+        "question_number": "142",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Subject",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "'दुन्दुभी' किस श्रेणी का वाद्य है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "घन वाद्य",
+            "B": "सुषिर वाद्य",
+            "C": "अवनद्ध वाद्य",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 43
+    },
+    {
+        "question_number": "143",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Subject",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "संगत के लिए तबला किस स्वर पर मिलाया जाता है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "निषाद स्वर",
+            "B": "षड्ज स्वर",
+            "C": "ऋषभ स्वर",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 43
+    },
+    {
+        "question_number": "144",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Subject",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "प्रबन्ध के कितने धातु मान्य हैं?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 43
+    },
+    {
+        "question_number": "145",
+        "section": "Part-III Subject Paper",
+        "subject": "Philosophy / Management / Commerce",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Esse est percipi is the doctrine of",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Russell",
+            "B": "Hobbes",
+            "C": "Berkeley",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 44
+    },
+    {
+        "question_number": "146",
+        "section": "Part-III Subject Paper",
+        "subject": "Philosophy / Management / Commerce",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Sankhya theory of Satkaryavada says",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "the effect is fully different from the cause",
+            "B": "there is an invariable relation between the cause and the effect",
+            "C": "the effect is pre-existed in the cause in a latent form",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 44
+    },
+    {
+        "question_number": "147",
+        "section": "Part-III Subject Paper",
+        "subject": "Philosophy / Management / Commerce",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Religious fundamentalism looks for",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "literal interpretation of religion",
+            "B": "liberal interpretation of religion",
+            "C": "rigid interpretation of religion",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 44
+    },
+    {
+        "question_number": "148",
+        "section": "Part-III Subject Paper",
+        "subject": "Philosophy / Management / Commerce",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which principle of general management advocates that \"Employee turnover should be minimized to maintain organizational efficiency\"?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Stability of personnel",
+            "B": "Remuneration of employees",
+            "C": "Equity",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 44
+    },
+    {
+        "question_number": "149",
+        "section": "Part-III Subject Paper",
+        "subject": "Philosophy / Management / Commerce",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following statements does not highlight the relationship between planning and controlling?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Planning and controlling are separable twins of management.",
+            "B": "Planning without controlling is meaningless, controlling without planning is blind.",
+            "C": "Planning is prescriptive, controlling is evaluative.",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 44
+    },
+    {
+        "question_number": "150",
+        "section": "Part-III Subject Paper",
+        "subject": "Philosophy / Management / Commerce",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Stock Exchange works as a mechanism for valuation of securities through the forces of demand and supply. Identify the related functions performed by the stock exchanges.",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Providing liquidity and marketability to existing securities",
+            "B": "Safety of transaction",
+            "C": "Pricing of security",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 44
+    },
+    {
+        "question_number": "145",
+        "section": "Part-III Subject Paper",
+        "subject": "Management / General Studies",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "एसे इस्ट पर्सीपी का सिद्धांत है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "रसेल का",
+            "B": "हॉब्स का",
+            "C": "बर्कले का",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 45
+    },
+    {
+        "question_number": "146",
+        "section": "Part-III Subject Paper",
+        "subject": "Management / General Studies",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "सत्कार्यवाद का सांख्य सिद्धांत कहता है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "प्रभाव, कारण से पूरी तरह से अलग है",
+            "B": "कारण और प्रभाव के बीच एक अपरिवर्तनीय संबंध है",
+            "C": "लैटरल फॉर्म में प्रभाव पहले ही कारण में मौजूद है",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 45
+    },
+    {
+        "question_number": "147",
+        "section": "Part-III Subject Paper",
+        "subject": "Management / General Studies",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "धार्मिक कट्टरवाद को किसकी तलाश है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "धर्म की शाब्दिक व्याख्या",
+            "B": "धर्म की उदार व्याख्या",
+            "C": "धर्म की कठोर व्याख्या",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 45
+    },
+    {
+        "question_number": "148",
+        "section": "Part-III Subject Paper",
+        "subject": "Management / General Studies",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "सामान्य प्रबंधन का कौन-सा सिद्धांत इस बात की वकालत करता है कि “संगठननात्मक दक्षता बनाए रखने के लिए कर्मचारी टर्नओवर को कम किया जाना चाहिए”?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "कर्मियों की स्थिरता",
+            "B": "कर्मचारियों का पारिश्रमिक",
+            "C": "इक्विटी",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 45
+    },
+    {
+        "question_number": "149",
+        "section": "Part-III Subject Paper",
+        "subject": "Management / General Studies",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "निम्नलिखित में से कौन-सा कथन नियोजन और नियंत्रण के बीच संबंध पर प्रकाश नहीं डालता है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "योजना और नियंत्रण प्रबंधन के अलग-अलग जुड़वाँ हैं।",
+            "B": "नियंत्रण के बिना योजना निरर्थक है, योजना के बिना नियंत्रण अंधा है।",
+            "C": "योजना निर्देशात्मक है, नियंत्रण मूल्यांकनत्मक है।",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 45
+    },
+    {
+        "question_number": "150",
+        "section": "Part-III Subject Paper",
+        "subject": "Management / General Studies",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "स्टॉक एक्सचेंज माँग और आपूर्ति की ताकतों के माध्यम से प्रतिभूतियों के मूल्यांकन के लिए एक तंत्र के रूप में काम करता है। स्टॉक एक्सचेंजों द्वारा निष्पादित संबंधित कार्यों की पहचान कीजिए।",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "मौजूदा प्रतिभूतियों को तरलता और विपणन क्षमता प्रदान करना",
+            "B": "लेनदेन की सुरक्षा",
+            "C": "सुरक्षा का मूल्य-निर्धारण",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 45
+    }
+]

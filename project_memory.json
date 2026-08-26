@@ -1,0 +1,31 @@
+{
+  "project_id": "02_frankbase.com",
+  "domain": "https://frankbase.com",
+  "role": "Main Education & Knowledge Hub (BSEB 10th/12th & BPSC TRE 4.0 Practice Engine)",
+  "language_rule": "100% Pure Hindi Medium (No cognitive friction for Bihar students)",
+  "authentication_layer": {
+    "status": "OPERATIONAL",
+    "provider": "FrankBase ID (Google OAuth + Fast ID Guest Profile)",
+    "local_persistence": "localStorage (profile + test history)",
+    "modal_integration": "Universal header & mobile drawer component"
+  },
+  "bpsc_tre_engine": {
+    "target_exam": "BPSC TRE 4.0 (Pre Screening + Mains Final Merit)",
+    "subject_focus": "TGT Class 9-10 & PGT Class 11-12 Mathematics (80 Marks) + GS (40 Marks)",
+    "scroll_architecture": "Continuous full-vertical scroll across Mobile and PC (Zero screen-change lag)",
+    "practice_modes": {
+      "practice_mode": "Interactive full question list with instant step-by-step Hindi explanations and KaTeX math",
+      "quiz_mode": "Real-time 150-minute timed mock test with 1/3 negative marking (0.333 penalty) and OMR scorecard",
+      "formula_capsules": "1-Page downloadable Math theorem & formula cheatsheets"
+    },
+    "integrated_datasets": [
+      "TRE 1.0 (2023) TGT Math Paper-1 (120 Questions)",
+      "TRE 2.0 (2023) TGT Math Paper-2 (150 Questions)",
+      "TRE 3.0 (2024) TGT Math Paper (150 Questions)",
+      "घातांक और करणी (Indices & Surds) Chapter Mock"
+    ]
+  },
+  "content_flywheel": "BPSC study notes converted directly to 1-page formula capsules & interactive quiz sets",
+  "authority_backlink": "High-authority CTA card on founder pages pointing to mastermanikant.com",
+  "last_updated": "2026-08-23T22:00:00+05:30"
+}

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CTET परीक्षा अभ्यास</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&family=Tiro+Devanagari+Hindi:ital@0;1&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>CTET परीक्षा अभ्यास</h1>
+            <div id="score-board">
+                <span>प्रश्न: <span id="current-question">0</span>/<span id="total-questions">0</span></span>
+                <span>स्कोर: <span id="score">0</span></span>
+            </div>
+        </header>
+
+        <main id="quiz-container">
+            <div id="loading">प्रश्न लोड हो रहे हैं...</div>
+            
+            <div id="question-box" class="hidden">
+                <div class="question-text" id="question"></div>
+                <div class="options-container" id="options">
+                    <!-- Options will be injected here -->
+                </div>
+                
+                <div class="controls">
+                    <button id="show-answer-btn" class="btn secondary">उत्तर देखें</button>
+                    <button id="next-btn" class="btn primary">अगला प्रश्न</button>
+                </div>
+
+                <div id="explanation" class="hidden">
+                    <h3>व्याख्या:</h3>
+                    <p id="explanation-text"></p>
+                </div>
+            </div>
+
+            <div id="result-box" class="hidden">
+                <h2>अभ्यास समाप्त!</h2>
+                <p>आपका कुल स्कोर: <span id="final-score"></span></p>
+                <button onclick="location.reload()" class="btn primary">पुनः प्रयास करें</button>
+            </div>
+        </main>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

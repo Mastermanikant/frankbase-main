@@ -1,0 +1,27 @@
+# Universal Project Gitignore
+node_modules/
+package-lock.json
+vendor/
+venv/
+.venv/
+__pycache__/
+
+dist/
+build/
+_site/
+.wrangler/
+.next/
+.turbo/
+.cache/
+tmp/
+*.log
+
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+.DS_Store
+Thumbs.db
+desktop.ini

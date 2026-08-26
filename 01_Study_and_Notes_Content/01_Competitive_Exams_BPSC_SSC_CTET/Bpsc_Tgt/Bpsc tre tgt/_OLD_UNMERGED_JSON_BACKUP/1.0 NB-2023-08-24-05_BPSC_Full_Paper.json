@@ -1,0 +1,4802 @@
+[
+    {
+        "question_number": "1",
+        "section": "Part-III Subject Paper",
+        "subject": "Mathematics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "If $\\left(\\frac{3}{4}\\right)^{-6} \\times \\left(\\frac{4}{3}\\right)^{-8} = \\left(\\frac{3}{4}\\right)^n$ then the value of $n$ is",
+        "math_latex": "\\left(\\frac{3}{4}\\right)^{-6} \\times \\left(\\frac{4}{3}\\right)^{-8} = \\left(\\frac{3}{4}\\right)^n",
+        "has_image": false,
+        "options": {
+            "A": "1",
+            "B": "4",
+            "C": "3",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 2
+    },
+    {
+        "question_number": "2",
+        "section": "Part-III Subject Paper",
+        "subject": "Mathematics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The simplified form of $(4^{-1} + 8^{-1}) \\div \\frac{1}{\\left(\\frac{3}{2}\\right)^{-2}}$ is",
+        "math_latex": "(4^{-1} + 8^{-1}) \\div \\frac{1}{\\left(\\frac{3}{2}\\right)^{-2}}",
+        "has_image": false,
+        "options": {
+            "A": "\\frac{1}{6}",
+            "B": "\\frac{2}{3}",
+            "C": "\\frac{1}{2}",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 2
+    },
+    {
+        "question_number": "3",
+        "section": "Part-III Subject Paper",
+        "subject": "Mathematics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "If $A:B = \\frac{1}{2}:\\frac{3}{8}$, $B:C = \\frac{1}{3}:\\frac{5}{9}$ and $C:D = \\frac{5}{6}:\\frac{3}{4}$, then the ratio $A:B:C:D$ is",
+        "math_latex": "A:B = \\frac{1}{2}:\\frac{3}{8}, B:C = \\frac{1}{3}:\\frac{5}{9}, C:D = \\frac{5}{6}:\\frac{3}{4}",
+        "has_image": false,
+        "options": {
+            "A": "6:8:9:10",
+            "B": "8:6:10:9",
+            "C": "4:6:8:10",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 2
+    },
+    {
+        "question_number": "4",
+        "section": "Part-III Subject Paper",
+        "subject": "Mathematics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Suresh and Shashi complete a work in 11 days and 17 days respectively. They received a remuneration of ₹ 5,600 after completing the work jointly. Their shares in the remuneration are respectively",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "₹ 3,600 and ₹ 2,000",
+            "B": "₹ 3,400 and ₹ 2,200",
+            "C": "₹ 3,500 and ₹ 2,100",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 2
+    },
+    {
+        "question_number": "5",
+        "section": "Part-III Subject Paper",
+        "subject": "Mathematics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "A's weight is 25% of B's weight and 40% of C's weight. What percentage of C's weight is B's weight?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "160",
+            "B": "180",
+            "C": "150",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 2
+    },
+    {
+        "question_number": "1",
+        "section": "Part-II General Studies",
+        "subject": "Mathematics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "यदि $\\left(\\frac{3}{4}\\right)^{-6} \\times \\left(\\frac{4}{3}\\right)^{-8} = \\left(\\frac{3}{4}\\right)^n$ तो $n$ का मान है",
+        "english_text": "",
+        "math_latex": "\\left(\\frac{3}{4}\\right)^{-6} \\times \\left(\\frac{4}{3}\\right)^{-8} = \\left(\\frac{3}{4}\\right)^n",
+        "has_image": false,
+        "options": {
+            "A": "1",
+            "B": "4",
+            "C": "3",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 3
+    },
+    {
+        "question_number": "2",
+        "section": "Part-II General Studies",
+        "subject": "Mathematics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "$(4^{-1} + 8^{-1}) \\div \\frac{1}{\\left(\\frac{3}{2}\\right)^{-2}}$ का सरलीकृत रूप है",
+        "english_text": "",
+        "math_latex": "(4^{-1} + 8^{-1}) \\div \\frac{1}{\\left(\\frac{3}{2}\\right)^{-2}}",
+        "has_image": false,
+        "options": {
+            "A": "\\frac{1}{6}",
+            "B": "\\frac{2}{3}",
+            "C": "\\frac{1}{2}",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 3
+    },
+    {
+        "question_number": "3",
+        "section": "Part-II General Studies",
+        "subject": "Mathematics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "यदि $A : B = \\frac{1}{2} : \\frac{3}{8}$, $B : C = \\frac{1}{3} : \\frac{5}{9}$ और $C : D = \\frac{5}{6} : \\frac{3}{4}$, तो $A : B : C : D$ का अनुपात है",
+        "english_text": "",
+        "math_latex": "A : B = \\frac{1}{2} : \\frac{3}{8}, B : C = \\frac{1}{3} : \\frac{5}{9}, C : D = \\frac{5}{6} : \\frac{3}{4}",
+        "has_image": false,
+        "options": {
+            "A": "6:8:9:10",
+            "B": "8:6:10:9",
+            "C": "4:6:8:10",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 3
+    },
+    {
+        "question_number": "4",
+        "section": "Part-II General Studies",
+        "subject": "Mathematics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "सुरेश और शशि एक काम को क्रमशः 11 दिनों और 17 दिनों में पूरा करते हैं। दोनों ने मिलकर काम पूरा करके ₹ 5,600 पारिश्रमिक प्राप्त किया। पारिश्रमिक में उनके हिस्से हैं क्रमशः:",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "₹ 3,600 और ₹ 2,000",
+            "B": "₹ 3,400 और ₹ 2,200",
+            "C": "₹ 3,500 और ₹ 2,100",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 3
+    },
+    {
+        "question_number": "5",
+        "section": "Part-II General Studies",
+        "subject": "Mathematics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "$A$ का वजन $B$ के वजन का 25% और $C$ के वजन का 40% है। $C$ के वजन का कितना प्रतिशत $B$ के वजन के बराबर है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "160",
+            "B": "180",
+            "C": "150",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 3
+    },
+    {
+        "question_number": "6",
+        "section": "Part-III Subject Paper",
+        "subject": "Mathematics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The diameter of a copper sphere is 6 cm. The sphere is melted and is drawn into a long wire of uniform circular cross-section. If the length of the wire is 36 cm, then its radius is",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "0.5 cm",
+            "B": "1.5 cm",
+            "C": "2 cm",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 4
+    },
+    {
+        "question_number": "7",
+        "section": "Part-III Subject Paper",
+        "subject": "Mathematics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Two circles touch internally. The sum of their areas is 116\\pi \\text{ cm}^2 and the distance between their centres is 6 cm. The radii of the circles are respectively",
+        "math_latex": "116\\pi \\text{ cm}^2",
+        "has_image": false,
+        "options": {
+            "A": "16 cm and 10 cm",
+            "B": "10 cm and 4 cm",
+            "C": "12 cm and 6 cm",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 4
+    },
+    {
+        "question_number": "8",
+        "section": "Part-III Subject Paper",
+        "subject": "Mathematics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "A fast train takes 3 hours less than a slow train for a journey of 600 km. If the speed of the slow train is 10 km/hr less than that of the fast train, then the speeds of the two trains are respectively",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "50 km/hr and 40 km/hr",
+            "B": "30 km/hr and 20 km/hr",
+            "C": "40 km/hr and 30 km/hr",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 4
+    },
+    {
+        "question_number": "9",
+        "section": "Part-III Subject Paper",
+        "subject": "Mathematics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The value of x satisfying the equations \\frac{1}{x} + \\frac{1}{y} = 8, \\frac{1}{y} + \\frac{1}{z} = 12, \\frac{1}{z} + \\frac{1}{x} = 10 is",
+        "math_latex": "\\frac{1}{x} + \\frac{1}{y} = 8, \\frac{1}{y} + \\frac{1}{z} = 12, \\frac{1}{z} + \\frac{1}{x} = 10",
+        "has_image": false,
+        "options": {
+            "A": "3",
+            "B": "\\frac{1}{3}",
+            "C": "3\\frac{1}{3}",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 4
+    },
+    {
+        "question_number": "10",
+        "section": "Part-III Subject Paper",
+        "subject": "Mathematics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "There is 50% increase in an amount in 5 years at simple interest. What will be the compound interest of ₹ 12,000 after 3 years at the same rate?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "₹ 3,972",
+            "B": "₹ 6,240",
+            "C": "₹ 3,120",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 4
+    },
+    {
+        "question_number": "6",
+        "section": "Part-III Subject Paper",
+        "subject": "Mathematics",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "ताँबे के एक गोले का व्यास 6 से० मी० है। गोले को पिघलाया जाता है और एकसमान वृत्ताकार अनुप्रस्थ-काट के लम्बे तार में खींचा जाता है। यदि तार की लम्बाई 36 से० मी० है, तो इसकी त्रिज्या है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "0.5 से० मी०",
+            "B": "1.5 से० मी०",
+            "C": "2 से० मी०",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 5
+    },
+    {
+        "question_number": "7",
+        "section": "Part-III Subject Paper",
+        "subject": "Mathematics",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "दो वृत्त आंतरिक रूप से स्पर्श करते हैं। उनके क्षेत्रफलों का योग $116\\pi$ से० मी०$^2$ है और उनके केन्द्रों के बीच की दूरी 6 से० मी० है। वृत्तॊं की त्रिज्याएँ हैं, क्रमशः:",
+        "english_text": "",
+        "math_latex": "116\\pi \\text{ से० मी०}^2",
+        "has_image": false,
+        "options": {
+            "A": "16 से० मी० और 10 से० मी०",
+            "B": "10 से० मी० और 4 से० मी०",
+            "C": "12 से० मी० और 6 से० मी०",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 5
+    },
+    {
+        "question_number": "8",
+        "section": "Part-III Subject Paper",
+        "subject": "Mathematics",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "एक तेज ट्रेन 600 कि० मी० की यात्रा के लिए धीमी ट्रेन से 3 घंटे कम समय लेती है। यदि धीमी ट्रेन की गति, तेज ट्रेन की गति से 10 कि० मी०/घंटा कम है, तो दोनों ट्रेनों की गति हैं, क्रमशः:",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "50 कि० मी०/घंटा और 40 कि० मी०/घंटा",
+            "B": "30 कि० मी०/घंटा और 20 कि० मी०/घंटा",
+            "C": "40 कि० मी०/घंटा और 30 कि० मी०/घंटा",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 5
+    },
+    {
+        "question_number": "9",
+        "section": "Part-III Subject Paper",
+        "subject": "Mathematics",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "समीकरणों\n$\\frac{1}{x} + \\frac{1}{y} = 8$, $\\frac{1}{y} + \\frac{1}{z} = 12$, $\\frac{1}{z} + \\frac{1}{x} = 10$\nको सन्तुष्ट करने वाले $x$ का मान है",
+        "english_text": "",
+        "math_latex": "\\frac{1}{x} + \\frac{1}{y} = 8, \\quad \\frac{1}{y} + \\frac{1}{z} = 12, \\quad \\frac{1}{z} + \\frac{1}{x} = 10",
+        "has_image": false,
+        "options": {
+            "A": "3",
+            "B": "\\frac{1}{3}",
+            "C": "3\\frac{1}{3}",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 5
+    },
+    {
+        "question_number": "10",
+        "section": "Part-III Subject Paper",
+        "subject": "Mathematics",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "एक राशि में 5 वर्षों में साधारण ब्याज से $50\\%$ की वृद्धि होती है। इसी दर से ₹ 12,000 का 3 वर्षों बाद चक्रवृद्धि ब्याज क्या होगा?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "₹ 3,972",
+            "B": "₹ 6,240",
+            "C": "₹ 3,120",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 5
+    },
+    {
+        "question_number": "11",
+        "section": "Part-II General Studies",
+        "subject": "Mathematics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "37\\frac{1}{2}\\% of the candidates in an examination were girls. 75\\% of the boys and 62\\frac{1}{2}\\% of the girls passed, and 342 girls failed. The number of boys failed was",
+        "math_latex": "37\\frac{1}{2}\\% \\text{ of the candidates in an examination were girls. } 75\\% \\text{ of the boys and } 62\\frac{1}{2}\\% \\text{ of the girls passed, and 342 girls failed. The number of boys failed was}",
+        "has_image": false,
+        "options": {
+            "A": "370",
+            "B": "380",
+            "C": "360",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 6
+    },
+    {
+        "question_number": "12",
+        "section": "Part-II General Studies",
+        "subject": "Mathematics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Two possible rational numbers between -\\frac{2}{3} and \\frac{1}{2} are",
+        "math_latex": "\\text{Two possible rational numbers between } -\\frac{2}{3} \\text{ and } \\frac{1}{2} \\text{ are}",
+        "has_image": false,
+        "options": {
+            "A": "\\frac{2}{6}, \\frac{3}{5}",
+            "B": "-\\frac{2}{6}, \\frac{2}{6}",
+            "C": "-\\frac{1}{6}, \\frac{4}{6}",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 6
+    },
+    {
+        "question_number": "13",
+        "section": "Part-II General Studies",
+        "subject": "Mathematics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "A father is five times as old as his son, but after 15 years, he will remain only twice as old as his son. What is the age of the father?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "20 years",
+            "B": "25 years",
+            "C": "30 years",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 6
+    },
+    {
+        "question_number": "14",
+        "section": "Part-II General Studies",
+        "subject": "Mathematics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Neelu buys lemons at the rate of 2 lemons in one rupee and sells them at the rate of 5 lemons in three rupees. Her profit is",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "15%",
+            "B": "18%",
+            "C": "20%",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 6
+    },
+    {
+        "question_number": "15",
+        "section": "Part-II General Studies",
+        "subject": "Mathematics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "In a school, every student offers either Hindi or English or both. 50.8% offer Hindi and 64.2% offer English. If the total number of students is 500, how many students offer both Hindi and English?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "60",
+            "B": "65",
+            "C": "75",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 6
+    },
+    {
+        "question_number": "16",
+        "section": "Part-II General Studies",
+        "subject": "Mathematics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "What is the value of the following?",
+        "math_latex": "x^{a(b-c)} \\cdot x^{b(c-a)} \\cdot x^{c(a-b)}",
+        "has_image": false,
+        "options": {
+            "A": "0",
+            "B": "1",
+            "C": "x",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 6
+    },
+    {
+        "question_number": "11",
+        "section": "Part-II General Studies",
+        "subject": "Mathematics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "एक परीक्षा में, कुल अभ्यर्थियों का $37\\frac{1}{2}\\%$ छात्राएँ थीं। छात्रों का $75\\%$ तथा छात्राओं का $62\\frac{1}{2}\\%$ सफल हुए तथा 342 छात्राएँ असफल हुईं। असफल छात्रों की संख्या थी",
+        "english_text": "",
+        "math_latex": "37\\frac{1}{2}\\%, 75\\%, 62\\frac{1}{2}\\%",
+        "has_image": false,
+        "options": {
+            "A": "370",
+            "B": "380",
+            "C": "360",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 7
+    },
+    {
+        "question_number": "12",
+        "section": "Part-II General Studies",
+        "subject": "Mathematics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "$-\\frac{2}{3}$ और $\\frac{1}{2}$ के बीच में दो सम्भव परिमेय संख्याएँ हैं",
+        "english_text": "",
+        "math_latex": "-\\frac{2}{3}, \\frac{1}{2}, \\frac{2}{6}, \\frac{3}{5}, -\\frac{2}{6}, \\frac{2}{6}, -\\frac{1}{6}, \\frac{4}{6}",
+        "has_image": false,
+        "options": {
+            "A": "$\\frac{2}{6}, \\frac{3}{5}$",
+            "B": "$-\\frac{2}{6}, \\frac{2}{6}$",
+            "C": "$-\\frac{1}{6}, \\frac{4}{6}$",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 7
+    },
+    {
+        "question_number": "13",
+        "section": "Part-II General Studies",
+        "subject": "Mathematics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "एक पिता की उम्र उसके पुत्र की उम्र की पाँच गुनी है, लेकिन 15 वर्षों बाद उसकी उम्र उसके पुत्र की उम्र की दो गुनी रह जाएगी। पिता की उम्र क्या है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "20 वर्ष",
+            "B": "25 वर्ष",
+            "C": "30 वर्ष",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 7
+    },
+    {
+        "question_number": "14",
+        "section": "Part-II General Studies",
+        "subject": "Mathematics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "नीलू एक रुपये में 2 नींबू की दर से नींबू खरीदती है और उन्हें तीन रुपये में 5 नींबू की दर से बेचती है। उसका लाभ है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "$15\\%$",
+            "B": "$18\\%$",
+            "C": "$20\\%$",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 7
+    },
+    {
+        "question_number": "15",
+        "section": "Part-II General Studies",
+        "subject": "Mathematics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "एक विद्यालय में, प्रत्येक विद्यार्थी या तो हिन्दी या अंग्रेजी या दोनों लेता है। $50\\cdot8\\%$ हिन्दी लेते हैं और $64\\cdot2\\%$ अंग्रेजी लेते हैं। यदि विद्यार्थियों की कुल संख्या 500 हो, तो कितने विद्यार्थी हिन्दी और अंग्रेजी दोनों लेते हैं?",
+        "english_text": "",
+        "math_latex": "50\\cdot8\\%, 64\\cdot2\\%",
+        "has_image": false,
+        "options": {
+            "A": "60",
+            "B": "65",
+            "C": "75",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 7
+    },
+    {
+        "question_number": "16",
+        "section": "Part-II General Studies",
+        "subject": "Mathematics",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "निम्नलिखित का मान क्या है?\n$x^{a(b-c)} \\cdot x^{b(c-a)} \\cdot x^{c(a-b)}$",
+        "english_text": "",
+        "math_latex": "x^{a(b-c)} \\cdot x^{b(c-a)} \\cdot x^{c(a-b)}",
+        "has_image": false,
+        "options": {
+            "A": "0",
+            "B": "1",
+            "C": "$x$",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 7
+    },
+    {
+        "question_number": "17",
+        "section": "General Studies",
+        "subject": "General Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Geostationary satellite rotates",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "at any height above the Poles",
+            "B": "at a fixed height",
+            "C": "at the height depending on mass",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 8
+    },
+    {
+        "question_number": "18",
+        "section": "General Studies",
+        "subject": "General Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which colour has the maximum deviation in the dispersion of white light passing through the prism?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Green",
+            "B": "Red",
+            "C": "Violet",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 8
+    },
+    {
+        "question_number": "19",
+        "section": "General Studies",
+        "subject": "General Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "During thunderstorm, it is safer to",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "carry an open umbrella",
+            "B": "take shelter under short tree",
+            "C": "stand in open field",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 8
+    },
+    {
+        "question_number": "20",
+        "section": "General Studies",
+        "subject": "General Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "When a body falls freely towards the Earth, then its total energy",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "decreases",
+            "B": "increases",
+            "C": "remains constant",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 8
+    },
+    {
+        "question_number": "21",
+        "section": "General Studies",
+        "subject": "General Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "In eye donation, which part of the donor's eye is transplanted?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Lens",
+            "B": "Cornea",
+            "C": "Whole eye",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 8
+    },
+    {
+        "question_number": "22",
+        "section": "General Studies",
+        "subject": "General Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "What is the chemical name of vitamin B_{12}?",
+        "math_latex": "B_{12}",
+        "has_image": false,
+        "options": {
+            "A": "Thiamin",
+            "B": "Cobalamin",
+            "C": "Niacin",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 8
+    },
+    {
+        "question_number": "23",
+        "section": "General Studies",
+        "subject": "General Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following is an acid-base indicator?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Vinegar",
+            "B": "Turmeric",
+            "C": "Baking soda",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 8
+    },
+    {
+        "question_number": "24",
+        "section": "General Studies",
+        "subject": "General Science",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "When the soil is too basic, plants do not grow in it. To improve the quality, what must be added to the soil?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Organic matter",
+            "B": "Quicklime",
+            "C": "Calamine solution",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 8
+    },
+    {
+        "question_number": "17",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "भू-स्थिर उपग्रह घूमता है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "ध्रुवों के ऊपर किसी भी ऊँचाई पर",
+            "B": "स्थिर ऊँचाई पर",
+            "C": "उस ऊँचाई पर, जो द्रव्यमान पर निर्भर हो",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 9
+    },
+    {
+        "question_number": "18",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "प्रिज्म द्वारा सफेद प्रकाश के परिक्षेपण में कौन-सा रंग अधिकतम विचलित होता है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "हरा",
+            "B": "लाल",
+            "C": "बैंगनी",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 9
+    },
+    {
+        "question_number": "19",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "मेघगर्जन के समय, निम्नलिखित में से क्या सुरक्षित है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "खुली छतरी लेकर चलना",
+            "B": "छोटे पेड़ के नीचे आश्रय लेना",
+            "C": "खुली जगह में खड़े रहना",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 9
+    },
+    {
+        "question_number": "20",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "स्वतंत्र रूप से पृथ्वी की ओर गिरते हुए निकाय की कुल ऊर्जा",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "घटती है",
+            "B": "बढ़ती है",
+            "C": "स्थिर रहती है",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 9
+    },
+    {
+        "question_number": "21",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "नेत्र दान में, दाता की आँख के किस हिस्से को प्रतिरोपित किया जाता है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "लेन्स",
+            "B": "कॉर्निया",
+            "C": "पूरी आँख",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 9
+    },
+    {
+        "question_number": "22",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "विटामिन B_{12} का रासायनिक नाम क्या है?",
+        "english_text": "",
+        "math_latex": "B_{12}",
+        "has_image": false,
+        "options": {
+            "A": "थायमिन",
+            "B": "कोबालामिन",
+            "C": "नियासिन",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 9
+    },
+    {
+        "question_number": "23",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "निम्नलिखित में से कौन-सा अम्ल-क्षार का संकेतक है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "सिरका",
+            "B": "हल्दी",
+            "C": "खाने वाला सोडा",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 9
+    },
+    {
+        "question_number": "24",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "जब मृदा अतिक्षारीय हो तथा उसमें पौधे पैदा नहीं होते हों, तब मृदा की गुणवत्ता में सुधार के लिए क्या मिलाना चाहिए?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "कार्बनिक पदार्थ",
+            "B": "बिना बुझा चूना",
+            "C": "कैलामाइन का घोल",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 9
+    },
+    {
+        "question_number": "25",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "What is the value of absolute zero on the Fahrenheit scale?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "0 \\text{ }^\\circ\\text{F}",
+            "B": "-22 \\text{ }^\\circ\\text{F}",
+            "C": "-459.4 \\text{ }^\\circ\\text{F}",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 10
+    },
+    {
+        "question_number": "26",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which type of waves are light waves?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Transverse waves",
+            "B": "Longitudinal waves",
+            "C": "Electromagnetic waves",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 10
+    },
+    {
+        "question_number": "27",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "What is the pH value of a salt made up of a strong acid and a weak base?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "More than 7",
+            "B": "Less than 7",
+            "C": "Between 10 to 14",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 10
+    },
+    {
+        "question_number": "28",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "One gigabyte (GB) is equal to",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "1024 KB",
+            "B": "1024 MB",
+            "C": "1024 GB",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 10
+    },
+    {
+        "question_number": "29",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Sodium hydroxide and hydrochloric acid react to form sodium chloride and water. Which reaction is this?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Neutralization",
+            "B": "Dissolution",
+            "C": "Combination",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 10
+    },
+    {
+        "question_number": "30",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "What does the cell usually use to produce energy?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Amino acid",
+            "B": "Glucose",
+            "C": "Fatty acid",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 10
+    },
+    {
+        "question_number": "31",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "What is the function of the pituitary gland?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "To develop sex organs in males",
+            "B": "To stimulate growth in all organs",
+            "C": "To regulate sugar and salt levels in the body",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 10
+    },
+    {
+        "question_number": "32",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which parts of the brain control blood pressure?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Spinal cord, skull, hypothalamus",
+            "B": "Spinal cord, skull, cerebrum",
+            "C": "Pons, medulla, cerebellum",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 10
+    },
+    {
+        "question_number": "25",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "फारेनहाइट पैमाने पर परम शून्य का मान कितना होता है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "0 \\text{ }^\\circ\\text{F}",
+            "B": "-22 \\text{ }^\\circ\\text{F}",
+            "C": "-459.4 \\text{ }^\\circ\\text{F}",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 11
+    },
+    {
+        "question_number": "26",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "प्रकाश तरंगें किस प्रकार की तरंगें होती हैं?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "अनुप्रस्थ तरंगें",
+            "B": "अनुदैर्ध्य तरंगें",
+            "C": "विद्युत्-चुम्बकीय तरंगें",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 11
+    },
+    {
+        "question_number": "27",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "प्रबल अम्ल और दुर्बल क्षारक से बने लवण का pH मान क्या है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "7 से अधिक",
+            "B": "7 से कम",
+            "C": "10 और 14 के बीच",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 11
+    },
+    {
+        "question_number": "28",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "एक गीगाबाइट (GB) बराबर होता है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "1024 KB",
+            "B": "1024 MB",
+            "C": "1024 GB",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 11
+    },
+    {
+        "question_number": "29",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "सोडियम हाइड्रोक्साइड और हाइड्रोक्लोरिक अम्ल की अभिक्रिया से सोडियम क्लोराइड और जल बनते हैं। यह कौन-सी अभिक्रिया है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "उदासीनीकरण",
+            "B": "विघटन",
+            "C": "संयोजन",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 11
+    },
+    {
+        "question_number": "30",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "ऊर्जा उत्पादन के लिए कोशिका प्रायः किसका उपयोग करती है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "अमीनो अम्ल",
+            "B": "ग्लूकोज",
+            "C": "वसा अम्ल",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 11
+    },
+    {
+        "question_number": "31",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "पीयूष ग्रंथि का कार्य क्या है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "पुरुषों में यौन अंगों को विकसित करना",
+            "B": "सभी अंगों में वृद्धि को प्रोत्साहित करना",
+            "C": "शरीर में चीनी और नमक के स्तर को नियंत्रित करना",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 11
+    },
+    {
+        "question_number": "32",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "मस्तिष्क के कौन-से भाग रक्तचाप को नियंत्रित करते हैं?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "रीढ़ की हड्डी, खोपड़ी, हाइपोथैलमस",
+            "B": "रीढ़ की हड्डी, खोपड़ी, सेरेब्रम",
+            "C": "पॉंस, मेडुला, सेरिबेलम",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 11
+    },
+    {
+        "question_number": "33",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "India has announced to establish a Net Zero Innovation Virtual Centre in collaboration with which country?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Russia",
+            "B": "Britain",
+            "C": "Brazil",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 12
+    },
+    {
+        "question_number": "34",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "What is the total number of seats for MPs in the newly inaugurated Parliament of India?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "888",
+            "B": "1272",
+            "C": "1326",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 12
+    },
+    {
+        "question_number": "35",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which online platform has been launched by the Indian Government for farmers' insurance claims?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Kushal Platform",
+            "B": "Grain Platform",
+            "C": "DigiClaim Platform",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 12
+    },
+    {
+        "question_number": "36",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Who has been appointed as the head of 'Moon to Mars Program' of NASA?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Amit Kshatriya",
+            "B": "Sumit Kshatriya",
+            "C": "K. Sivan",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 12
+    },
+    {
+        "question_number": "37",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "According to the Bihar Prohibition and Excise (Amendment) Act, 2022, the vehicles transporting liquor will be released by paying what percent of their insurance cover as penalty?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "30",
+            "B": "50",
+            "C": "10",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 12
+    },
+    {
+        "question_number": "33",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "भारत ने किस देश के साथ मिलकर नेट जीरो इनोवेशन वर्चुअल सेंटर बनाने की घोषणा की है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "रूस",
+            "B": "ब्रिटेन",
+            "C": "ब्राजील",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 13
+    },
+    {
+        "question_number": "34",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "भारत की नव-उद्घाटित संसद में सांसदों के लिए कुल कितनी सीटें हैं?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "888",
+            "B": "1272",
+            "C": "1326",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 13
+    },
+    {
+        "question_number": "35",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "भारत सरकार ने किसान बीमा दावों के लिए कौन-सा ऑनलाइन प्लेटफ़ॉर्म लॉन्च किया है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "कुशल प्लेटफ़ॉर्म",
+            "B": "ग्रेन प्लेटफ़ॉर्म",
+            "C": "डिजिक्लेम प्लेटफ़ॉर्म",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 13
+    },
+    {
+        "question_number": "36",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "नासा के 'मून टू मार्स प्रोग्राम' के प्रमुख के रूप में किन्हें नियुक्त किया गया है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "अमित क्षत्रिय",
+            "B": "सुमित क्षत्रिय",
+            "C": "के० सिवन",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 13
+    },
+    {
+        "question_number": "37",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "बिहार मद्य-निषेध और उत्पाद-शुल्क (संशोधन) अधिनियम, 2022 के अनुसार, शराब की ढुलाई करने वाले वाहनों को छोड़ने हेतु जुर्माने के रूप में उनकी बीमित राशि का कितना प्रतिशत देना होगा?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "30",
+            "B": "50",
+            "C": "10",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 13
+    },
+    {
+        "question_number": "38",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which country has manufactured the passenger plane C919 to compete Airbus and Boeing?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "India",
+            "B": "China",
+            "C": "Britain",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 14
+    },
+    {
+        "question_number": "39",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Kriti Raj Singh is related with which sport?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Weightlifting",
+            "B": "Badminton",
+            "C": "Cricket",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 14
+    },
+    {
+        "question_number": "40",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "According to the Industrial Development Ranking, 2022, released by the Bihar Industries Department, which district has topped?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Siwan",
+            "B": "Gaya",
+            "C": "Darbhanga",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 14
+    },
+    {
+        "question_number": "41",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following can a court issue for enforcement of the Fundamental Rights?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Decree",
+            "B": "Writ",
+            "C": "Ordinance",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 14
+    },
+    {
+        "question_number": "42",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following dams is located on the Mahanadi river?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Hirakud Dam",
+            "B": "Dudhawa Dam",
+            "C": "Ghumarapadar Dam",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 14
+    },
+    {
+        "question_number": "43",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Al-Aqsa Mosque, which was in news recently, is located in which city?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Rome",
+            "B": "Jerusalem",
+            "C": "Riyadh",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 14
+    },
+    {
+        "question_number": "38",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "एयरबस एवं बोइंग से मुकाबले के लिए किस देश ने C919 यात्री विमान बनाया है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "भारत",
+            "B": "चीन",
+            "C": "ब्रिटेन",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 15
+    },
+    {
+        "question_number": "39",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "कृति राज सिंह किस खेल से सम्बन्धित है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "भारोत्तोलन",
+            "B": "बैडमिंटन",
+            "C": "क्रिकेट",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 15
+    },
+    {
+        "question_number": "40",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "बिहार उद्योग विभाग द्वारा जारी औद्योगिक विकास रैंकिंग, 2022 में किस जिले ने सर्वोच्च स्थान प्राप्त किया है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "सिवान",
+            "B": "गया",
+            "C": "दरभंगा",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 15
+    },
+    {
+        "question_number": "41",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "मौलिक अधिकारों को लागू करने के लिए न्यायालय निम्नलिखित में से किसे जारी कर सकता है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "डिग्री",
+            "B": "रिट",
+            "C": "अध्यादेश",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 15
+    },
+    {
+        "question_number": "42",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "निम्नलिखित में से कौन-सा बाँध महानदी पर स्थित है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "हीराकुंड बाँध",
+            "B": "दुधवा बाँध",
+            "C": "घुमरापदर बाँध",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 15
+    },
+    {
+        "question_number": "43",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "अल-अक्सा मस्जिद, जो हाल ही में खबरों में थी, किस शहर में स्थित है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "रोम",
+            "B": "जेरूसलम",
+            "C": "रियाद",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 15
+    },
+    {
+        "question_number": "44",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following countries is the member of the NATO?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Belgium",
+            "B": "Canada",
+            "C": "Denmark",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 16
+    },
+    {
+        "question_number": "45",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The statement, \"One Earth, One Family, One Future\" is associated with",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "G-7",
+            "B": "G-20",
+            "C": "BRICS",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 16
+    },
+    {
+        "question_number": "46",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following statements is correct regarding QUAD?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "QUAD is a strategic forum of four nations-India, US, Japan and Australia.",
+            "B": "Its genesis was in 2004.",
+            "C": "The intention was to enhance maritime cooperation among the four nations.",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 16
+    },
+    {
+        "question_number": "47",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Kautilya was a professor of Political Science and Economics at",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Nalanda",
+            "B": "Pataliputra",
+            "C": "Takshashila",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 16
+    },
+    {
+        "question_number": "48",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following statements is correct about the 1781 Revolt in Bihar?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "It was an uprising by the Zamindars.",
+            "B": "It was a revolt by the farmers.",
+            "C": "The British were able to put down the revolt without too much trouble.",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 16
+    },
+    {
+        "question_number": "44",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "निम्नलिखित में से कौन-सा देश नाटो (NATO) का सदस्य है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "बेल्जियम",
+            "B": "कनाडा",
+            "C": "डेनमार्क",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 17
+    },
+    {
+        "question_number": "45",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "कथन \"एक पृथ्वी, एक परिवार, एक भविष्य\" किसके साथ सम्बन्ध है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "G-7",
+            "B": "G-20",
+            "C": "BRICS",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 17
+    },
+    {
+        "question_number": "46",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "QUAD के सम्बन्ध में, निम्नलिखित में से कौन-सा कथन सही है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "QUAD चार देशों—भारत, अमरीका, जापान और ऑस्ट्रेलिया का एक रणनीतिक मंच है।",
+            "B": "इसकी उत्पत्ति 2004 में हुई थी।",
+            "C": "इसका चार देशों के बीच समुद्री सहयोग को बढ़ाने का इरादा था।",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 17
+    },
+    {
+        "question_number": "47",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "कौटिल्य किस स्थान में राजनीति-विज्ञान और अर्थशास्त्र के प्राध्यापक थे?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "नालंदा",
+            "B": "पाटलिपुत्र",
+            "C": "तक्षशिला",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 17
+    },
+    {
+        "question_number": "48",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "बिहार में 1781 के विद्रोह के बारे में, निम्नलिखित में से कौन-सा कथन सही है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "यह जमींदारों द्वारा किया गया विद्रोह था।",
+            "B": "यह किसानों द्वारा किया गया विद्रोह था।",
+            "C": "अंग्रेज बिना किसी परेशानी के विद्रोह को कुचलने में सफल रहे।",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 17
+    },
+    {
+        "question_number": "49",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following falls under 'Frigid Zone'?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Area lying between $66\\frac{1}{2}^{\\circ}$ N latitude and North Pole",
+            "B": "Area lying between $23\\frac{1}{2}^{\\circ}$ and $66\\frac{1}{2}^{\\circ}$ latitudes in both Hemispheres",
+            "C": "Area lying between Antarctic Circle and South Pole",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 18
+    },
+    {
+        "question_number": "50",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The part of the Himalayas lying between Satluj and Kali rivers is known as which of the following?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Kumaon Himalayas",
+            "B": "Assam Himalayas",
+            "C": "Nepal Himalayas",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 18
+    },
+    {
+        "question_number": "51",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following statements is true?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "As per the 2011 Census, Sikkim has a population of 6 lakhs.",
+            "B": "Uttar Pradesh is the largest State in India in terms of area.",
+            "C": "India accounts for $2\\cdot6$ percent of the world's area.",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 18
+    },
+    {
+        "question_number": "52",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "What should be the desired percent of forest area in the total geographical area of the country as outlined in the National Forest Policy of 1952 in India?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "25",
+            "B": "33",
+            "C": "39",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 18
+    },
+    {
+        "question_number": "49",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "निम्नलिखित में से कौन-सा 'शीत कटिबंध' में आता है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "66\\u00bd^\\circ उत्तरी अक्षांश और उत्तरी ध्रुव के बीच स्थित क्षेत्र",
+            "B": "दोनों गोलार्द्धों में 23\\u00bd^\\circ और 66\\u00bd^\\circ अक्षांशों के बीच स्थित क्षेत्र",
+            "C": "दक्षिण ध्रुववृत्त (अंटार्कटिक वृत्त) और दक्षिणी ध्रुव के बीच स्थित क्षेत्र",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 19
+    },
+    {
+        "question_number": "50",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "सतलुज और काली नदियों के बीच स्थित हिमालय के भाग को निम्नलिखित में से किस नाम से जाना जाता है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "कुमाऊँ हिमालय",
+            "B": "असम हिमालय",
+            "C": "नेपाल हिमालय",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 19
+    },
+    {
+        "question_number": "51",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "निम्नलिखित में से कौन-सा कथन सही है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "2011 की जनगणना के अनुसार, सिक्किम की जनसंख्या 6 लाख है।",
+            "B": "क्षेत्रफल की दृष्टि से उत्तर प्रदेश भारत का सबसे बड़ा राज्य है।",
+            "C": "भारत का क्षेत्रफल विश्व के क्षेत्रफल का 2\\cdot6 प्रतिशत है।",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 19
+    },
+    {
+        "question_number": "52",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "भारत में, 1952 की राष्ट्रीय वन नीति में उल्लिखित देश के कुल भौगोलिक क्षेत्र में वन क्षेत्र का वांछित प्रतिशत कितना होना चाहिए?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "25",
+            "B": "33",
+            "C": "39",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 19
+    },
+    {
+        "question_number": "53",
+        "section": "General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following is the local name of 'Jhumming'?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Bewar",
+            "B": "Dahiya",
+            "C": "Podu",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 20
+    },
+    {
+        "question_number": "54",
+        "section": "General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "What is the name given to a large apartment in Amazon basin having a steeply slanting roof?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Manioc",
+            "B": "Maloca",
+            "C": "Cassava",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 20
+    },
+    {
+        "question_number": "55",
+        "section": "General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The historical Dakshinapath region is situated in between",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Vindhyachal range and Krishna river",
+            "B": "Vindhyachal range and Cauvery river",
+            "C": "Satpura range and Nilgiri",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 20
+    },
+    {
+        "question_number": "56",
+        "section": "General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The major water divides between Arabian Sea and Bay of Bengal drainage are",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Delhi ridge, Malwa plateau and Bundelkhand",
+            "B": "Delhi ridge, Aravalli range, Sahyadri and Amarkantak hills",
+            "C": "Delhi ridge, Malwa plateau and Chota Nagpur plateau",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 20
+    },
+    {
+        "question_number": "53",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "निम्नलिखित में से कौन-सा 'स्थानान्तरी कृषि' का स्थानीय नाम है?",
+        "english_text": "Which of the following is a local name of 'shifting agriculture'?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "बेवर",
+            "B": "दहिया",
+            "C": "पोडु",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 21
+    },
+    {
+        "question_number": "54",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "अमेज़न बेसिन में एक बड़े मकान को क्या नाम दिया गया है, जिसकी छत की तिरछी खड़ी ढाल होती है?",
+        "english_text": "What is the name given to a large house in the Amazon basin, which has a steeply sloping roof?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "मैनिोक",
+            "B": "मलोका",
+            "C": "कसावा",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 21
+    },
+    {
+        "question_number": "55",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "ऐतिहासिक दक्षिणापथ नामक क्षेत्र का विस्तार है",
+        "english_text": "The region named historical Dakshinapath has its extension between",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "विन्ध्याचल पर्वतश्रेणी से कृष्णा नदी के मध्य",
+            "B": "विन्ध्याचल पर्वतश्रेणी से कावेरी नदी के मध्य",
+            "C": "सतपुड़ा पर्वतश्रेणी से नीलगिरी के मध्य",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 21
+    },
+    {
+        "question_number": "56",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "अरब सागर और बंगाल की खाड़ी के अपवाह तन्त्र के बीच मुख्य जल-विभाजक हैं",
+        "english_text": "The main water-dividers between the drainage systems of the Arabian Sea and the Bay of Bengal are",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "दिल्ली रिज, मालवा का पठार और बुन्देलखण्ड",
+            "B": "दिल्ली रिज, अरावली पर्वतश्रेणी, सह्याद्रि और अमरकंटक की पहाड़ियाँ",
+            "C": "दिल्ली रिज, मालवा का पठार और छोटानागपुर का पठार",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 21
+    },
+    {
+        "question_number": "57",
+        "section": "General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The place of origin of Western Disturbances active in North-Western India in winter season is",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Asia Minor",
+            "B": "Western Asia",
+            "C": "Mediterranean coastal area of Western Asia",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 22
+    },
+    {
+        "question_number": "58",
+        "section": "General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "According to G. T. Trewartha, the area of Am type climate in India is",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Meghalaya plateau",
+            "B": "Western Ghats",
+            "C": "Coromandel coastal region",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 22
+    },
+    {
+        "question_number": "59",
+        "section": "General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The local names of rice crops produced in Northern India in winter are",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Aman, Aghani and Aus",
+            "B": "Aman, Sali and Aghani",
+            "C": "Aman, Aus and Sali",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 22
+    },
+    {
+        "question_number": "60",
+        "section": "General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following is not a peculiarity of middle Gangetic plain agroclimatic region?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Located in Ganga and its tributaries' drainage area",
+            "B": "Extended in more than two States",
+            "C": "Receives more than 100 cm rain annually",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 22
+    },
+    {
+        "question_number": "57",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "शीतकाल में उत्तर-पश्चिम भारत में सक्रिय रहने वाले पश्चिमी विक्षोभ का उत्पत्ति-स्थल है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "एशिया माइनर",
+            "B": "पश्चिमी एशिया",
+            "C": "पश्चिमी एशिया का भूमध्यसागरीय तटीय क्षेत्र",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 23
+    },
+    {
+        "question_number": "58",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "जी० टी० ट्रीवार्था के अनुसार, भारत में Am प्रकार की जलवायु का क्षेत्र है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "मेघालय का पठार",
+            "B": "पश्चिमी घाट",
+            "C": "कोरोमण्डल तटीय क्षेत्र",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 23
+    },
+    {
+        "question_number": "59",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "उत्तरी भारत में शीतकाल में उपजायी जाने वाली चावल की फसलों के स्थानीय नाम हैं",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "अमन, अगहनी और औस",
+            "B": "अमन, साली और अगहनी",
+            "C": "अमन, औस और साली",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 23
+    },
+    {
+        "question_number": "60",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "निम्नलिखित में से कौन-सी मध्यवर्ती गंगा के मैदानी कृषि-जलवायु प्रदेश की विशेषता नहीं है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "यह गंगा और उसकी सहायक नदियों के अपवाह क्षेत्र में स्थित है",
+            "B": "इसका दो से अधिक राज्यों में विस्तार है",
+            "C": "यहाँ प्रति वर्ष 100 से० मी० से अधिक वर्षा होती है",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 23
+    },
+    {
+        "question_number": "61",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Who among the following was associated with the newspaper, New India?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Mahatma Gandhi",
+            "B": "Annie Besant",
+            "C": "Surendranath Banerjee",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 24
+    },
+    {
+        "question_number": "62",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Who organized the 'Swadesh Bandhav Samiti' during the Indian Freedom Struggle?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Ashwini Kumar Dutta",
+            "B": "Batukeshwar Dutta",
+            "C": "Surya Sen",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 24
+    },
+    {
+        "question_number": "63",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Who accompanied Mahatma Gandhi during the Champaran Indigo Movement?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Narhari Parikh",
+            "B": "Mahadev Desai",
+            "C": "Abdul Bari",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 24
+    },
+    {
+        "question_number": "64",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "On which date Linlithgow ordered to fire on the mob of Patna and its surrounding during the August Revolution, 1942?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "5th August",
+            "B": "15th August",
+            "C": "25th August",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 24
+    },
+    {
+        "question_number": "65",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "In which year was the 'Bihar Prantiya Kisan Sabha' established?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "1920",
+            "B": "1924",
+            "C": "1929",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 24
+    },
+    {
+        "question_number": "66",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following revolts took place due to the imposition of tax on keeping of long beard?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Faraizi",
+            "B": "Pagalpanti",
+            "C": "Wahabi",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 24
+    },
+    {
+        "question_number": "61",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "इनमें से कौन समाचार-पत्र, न्यू इंडिया से सम्बन्धित थे/थी?",
+        "english_text": "Which of the following newspapers was/were associated with New India?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "महात्मा गाँधी",
+            "B": "ऐनी बेसेन्ट",
+            "C": "सुरेन्द्रनाथ बनर्जी",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 25
+    },
+    {
+        "question_number": "62",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "भारतीय स्वतंत्रता संघर्ष के दौरान किसने 'स्वदेश बान्धव समिति' का गठन किया था?",
+        "english_text": "Who formed 'Swadesh Bandhab Samiti' during the Indian freedom struggle?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "अश्विनी कुमार दत्त",
+            "B": "बटुकेश्वर दत्त",
+            "C": "सूर्य सेन",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 25
+    },
+    {
+        "question_number": "63",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "चम्पारण नील आन्दोलन के दौरान महात्मा गाँधी के साथ कौन थे?",
+        "english_text": "Who accompanied Mahatma Gandhi during the Champaran Indigo movement?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "नरहरि पारीख",
+            "B": "महादेव देसाई",
+            "C": "अब्दुल बारी",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 25
+    },
+    {
+        "question_number": "64",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "किस तिथि को अगस्त क्रान्ति, 1942 के दौरान लिनलिथगो ने पटना एवं इसके आसपास की भीड़ पर गोली चलाने का आदेश दिया था?",
+        "english_text": "On which date during the August Kranti of 1942 did Linlithgow order firing on the crowd in and around Patna?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "5 अगस्त",
+            "B": "15 अगस्त",
+            "C": "25 अगस्त",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 25
+    },
+    {
+        "question_number": "65",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "किस वर्ष 'बिहार प्रान्तिय किसान सभा' का गठन किया गया था?",
+        "english_text": "In which year was the 'Bihar Provincial Kisan Sabha' formed?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "1920",
+            "B": "1924",
+            "C": "1929",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 25
+    },
+    {
+        "question_number": "66",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "निम्नलिखित में से कौन-सा विद्रोह/आन्दोलन लम्बी दाढ़ी रखने पर कर लगाए जाने के कारण हुआ था?",
+        "english_text": "Which of the following rebellions/movements occurred due to the imposition of a tax for keeping a long beard?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "फराजी आन्दोलन",
+            "B": "पागलपंथी विद्रोह",
+            "C": "वहाबी आन्दोलन",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 25
+    },
+    {
+        "question_number": "67",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "In which conspiracy case, three Englishmen were detained on conspiracy charges?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Nasik Conspiracy Case",
+            "B": "Kanpur Conspiracy Case",
+            "C": "Meerut Conspiracy Case",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 26
+    },
+    {
+        "question_number": "68",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The Poona Pact aimed at",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "formation of federation with Princely States",
+            "B": "women representation in the Indian National Congress",
+            "C": "political representation of depressed class",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 26
+    },
+    {
+        "question_number": "69",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Where was the first All India Congress Socialist Conference held?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Patna",
+            "B": "Bhagalpur",
+            "C": "Muzaffarpur",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 26
+    },
+    {
+        "question_number": "70",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Who was the author of Biography of Kunwar Singh and Amar Singh?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "M. N. Roy",
+            "B": "Kalikinkar Datta",
+            "C": "Jawaharlal Nehru",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 26
+    },
+    {
+        "question_number": "71",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Subhas Chandra Bose became the President of the Indian National Congress in Tripuri Session by defeating",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Pattabhi Sitaramayya",
+            "B": "Rash Behari Bose",
+            "C": "Jawaharlal Nehru",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 26
+    },
+    {
+        "question_number": "72",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following is true about Dr. B. R. Ambedkar?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "He published Mooknayak.",
+            "B": "He founded 'Bahishkrit Hitakarini Sabha'.",
+            "C": "He passed away in 1956.",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 26
+    },
+    {
+        "question_number": "67",
+        "section": "General Studies",
+        "subject": "History",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "किस षड्यंत्र के मामले में, तीन अंग्रेजों को साजिश करने के लिए कारागार में अवरुद्ध किया गया था?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "नासिक षड्यंत्र मामला",
+            "B": "कानपुर षड्यंत्र मामला",
+            "C": "मेरठ षड्यंत्र मामला",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 27
+    },
+    {
+        "question_number": "68",
+        "section": "General Studies",
+        "subject": "History",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "पूना पैक्ट का उद्देश्य था",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "रियासतों के साथ संघ का निर्माण",
+            "B": "भारतीय राष्ट्रीय काँग्रेस में महिलाओं का प्रतिनिधित्व",
+            "C": "दलित वर्ग का राजनीतिक प्रतिनिधित्व",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 27
+    },
+    {
+        "question_number": "69",
+        "section": "General Studies",
+        "subject": "History",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "प्रथम अखिल भारतीय काँग्रेस समाजवादी सम्मेलन कहाँ हुआ था?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "पटना",
+            "B": "भागलपुर",
+            "C": "मुजफ्फरपुर",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 27
+    },
+    {
+        "question_number": "70",
+        "section": "General Studies",
+        "subject": "History",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "बायोग्राफी ऑफ़ कुंवर सिंह ऐण्ड अमर सिंह के लेखक कौन हैं?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "एम० एन० रॉय",
+            "B": "कालीकिंकर दत्त",
+            "C": "जवाहरलाल नेहरू",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 27
+    },
+    {
+        "question_number": "71",
+        "section": "General Studies",
+        "subject": "History",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "सुभाष चन्द्र बोस भारतीय राष्ट्रीय काँग्रेस के त्रिपुरी अधिवेशन में किसको हराकर अध्यक्ष बने थे?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "पट्टाभि सीतारामैया",
+            "B": "रासबिहारी बोस",
+            "C": "जवाहरलाल नेहरू",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 27
+    },
+    {
+        "question_number": "72",
+        "section": "General Studies",
+        "subject": "History",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "डॉ० बी० आर० अम्बेदकर के विषय में, निम्नलिखित में से क्या सत्य है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "उन्होंने मूकनायक का प्रकाशन किया।",
+            "B": "उन्होंने 'बहिष्कृत हितकारिणी सभा' की स्थापना की।",
+            "C": "उनका 1956 में देहांत हो गया।",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 27
+    },
+    {
+        "question_number": "73",
+        "section": "General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "Match List-I with List-II and select the correct answer using the codes given below the Lists",
+        "hindi_text": "",
+        "english_text": "Match List-I with List-II and select the correct answer using the codes given below the Lists :\n\nList-I (Names of movements)\na. Movement of Indigo Planters\nb. Peasant Satyagraha\nc. Cotton Mill Workers Satyagraha\nd. Movement to cut off the Non-Cooperation\n\nList-II (Their related important centres)\n1. Ahmedabad\n2. Champaran\n3. Khera\n4. Chauri Chaura\n\nCodes :\n(A) a: 1, b: 2, c: 3, d: 4\n(B) a: 3, b: 4, c: 2, d: 1\n(C) a: 2, b: 3, c: 1, d: 4",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "(a) 1, (b) 2, (c) 3, (d) 4",
+            "B": "(a) 3, (b) 4, (c) 2, (d) 1",
+            "C": "(a) 2, (b) 3, (c) 1, (d) 4",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 28
+    },
+    {
+        "question_number": "74",
+        "section": "General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Freedom of Press in India is available to the people because",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "it is available to the people under the Law of the Parliament",
+            "B": "it is specially provided in the Constitution of India",
+            "C": "it is implied in the Right to Freedom of Expression",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 28
+    },
+    {
+        "question_number": "75",
+        "section": "General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "Match List-I with List-II and select the correct answer using the codes given below the Lists",
+        "hindi_text": "",
+        "english_text": "Match List-I with List-II and select the correct answer using the codes given below the Lists :\n\nList-I (Available resources in some provinces)\na. Rich in mineral resources but lacks industrialization\nb. Rich in water resources but lacks infrastructure development\nc. Rich in solar and wind energy but lacks water resources\nd. Rich in mineral resources but lacks the means of transportation and communication\n\nList-II (Names of the related provinces)\n1. Jharkhand\n2. Arunachal Pradesh\n3. Rajasthan\n4. Ladakh\n\nCodes :\n(A) a: 3, b: 4, c: 1, d: 2\n(B) a: 1, b: 2, c: 3, d: 4\n(C) a: 2, b: 1, c: 4, d: 3",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "(a) 3, (b) 4, (c) 1, (d) 2",
+            "B": "(a) 1, (b) 2, (c) 3, (d) 4",
+            "C": "(a) 2, (b) 1, (c) 4, (d) 3",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 28
+    },
+    {
+        "question_number": "73",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "सूची-I को सूची-II से सुमेलित कीजिए और सूचियों के नीचे दिए गए कूट से सही उत्तर का चयन कीजिए :",
+        "hindi_text": "सूची-I को सूची-II से सुमेलित कीजिए और सूचियों के नीचे दिए गए कूट से सही उत्तर का चयन कीजिए :\n\nसूची-I (आन्दोलनों के नाम)\na. नील के पौधे लगाने वालों का आन्दोलन\nb. खेतिहर सत्याग्रह\nc. कपास मिल मजदूरों का सत्याग्रह\nd. असहयोग आन्दोलन को बंद करने के लिए आन्दोलन\n\nसूची-II (उनसे सम्बन्धित महत्त्वपूर्ण केन्द्र)\n1. अहमदाबाद\n2. चम्पारण\n3. खेरा\n4. चौरी चौरा\n\nकूट :\n(A) a:1, b:2, c:3, d:4\n(B) a:3, b:4, c:2, d:1\n(C) a:2, b:3, c:1, d:4\n(D) उपर्युक्त में से एक से अधिक\n(E) उपर्युक्त में से कोई नहीं",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "a b c d\n1 2 3 4",
+            "B": "a b c d\n3 4 2 1",
+            "C": "a b c d\n2 3 1 4",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 29
+    },
+    {
+        "question_number": "74",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "भारत में प्रेस की स्वतंत्रता लोगों को प्राप्त है, क्योंकि\n(A) यह संसद की विधि के तहत लोगों के लिए उपलब्ध है\n(B) यह भारत के संविधान में विशेष रूप से प्रदत्त है\n(C) यह विचाराभिव्यक्ति की स्वतंत्रता के अधिकार में निहित है\n(D) उपर्युक्त में से एक से अधिक\n(E) उपर्युक्त में से कोई नहीं",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "यह संसद की विधि के तहत लोगों के लिए उपलब्ध है",
+            "B": "यह भारत के संविधान में विशेष रूप से प्रदत्त है",
+            "C": "यह विचाराभिव्यक्ति की स्वतंत्रता के अधिकार में निहित है",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 29
+    },
+    {
+        "question_number": "75",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "सूची-I को सूची-II से सुमेलित कीजिए और सूचियों के नीचे दिए गए कूट से सही उत्तर का चयन कीजिए :",
+        "hindi_text": "सूची-I को सूची-II से सुमेलित कीजिए और सूचियों के नीचे दिए गए कूट से सही उत्तर का चयन कीजिए :\n\nसूची-I (कुछ प्रान्तों में संसाधनों की उपलब्धता)\na. खनिज संसाधनों की सम्पन्नता परन्तु उद्योगी-करण की कमी\nb. जल संसाधनों की सम्पन्नता परन्तु आधारभूत संरचना के विकास की कमी\nc. सौर और वायु ऊर्जा की सम्पन्नता परन्तु जल संसाधनों की कमी\nd. खनिज संसाधनों की सम्पन्नता परन्तु परिवहन और संचार के साधनों की कमी\n\nसूची-II (सम्बन्धित प्रान्तों के नाम)\n1. झारखंड\n2. अरुणाचल प्रदेश\n3. राजस्थान\n4. लद्दाख\n\nकूट :\n(A) a:3, b:4, c:1, d:2\n(B) a:1, b:2, c:3, d:4\n(C) a:2, b:1, c:4, d:3\n(D) उपर्युक्त में से एक से अधिक\n(E) उपर्युक्त में से कोई नहीं",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "a b c d\n3 4 1 2",
+            "B": "a b c d\n1 2 3 4",
+            "C": "a b c d\n2 1 4 3",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 29
+    },
+    {
+        "question_number": "76",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "A medicinal plant named 'Himalayan yew' is found in which of the following provinces of India?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Himachal Pradesh and Arunachal Pradesh",
+            "B": "Uttarakhand and Madhya Pradesh",
+            "C": "Jammu & Kashmir and Assam",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 30
+    },
+    {
+        "question_number": "77",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The 'Overseas Indian Citizenship (OIC) Scheme' was introduced by which of the following Acts in India?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "The Citizenship (Amendment) Act, 2003",
+            "B": "The Citizenship Act, 1955",
+            "C": "The Citizenship (Amendment) Act, 2019",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 30
+    },
+    {
+        "question_number": "78",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following may be known as the main cause of disappearing the rigid caste system in India?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "The Constitution and its basic structure",
+            "B": "The social reforms and economic development",
+            "C": "The growth of literacy and education",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 30
+    },
+    {
+        "question_number": "79",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The Ministry of Panchayati Raj was created in the Central Government of India in which of the following years?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "2002-2003",
+            "B": "2004",
+            "C": "2005-2006",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 30
+    },
+    {
+        "question_number": "80",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Who among the following believed that “a communist society was the natural society of the future”?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Karl Marx",
+            "B": "Friedrich Engels",
+            "C": "Robert Owen",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 30
+    },
+    {
+        "question_number": "81",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Who among the following is the author of the book, The Social Contract?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Thomas Hobbes",
+            "B": "John Locke",
+            "C": "Jean-Jacques Rousseau",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 30
+    },
+    {
+        "question_number": "76",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "‘हिमालयन यू’ नामक औषधीय पौधा, भारत के निम्नलिखित में से किन प्रान्तों में पाया जाता है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "हिमाचल प्रदेश तथा अरुणाचल प्रदेश",
+            "B": "उत्तराखंड तथा मध्य प्रदेश",
+            "C": "जम्मू और कश्मीर तथा असम",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 31
+    },
+    {
+        "question_number": "77",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "‘समुद्रपारीय भारतीय नागरिकता (ओ०आई०सी०) योजना’ भारत में निम्नलिखित में से किस अधिनियम द्वारा प्रारंभ की गई थी?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "नागरिकता (संशोधन) अधिनियम, 2003",
+            "B": "नागरिकता अधिनियम, 1955",
+            "C": "नागरिकता (संशोधन) अधिनियम, 2019",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 31
+    },
+    {
+        "question_number": "78",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "निम्नलिखित में से कौन-सा भारत में कठोर जाति व्यवस्था के लोप होने के मुख्य कारण के रूप में जाना जा सकता है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "संविधान तथा इसकी आधारभूत संरचना",
+            "B": "सामाजिक सुधार एवं आर्थिक विकास",
+            "C": "साक्षरता एवं शिक्षा विकास",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 31
+    },
+    {
+        "question_number": "79",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "भारत की केन्द्रीय सरकार का पंचायती राज मंत्रालय निम्नलिखित में से किस वर्ष निर्मित हुआ था?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "2002-2003",
+            "B": "2004",
+            "C": "2005-2006",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 31
+    },
+    {
+        "question_number": "80",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "इनमें से कौन विश्वास करता था कि “एक साम्यवादी समाज भविष्य का प्राकृतिक समाज था”?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "कार्ल मार्क्स",
+            "B": "फ्रेडरिक एंगेल्स",
+            "C": "रॉबर्ट ओवेन",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 31
+    },
+    {
+        "question_number": "81",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "इनमें से कौन दि सोशल् कॉन्ट्रैक्ट पुस्तक का लेखक है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "थॉमस हॉब्स",
+            "B": "जॉन लॉक",
+            "C": "जीन-जैक्स रूसो",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 31
+    },
+    {
+        "question_number": "82",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following movements was launched against multipurpose projects in India?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Narmada Bachao Andolan",
+            "B": "Tehri Dam Andolan",
+            "C": "Chipko Andolan",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 32
+    },
+    {
+        "question_number": "83",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following is the Fundamental Duty under the Constitution of India?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "To uphold the unity and integrity of India",
+            "B": "To protect the natural environment",
+            "C": "To provide educational opportunities to own child",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 32
+    },
+    {
+        "question_number": "84",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Who wrote Pakistan or the Partition of India?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Muhammad Iqbal",
+            "B": "Muhammad Ali Jinnah",
+            "C": "Dr. Bhimrao Ramji Ambedkar",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 32
+    },
+    {
+        "question_number": "85",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "When was Ireland forcibly incorporated into the United Kingdom?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "1707",
+            "B": "1798",
+            "C": "1801",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 32
+    },
+    {
+        "question_number": "86",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Who started 'Sarva Shiksha Abhiyan'?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Indira Gandhi",
+            "B": "Narasimha Rao",
+            "C": "Atal Bihari Vajpayee",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 32
+    },
+    {
+        "question_number": "87",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "When did Sri Lanka become independent?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "1945",
+            "B": "1947",
+            "C": "1948",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 32
+    },
+    {
+        "question_number": "88",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "'Annapurna Yojana' ration card is for",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "older and poor people above 65 years",
+            "B": "above poverty line families",
+            "C": "below poverty line families",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 32
+    },
+    {
+        "question_number": "82",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "निम्नलिखित आन्दोलनों में से किसका भारतवर्ष के अन्तर्गत, बहुउद्देशीय परियोजनाओं के विरुद्ध शुभारंभ किया गया था?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "नर्मदा बचाओ आन्दोलन",
+            "B": "टिहरी बाँध आन्दोलन",
+            "C": "चिपको आन्दोलन",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 33
+    },
+    {
+        "question_number": "83",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "निम्नलिखित में से कौन-सा भारत के संविधान के अन्तर्गत, मूल कर्त्तव्य है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "देश की एकता एवं अखंडता को कायम रखना",
+            "B": "प्राकृतिक पर्यावरण को सुरक्षित करना",
+            "C": "अपने बच्चे को शैक्षिक अवसर प्रदान करना",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 33
+    },
+    {
+        "question_number": "84",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "पाकिस्तान ऑरि दि पार्टिशन ऑफ इन्डिया किसने लिखा था?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "मुहम्मद इकबाल",
+            "B": "मुहम्मद अली जिन्नाह",
+            "C": "डॉ० भीमराव रामजी अम्बेडकर",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 33
+    },
+    {
+        "question_number": "85",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "आयरलैंड को जबरदस्ती यूनाइटेड किंगडम में कब मिलाया गया?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "1707",
+            "B": "1798",
+            "C": "1801",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 33
+    },
+    {
+        "question_number": "86",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "'सर्व शिक्षा अभियान' किसने प्रारंभ किया?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "इन्दिरा गाँधी",
+            "B": "नरसिंह राव",
+            "C": "अटल बिहारी वाजपेयी",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 33
+    },
+    {
+        "question_number": "87",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "श्रीलंका कब स्वतंत्र हुआ?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "1945",
+            "B": "1947",
+            "C": "1948",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 33
+    },
+    {
+        "question_number": "88",
+        "section": "Part-II General Studies",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "'अन्नपूर्णा योजना' राशन कार्ड किसके लिए है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "वृद्ध व गरीब लोग, जो 65 वर्ष से अधिक के हों",
+            "B": "गरीबी रेखा के ऊपर वाले परिवार",
+            "C": "गरीबी रेखा के नीचे वाले परिवार",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 33
+    },
+    {
+        "question_number": "89",
+        "section": "Part-III Subject Paper",
+        "subject": "Biology / Environmental Science",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Y-shaped energy flow model in ecosystem was proposed by",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Odum",
+            "B": "Lindeman",
+            "C": "Clements",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 34
+    },
+    {
+        "question_number": "90",
+        "section": "Part-III Subject Paper",
+        "subject": "Biology / Environmental Science",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "SO_2 pollution is indicated by",
+        "math_latex": "SO_2",
+        "has_image": false,
+        "options": {
+            "A": "orchids",
+            "B": "mangroves",
+            "C": "lichens",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 34
+    },
+    {
+        "question_number": "91",
+        "section": "Part-III Subject Paper",
+        "subject": "Biology / Environmental Science",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The Salim Ali Bird Sanctuary is located in",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Uttar Pradesh",
+            "B": "Madhya Pradesh",
+            "C": "West Bengal",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 34
+    },
+    {
+        "question_number": "92",
+        "section": "Part-III Subject Paper",
+        "subject": "Biology / Environmental Science",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The IUCN Headquarters is in",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Switzerland",
+            "B": "France",
+            "C": "Australia",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 34
+    },
+    {
+        "question_number": "93",
+        "section": "Part-III Subject Paper",
+        "subject": "Biology / Environmental Science",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "How much energy is consumed from one trophic level to another trophic level?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "5%",
+            "B": "10%",
+            "C": "15%",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 34
+    },
+    {
+        "question_number": "94",
+        "section": "Part-III Subject Paper",
+        "subject": "Biology / Environmental Science",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Pneumatophores are present in",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "hydrophytes",
+            "B": "xerophytes",
+            "C": "halophytes",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 34
+    },
+    {
+        "question_number": "95",
+        "section": "Part-III Subject Paper",
+        "subject": "Biology / Environmental Science",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following is a secondary pollutant?",
+        "math_latex": "SO_2",
+        "has_image": false,
+        "options": {
+            "A": "PAN",
+            "B": "SO_2",
+            "C": "Ozone",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 34
+    },
+    {
+        "question_number": "96",
+        "section": "Part-III Subject Paper",
+        "subject": "Biology / Environmental Science",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The 10% law of energy flow in ecosystem was proposed by",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Lindeman",
+            "B": "Hückel",
+            "C": "Elton",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 34
+    },
+    {
+        "question_number": "89",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "पारिस्थितिक तंत्र में Y-आकार का ऊर्जा प्रवाह मॉडल किसके द्वारा दिया गया था?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "ओडम",
+            "B": "लिन्डमैन",
+            "C": "क्लिमेन्ट्स",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 35
+    },
+    {
+        "question_number": "90",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "SO2 प्रदूषण सूचित होता है",
+        "english_text": "",
+        "math_latex": "SO_2",
+        "has_image": false,
+        "options": {
+            "A": "आर्किड द्वारा",
+            "B": "मैंग्रोव द्वारा",
+            "C": "लाइकेन द्वारा",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 35
+    },
+    {
+        "question_number": "91",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "सलीम अली पक्षी अभयारण्य स्थित है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "उत्तर प्रदेश में",
+            "B": "मध्य प्रदेश में",
+            "C": "पश्चिम बंगाल में",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 35
+    },
+    {
+        "question_number": "92",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "आइ० यू० सी० एन० मुख्यालय कहाँ है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "स्विट्जरलैंड",
+            "B": "फ्रांस",
+            "C": "ऑस्ट्रेलिया",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 35
+    },
+    {
+        "question_number": "93",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "एक पोषी स्तर से दूसरे पोषी स्तर में कितनी ऊर्जा अवशोषण होती है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "5%",
+            "B": "10%",
+            "C": "15%",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 35
+    },
+    {
+        "question_number": "94",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "श्वसनमूल किसमें पाए जाते हैं?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "जलोद्भिद्",
+            "B": "मरूद्भिद्",
+            "C": "लवणोद्भिद्",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 35
+    },
+    {
+        "question_number": "95",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "निम्नलिखित में से कौन-सा द्वितीयक प्रदूषक है?",
+        "english_text": "",
+        "math_latex": "SO_2",
+        "has_image": false,
+        "options": {
+            "A": "PAN",
+            "B": "SO_2",
+            "C": "ओजोन",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 35
+    },
+    {
+        "question_number": "96",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "पारिस्थितिक तंत्र में ऊर्जा प्रवाह का 10% नियम दिया गया था",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "लिन्डमैन द्वारा",
+            "B": "हकल द्वारा",
+            "C": "एल्टन द्वारा",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 35
+    },
+    {
+        "question_number": "97",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "In India, tropical rain forests are found in",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Karnataka",
+            "B": "Himachal Pradesh",
+            "C": "Kerala",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 36
+    },
+    {
+        "question_number": "98",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The major source of methane in India is",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "wheat field",
+            "B": "sugarcane field",
+            "C": "rice field",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 36
+    },
+    {
+        "question_number": "99",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The layer of atmosphere having lowest temperature is",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "stratosphere",
+            "B": "troposphere",
+            "C": "mesosphere",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 36
+    },
+    {
+        "question_number": "100",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The increase in concentration of toxic substances in successive trophic level is referred to as",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "eutrophication",
+            "B": "biomagnification",
+            "C": "bioaccumulation",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 36
+    },
+    {
+        "question_number": "101",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which of the following acts as a pioneer species in a xerarch succession?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Lichen",
+            "B": "Human",
+            "C": "Herb",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 36
+    },
+    {
+        "question_number": "102",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "The Ramsar Convention is associated with the conservation of",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "drylands",
+            "B": "wetlands",
+            "C": "forests",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 36
+    },
+    {
+        "question_number": "103",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Itai-itai disease is caused by",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "mercury",
+            "B": "iron",
+            "C": "cadmium",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 36
+    },
+    {
+        "question_number": "104",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Which one of the following is not included under in situ conservation?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Botanical Garden",
+            "B": "National Park",
+            "C": "Wildlife Sanctuary",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 36
+    },
+    {
+        "question_number": "97",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "भारत में उष्णकटिबंधीय वर्षा वन पाए जाते हैं",
+        "english_text": "Tropical rainforests are found in India in",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "कर्नाटक में",
+            "B": "हिमाचल प्रदेश में",
+            "C": "केरल में",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 37
+    },
+    {
+        "question_number": "98",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "भारत में मीथेन का मुख्य स्रोत है",
+        "english_text": "The main source of methane in India is",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "गेहूँ का खेत",
+            "B": "गन्ने का खेत",
+            "C": "धान का खेत",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 37
+    },
+    {
+        "question_number": "99",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "वायुमंडल की किस परत का तापमान सबसे कम होता है?",
+        "english_text": "The temperature of which layer of the atmosphere is the lowest?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "समतापमंडल",
+            "B": "क्षोभमंडल",
+            "C": "मध्यमंडल",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 37
+    },
+    {
+        "question_number": "100",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "क्रमिक पोषी स्तर में विषाक्त पदार्थों की सांद्रता में वृद्धि को कहा जाता है",
+        "english_text": "The increase in concentration of toxic substances in successive trophic levels is called",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "सुपोषण",
+            "B": "जैव आवर्धन",
+            "C": "जैव संचय",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 37
+    },
+    {
+        "question_number": "101",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "निम्नलिखित में से कौन-सा/सी शुष्कतआरम्भी अनुक्रमण में अग्रगामी प्रजाति के रूप में कार्य करता/करती है?",
+        "english_text": "Which of the following acts as a pioneer species in xerarch succession?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "लाइकेन",
+            "B": "मनुष्य",
+            "C": "जड़ी-बूटी",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 37
+    },
+    {
+        "question_number": "102",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "रामसर सम्मेलन किसके संरक्षण से जुड़ा है?",
+        "english_text": "Ramsar Convention is related to the conservation of?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "शुष्कभूमि",
+            "B": "आर्द्रभूमि",
+            "C": "वन",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 37
+    },
+    {
+        "question_number": "103",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "इटाई-इटाई रोग किसके कारण होता है?",
+        "english_text": "Itai-itai disease is caused by?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "पारा",
+            "B": "लोहा",
+            "C": "कैड्मियम",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 37
+    },
+    {
+        "question_number": "104",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "निम्नलिखित में से कौन-सा स्वस्थाने (इन सीटू) संरक्षण के अधीन शामिल नहीं है?",
+        "english_text": "Which of the following is not included under in-situ conservation?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "वनस्पति उद्यान",
+            "B": "राष्ट्रीय उद्यान",
+            "C": "वन्यजीव अभयारण्य",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 37
+    },
+    {
+        "question_number": "105",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Mathematics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "How many 4-digit numbers can be formed using the digits 0, 1, 2, 3, 4 without repetition?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "120",
+            "B": "5^4",
+            "C": "4^5",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 38
+    },
+    {
+        "question_number": "106",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Reasoning",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "If the word HEIGHT is coded as 96108921 and LOOSE is coded as 131616206, then the code for MOBILE, in the same language, is",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "1416310136",
+            "B": "1416411136",
+            "C": "1416312136",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 38
+    },
+    {
+        "question_number": "107",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Reasoning",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "Arrange the following words in logical order :",
+        "hindi_text": "",
+        "english_text": "Arrange the following words in logical order :\n1. Associate Professor\n2. Professor\n3. Assistant Professor\nSelect the correct answer using the codes given below.",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "2, 3, 1",
+            "B": "2, 1, 3",
+            "C": "1, 2, 3",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 38
+    },
+    {
+        "question_number": "108",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Mathematics",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "A person divides some items among four children. The first child gets \\frac{1}{2} of the total items and the second child gets \\frac{1}{4} of the first child. The third child gets \\frac{3}{4} of the first child. The fraction of the items the fourth child gets is",
+        "math_latex": "A person divides some items among four children. The first child gets \\frac{1}{2} of the total items and the second child gets \\frac{1}{4} of the first child. The third child gets \\frac{3}{4} of the first child. The fraction of the items the fourth child gets is",
+        "has_image": false,
+        "options": {
+            "A": "\\frac{3}{4} of the total items",
+            "B": "\\frac{3}{8} of the total items",
+            "C": "\\frac{1}{4} of the total items",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 38
+    },
+    {
+        "question_number": "105",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Mathematics",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "बिना दोहराव के अंक 0, 1, 2, 3, 4 का उपयोग करते हुए कितनी 4-अंकी संख्याएँ बनाई जा सकती हैं?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "120",
+            "B": "5^4",
+            "C": "4^5",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 39
+    },
+    {
+        "question_number": "106",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Reasoning",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "यदि शब्द HEIGHT को 96108921 के रूप में कोडित किया गया है और LOOSE को 131616206 के रूप में कोडित किया गया है, तो उसी भाषा में MOBILE के लिए कोड है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "1416310136",
+            "B": "1416411136",
+            "C": "1416312136",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 39
+    },
+    {
+        "question_number": "107",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Reasoning",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "निम्नलिखित शब्दों को तार्किक क्रम में व्यवस्थित कीजिए :\n1. सह-प्राध्यापक\n2. प्राध्यापक\n3. सहायक प्राध्यापक\nनीचे दिए गए कूट का प्रयोग करते हुए सही उत्तर का चयन कीजिए।",
+        "hindi_text": "निम्नलिखित शब्दों को तार्किक क्रम में व्यवस्थित कीजिए :\n1. सह-प्राध्यापक\n2. प्राध्यापक\n3. सहायक प्राध्यापक\nनीचे दिए गए कूट का प्रयोग करते हुए सही उत्तर का चयन कीजिए।",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "2, 3, 1",
+            "B": "2, 1, 3",
+            "C": "1, 2, 3",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 39
+    },
+    {
+        "question_number": "108",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies / Mathematics",
+        "language": "hindi",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "एक व्यक्ति चार बच्चों के बीच कुछ वस्तुओं को बाँटता है। पहले बच्चे को कुल वस्तुओं का \\frac{1}{2} मिलता है और दूसरे बच्चे को पहले बच्चे का \\frac{1}{4} मिलता है। तीसरे बच्चे को पहले बच्चे का \\frac{3}{4} मिलता है। चौथे बच्चे को कितना अंश मिलता है?",
+        "english_text": "",
+        "math_latex": "\\frac{1}{2}, \\frac{1}{4}, \\frac{3}{4}",
+        "has_image": false,
+        "options": {
+            "A": "\\text{कुल वस्तुओं का } \\frac{3}{4}",
+            "B": "\\text{कुल वस्तुओं का } \\frac{3}{8}",
+            "C": "\\text{कुल वस्तुओं का } \\frac{1}{4}",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 39
+    },
+    {
+        "question_number": "109",
+        "section": "Part-III Subject Paper",
+        "subject": "Mathematics",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "If the area of a square is equal to the area of an equilateral triangle, the ratio of the side of the square and the side of the equilateral triangle is",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "1:1",
+            "B": "2:1",
+            "C": "\\sqrt{3}:2",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 40
+    },
+    {
+        "question_number": "110",
+        "section": "Part-III Subject Paper",
+        "subject": "Mathematics",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Find the wrong number in the series given below :\n3, 8, 13, 21, 31, 43",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "21",
+            "B": "31",
+            "C": "8",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 40
+    },
+    {
+        "question_number": "111",
+        "section": "Part-III Subject Paper",
+        "subject": "Mathematics",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Find the wrong number from the table given below :\n2\t4\t1\t5\n6\t12\t3\t15\n18\t36\t9\t45\n54\t108\t27\t100",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "9",
+            "B": "36",
+            "C": "100",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 40
+    },
+    {
+        "question_number": "112",
+        "section": "Part-III Subject Paper",
+        "subject": "Mathematics",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Let $a=10\\text{ cm}$, $b=3\\text{ cm}$ and $c=6\\text{ cm}$. Which of the following is true?",
+        "math_latex": "a=10\\text{ cm}, b=3\\text{ cm}, c=6\\text{ cm}",
+        "has_image": false,
+        "options": {
+            "A": "$a$, $b$ and $c$ are the sides of a triangle.",
+            "B": "$a$, $b$ and $c$ form right-angled triangle.",
+            "C": "$a$, $b$ and $c$ form isosceles triangle.",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 40
+    },
+    {
+        "question_number": "113",
+        "section": "Part-III Subject Paper",
+        "subject": "Mathematics",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Madan's brother's uncle is Karan's father's brother. What can be the relationship between Madan and Karan?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "Madan is Karan's uncle",
+            "B": "Madan is Karan's brother",
+            "C": "Madan is Karan's son",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 40
+    },
+    {
+        "question_number": "114",
+        "section": "Part-III Subject Paper",
+        "subject": "Mathematics",
+        "language": "english",
+        "is_compulsory": false,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Find the missing letters in the series given below :\nY, T, O, _____, _____\t",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "J, E",
+            "B": "J, D",
+            "C": "K, F",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 40
+    },
+    {
+        "question_number": "109",
+        "section": "Part-III Subject Paper",
+        "subject": "Mathematics / General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "यदि वर्ग का क्षेत्रफल, समबाहु त्रिभुज के क्षेत्रफल के बराबर है, तो वर्ग की भुजा और समबाहु त्रिभुज की भुजा का अनुपात है",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "1:1",
+            "B": "2:1",
+            "C": "\\sqrt{3}:2",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 41
+    },
+    {
+        "question_number": "110",
+        "section": "Part-III Subject Paper",
+        "subject": "Mathematics / General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "नीचे दी गई श्रृंखला में गलत संख्या ज्ञात कीजिए : 3, 8, 13, 21, 31, 43",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "21",
+            "B": "31",
+            "C": "8",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 41
+    },
+    {
+        "question_number": "111",
+        "section": "Part-III Subject Paper",
+        "subject": "Mathematics / General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "नीचे दी गई तालिका से गलत संख्या ज्ञात कीजिए :\n\\begin{tabular}{|c|c|c|c|}\n2 & 4 & 1 & 5 \\\\\n6 & 12 & 3 & 15 \\\\\n18 & 36 & 9 & 45 \\\\\n54 & 108 & 27 & 100\n\\end{tabular}",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": true,
+        "options": {
+            "A": "9",
+            "B": "36",
+            "C": "100",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 41
+    },
+    {
+        "question_number": "112",
+        "section": "Part-III Subject Paper",
+        "subject": "Mathematics / General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "माना a = 10 से० मी०, b = 3 से० मी० और c = 6 से० मी०। निम्नलिखित में से कौन-सा सत्य है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "a, b और c त्रिभुज की भुजा हैं।",
+            "B": "a, b और c समकोण त्रिभुज बनाते हैं।",
+            "C": "a, b और c समद्विबाहु त्रिभुज बनाते हैं।",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 41
+    },
+    {
+        "question_number": "113",
+        "section": "Part-III Subject Paper",
+        "subject": "Mathematics / General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "मदन के भाई के अंकल, करण के पिता के भाई हैं। मदन और करण में क्या सम्बन्ध हो सकता है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "मदन, करण का अंकल है",
+            "B": "मदन, करण का भाई है",
+            "C": "मदन, करण का पुत्र है",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 41
+    },
+    {
+        "question_number": "114",
+        "section": "Part-III Subject Paper",
+        "subject": "Mathematics / General Studies",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "निम्नलिखित श्रृंखला में से लुप्त अक्षर ज्ञात कीजिए : Y, T, O, _____, _____",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "J, E",
+            "B": "J, D",
+            "C": "K, F",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 41
+    },
+    {
+        "question_number": "115",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "How many triangles are there in the figure given below?",
+        "math_latex": "",
+        "has_image": true,
+        "options": {
+            "A": "13",
+            "B": "11",
+            "C": "15",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 42
+    },
+    {
+        "question_number": "116",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Asha walks 3 km southward and then turns right and walks 2 km. She again turns right and walks 3 km, and then turns towards her left and starts walking straight. In which direction is she walking now?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "North",
+            "B": "West",
+            "C": "East",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 42
+    },
+    {
+        "question_number": "117",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Find the wrong number in the series given below :\n28, 84, 112, 196, 308, 504, 872",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "112",
+            "B": "308",
+            "C": "872",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 42
+    },
+    {
+        "question_number": "118",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "In a certain code, '256' means 'you are good'; '637' means 'we are bad' and '358' means 'good and bad'. Which of the following digits represents 'and' in that code?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "2",
+            "B": "5",
+            "C": "8",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 42
+    },
+    {
+        "question_number": "119",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "Six roads lead to a country. They may be indicated by the letters X, Y, Z and the digits 1, 2, 3. When there is a storm, Y is blocked. When there are floods, X, 1 and 2 will be affected. When road 1 is blocked, Z is also blocked. At a time, when there are floods and a storm also blows, which road can be used?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "3",
+            "B": "Y",
+            "C": "Z",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 42
+    },
+    {
+        "question_number": "120",
+        "section": "Part-III Subject Paper",
+        "subject": "General Studies",
+        "language": "english",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "",
+        "english_text": "In a certain code, DELHI is written as CCIDD. How is BOMBAY written in that code?",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "AJMTVT",
+            "B": "MJXVSU",
+            "C": "AMJXVS",
+            "D": "More than one of the above",
+            "E": "None of the above"
+        },
+        "source_page": 42
+    },
+    {
+        "question_number": "115",
+        "section": "General Studies",
+        "subject": "Reasoning",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "नीचे दी गई आकृति में कितने त्रिकोण हैं?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": true,
+        "options": {
+            "A": "13",
+            "B": "11",
+            "C": "15",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 43
+    },
+    {
+        "question_number": "116",
+        "section": "General Studies",
+        "subject": "Reasoning",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "आशा 3 कि० मी० दक्षिण की ओर चलती है और फिर दाएँ मुड़कर 2 कि० मी० चलती है। वह फिर से दाएँ मुड़कर 3 कि० मी० चलती है और अपने बाएँ मुड़ती है और सीधा चलना शुरू करती है। अब वह किस दिशा में चल रही है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "उत्तर",
+            "B": "पश्चिम",
+            "C": "पूर्व",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 43
+    },
+    {
+        "question_number": "117",
+        "section": "General Studies",
+        "subject": "Reasoning",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "नीचे दी गई श्रृंखला में गलत संख्या ज्ञात कीजिए :\n28, 84, 112, 196, 308, 504, 872",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "112",
+            "B": "308",
+            "C": "872",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 43
+    },
+    {
+        "question_number": "118",
+        "section": "General Studies",
+        "subject": "Reasoning",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "किसी निश्चित कूट में, '256' का अर्थ है 'you are good'; '637' का अर्थ है 'we are bad' और '358' का अर्थ है 'good and bad'. उसी कूट में निम्नलिखित में से कौन-सा अंक 'and' दर्शाता है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "2",
+            "B": "5",
+            "C": "8",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 43
+    },
+    {
+        "question_number": "119",
+        "section": "General Studies",
+        "subject": "Reasoning",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "छः सड़कें एक देश की ओर जाती हैं। उन्हें X, Y, Z अक्षरों और 1, 2, 3 अंकों द्वारा इंगित किया जा सकता है। जब तूफान आता है, Y अवरुद्ध हो जाती है। जब बाढ़ आती है, X, 1 और 2 प्रभावित होती हैं। जब सड़क 1 अवरुद्ध होती है, Z भी अवरुद्ध हो जाती है। एक ही समय पर जब बाढ़ आ जाए और तूफान भी चलने लगे, तो किस सड़क का उपयोग किया जा सकता है?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "3",
+            "B": "Y",
+            "C": "Z",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 43
+    },
+    {
+        "question_number": "120",
+        "section": "General Studies",
+        "subject": "Reasoning",
+        "language": "hindi",
+        "is_compulsory": true,
+        "instruction_text": "",
+        "hindi_text": "किसी निश्चित कूट में, DELHI को CCIDD लिखा जाता है। उसी कूट में BOMBAY को कैसे लिखेंगे?",
+        "english_text": "",
+        "math_latex": "",
+        "has_image": false,
+        "options": {
+            "A": "AJMTVT",
+            "B": "MJXVSU",
+            "C": "AMJXVS",
+            "D": "उपर्युक्त में से एक से अधिक",
+            "E": "उपर्युक्त में से कोई नहीं"
+        },
+        "source_page": 43
+    }
+]
