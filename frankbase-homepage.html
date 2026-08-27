@@ -1,0 +1,1119 @@
+<!DOCTYPE html>
+<html lang="hi" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FrankBase — India's Open Knowledge & Study Hub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800;900&family=Plus+Jakarta+Sans:ital,opsz,wght@0,6..30,300;0,6..30,400;0,6..30,500;0,6..30,600;0,6..30,700;0,6..30,800;1,6..30,400&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+/* =============================================
+   THEME TOKENS
+============================================= */
+:root {
+  --bg:      #060a1e;
+  --bg2:     #090e28;
+  --surf:    #0d1430;
+  --surf2:   #152042;
+  --surf3:   #1e2d56;
+  --border:  rgba(100,104,245,0.13);
+  --bh:      rgba(100,104,245,0.45);
+  --t1:      #eef2ff;
+  --t2:      #8b9bc8;
+  --t3:      #56669a;
+  --accent:  #6366f1;
+  --acl:     #818cf8;
+  --gold:    #f59e0b;
+  --goldl:   #fbbf24;
+  --em:      #10b981;
+  --rose:    #f43f5e;
+  --pu:      #a78bfa;
+  --teal:    #2dd4bf;
+  --ga:      rgba(99,102,241,0.18);
+  --gg:      rgba(245,158,11,0.12);
+  --shadow:  0 8px 32px rgba(0,0,0,0.45);
+  --tr:      .28s cubic-bezier(.4,0,.2,1);
+}
+[data-theme="light"] {
+  --bg:      #f2f4ff;
+  --bg2:     #e8ecff;
+  --surf:    #ffffff;
+  --surf2:   #eef0ff;
+  --surf3:   #dde2ff;
+  --border:  rgba(79,70,229,0.1);
+  --bh:      rgba(79,70,229,0.38);
+  --t1:      #0f172a;
+  --t2:      #364072;
+  --t3:      #6b7280;
+  --accent:  #4338ca;
+  --acl:     #4f46e5;
+  --gold:    #d97706;
+  --goldl:   #f59e0b;
+  --em:      #059669;
+  --rose:    #e11d48;
+  --pu:      #7c3aed;
+  --teal:    #0d9488;
+  --ga:      rgba(79,70,229,0.09);
+  --gg:      rgba(217,119,6,0.09);
+  --shadow:  0 8px 32px rgba(79,70,229,0.09);
+}
+
+/* =============================================
+   RESET & BASE
+============================================= */
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{
+  font-family:'Plus Jakarta Sans',sans-serif;
+  background:var(--bg);color:var(--t1);
+  line-height:1.6;overflow-x:hidden;
+  transition:background var(--tr),color var(--tr);
+}
+::-webkit-scrollbar{width:5px}
+::-webkit-scrollbar-track{background:var(--bg)}
+::-webkit-scrollbar-thumb{background:var(--accent);border-radius:3px}
+a{text-decoration:none;color:inherit}
+img{max-width:100%;display:block}
+
+/* =============================================
+   TYPOGRAPHY
+============================================= */
+h1,h2,h3,h4{font-family:'Outfit',sans-serif;line-height:1.12;letter-spacing:-0.022em}
+h1{font-size:clamp(2.8rem,6.5vw,5.6rem);font-weight:900}
+h2{font-size:clamp(2rem,4.2vw,3.2rem);font-weight:800}
+h3{font-size:1.15rem;font-weight:700}
+h4{font-size:.7rem;font-weight:700;letter-spacing:.13em;text-transform:uppercase}
+p{color:var(--t2);line-height:1.77}
+code,kbd,.mono{font-family:'JetBrains Mono',monospace}
+
+/* =============================================
+   LAYOUT
+============================================= */
+.wrap{max-width:1200px;margin:0 auto;padding:0 24px}
+.sec{padding:96px 0}
+.sec-alt{background:var(--bg2)}
+
+/* =============================================
+   NAV
+============================================= */
+.nav{
+  position:fixed;top:0;left:0;right:0;z-index:999;
+  padding:16px 28px;transition:all var(--tr);
+}
+.nav.on{
+  border-bottom:1px solid var(--border);
+  backdrop-filter:blur(24px);-webkit-backdrop-filter:blur(24px);
+}
+[data-theme="dark"] .nav.on{background:rgba(6,10,30,.9)}
+[data-theme="light"] .nav.on{background:rgba(242,244,255,.93)}
+.nav-in{max-width:1200px;margin:0 auto;display:flex;align-items:center;gap:20px}
+
+.logo{
+  display:flex;align-items:center;gap:10px;
+  font-family:'Outfit',sans-serif;font-size:1.45rem;font-weight:900;
+  flex-shrink:0;
+}
+.logo-m{
+  width:40px;height:40px;border-radius:11px;
+  background:linear-gradient(135deg,var(--accent) 0%,var(--gold) 100%);
+  display:flex;align-items:center;justify-content:center;
+  color:#fff;font-size:1.1rem;font-weight:900;
+  box-shadow:0 4px 16px var(--ga);
+}
+
+.nav-links{
+  display:flex;gap:2px;list-style:none;margin-left:auto;
+}
+.nav-links a{
+  padding:7px 13px;font-size:.88rem;font-weight:500;
+  color:var(--t2);border-radius:8px;
+  transition:color var(--tr),background var(--tr);
+}
+.nav-links a:hover{color:var(--t1);background:var(--surf)}
+
+.nav-r{display:flex;align-items:center;gap:10px}
+
+/* Toggle pill */
+.tog{
+  display:flex;align-items:center;gap:7px;
+  padding:6px 14px;border-radius:100px;
+  background:var(--surf);border:1px solid var(--border);
+  cursor:pointer;font-size:.78rem;font-weight:600;
+  color:var(--t2);transition:all var(--tr);white-space:nowrap;
+}
+.tog:hover{border-color:var(--bh);color:var(--t1)}
+.tog-orb{
+  width:16px;height:16px;border-radius:50%;
+  background:linear-gradient(135deg,var(--gold),var(--accent));
+  transition:transform .35s;flex-shrink:0;
+}
+[data-theme="light"] .tog-orb{transform:rotate(180deg)}
+
+.nav-cta{
+  padding:9px 20px;border-radius:9px;
+  background:linear-gradient(135deg,var(--accent),var(--acl));
+  color:#fff;font-weight:700;font-size:.88rem;
+  transition:all var(--tr);box-shadow:0 4px 16px var(--ga);
+  white-space:nowrap;
+}
+.nav-cta:hover{transform:translateY(-1px);box-shadow:0 6px 22px var(--ga)}
+
+.ham{
+  display:none;flex-direction:column;gap:5px;
+  cursor:pointer;padding:8px;margin-left:auto;
+}
+.ham span{
+  display:block;width:22px;height:2px;
+  background:var(--t1);border-radius:2px;transition:all .3s;
+}
+
+/* =============================================
+   HERO
+============================================= */
+.hero{
+  min-height:100vh;display:flex;align-items:center;
+  padding:128px 24px 88px;position:relative;overflow:hidden;
+}
+.hero-bg{position:absolute;inset:0;z-index:0;pointer-events:none}
+
+/* Grid overlay */
+.h-grid{
+  position:absolute;inset:0;
+  background-image:
+    linear-gradient(rgba(99,102,241,.035) 1px,transparent 1px),
+    linear-gradient(90deg,rgba(99,102,241,.035) 1px,transparent 1px);
+  background-size:64px 64px;
+}
+/* Ambient orbs */
+.orb{position:absolute;border-radius:50%;pointer-events:none}
+.o1{
+  width:640px;height:640px;top:-220px;left:-180px;
+  background:radial-gradient(circle,rgba(99,102,241,.16) 0%,transparent 70%);
+  animation:obob 14s ease-in-out infinite alternate;
+}
+.o2{
+  width:520px;height:520px;bottom:-140px;right:-120px;
+  background:radial-gradient(circle,rgba(245,158,11,.11) 0%,transparent 70%);
+  animation:obob 11s ease-in-out infinite alternate-reverse;
+}
+.o3{
+  width:300px;height:300px;top:50%;left:55%;
+  background:radial-gradient(circle,rgba(16,185,129,.07) 0%,transparent 70%);
+  animation:obob 9s ease-in-out infinite alternate;
+}
+@keyframes obob{to{transform:translate(40px,28px)}}
+
+/* Decorative ring */
+.h-ring{
+  position:absolute;width:760px;height:760px;
+  border-radius:50%;right:-240px;top:-180px;
+  border:1px solid rgba(99,102,241,.06);
+  animation:rspin 28s linear infinite;
+}
+.h-ring::after{
+  content:'';position:absolute;inset:80px;
+  border-radius:50%;
+  border:1px dashed rgba(245,158,11,.055);
+  animation:rspin 20s linear infinite reverse;
+}
+@keyframes rspin{to{transform:rotate(360deg)}}
+
+.h-content{position:relative;z-index:2;max-width:1200px;margin:0 auto;width:100%}
+
+.h-badge{
+  display:inline-flex;align-items:center;gap:8px;
+  padding:6px 16px;border-radius:100px;
+  background:linear-gradient(135deg,rgba(99,102,241,.12),rgba(245,158,11,.08));
+  border:1px solid rgba(99,102,241,.22);
+  font-family:'JetBrains Mono',monospace;
+  font-size:.72rem;font-weight:600;color:var(--acl);
+  letter-spacing:.06em;margin-bottom:28px;
+  animation:fup .6s ease both;
+}
+.pulse{
+  width:7px;height:7px;border-radius:50%;background:var(--em);
+  animation:pr 2s ease infinite;
+}
+@keyframes pr{
+  0%,100%{box-shadow:0 0 0 0 rgba(16,185,129,.4)}
+  60%{box-shadow:0 0 0 7px rgba(16,185,129,0)}
+}
+
+.h1-a{animation:fup .7s .07s ease both}
+.h1-b,.h1-c,.h1-d{display:block}
+.h1-b{color:var(--t1)}
+.h1-c{
+  background:linear-gradient(135deg,var(--gold) 0%,var(--goldl) 35%,var(--acl) 70%,var(--accent) 100%);
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;
+  background-clip:text;padding-bottom:4px;
+}
+.h1-d{color:var(--t1)}
+
+.h-sub{
+  font-size:clamp(.95rem,2vw,1.14rem);max-width:620px;
+  margin-bottom:40px;animation:fup .7s .15s ease both;
+}
+.h-ctas{
+  display:flex;flex-wrap:wrap;gap:14px;
+  margin-bottom:56px;animation:fup .7s .22s ease both;
+}
+
+.btn-p{
+  padding:14px 30px;border-radius:10px;
+  background:linear-gradient(135deg,var(--accent),var(--acl));
+  color:#fff;font-weight:700;font-size:1rem;
+  transition:all var(--tr);box-shadow:0 8px 24px var(--ga);
+  display:inline-flex;align-items:center;gap:9px;
+}
+.btn-p:hover{transform:translateY(-2px);box-shadow:0 14px 32px var(--ga)}
+.btn-s{
+  padding:14px 30px;border-radius:10px;
+  background:var(--surf);border:1px solid var(--border);
+  color:var(--t1);font-weight:600;font-size:1rem;
+  transition:all var(--tr);
+  display:inline-flex;align-items:center;gap:9px;
+}
+.btn-s:hover{border-color:var(--bh);background:var(--surf2)}
+
+.h-pills{
+  display:flex;flex-wrap:wrap;gap:10px;
+  animation:fup .7s .3s ease both;
+}
+.hpill{
+  display:flex;align-items:center;gap:7px;
+  padding:8px 14px;border-radius:8px;
+  background:var(--surf);border:1px solid var(--border);
+  font-size:.8rem;font-weight:600;color:var(--t2);
+}
+
+@keyframes fup{
+  from{opacity:0;transform:translateY(22px)}
+  to{opacity:1;transform:translateY(0)}
+}
+
+/* =============================================
+   STATS STRIP
+============================================= */
+.stats{
+  background:linear-gradient(135deg,#1e1b4b,#312e81,#1e1b4b);
+  padding:48px 0;position:relative;overflow:hidden;
+}
+.stats::before{
+  content:'';position:absolute;inset:0;
+  background:url("data:image/svg+xml,%3Csvg width='80' height='80' xmlns='http://www.w3.org/2000/svg'%3E%3Ccircle cx='40' cy='40' r='1.5' fill='rgba(255,255,255,0.05)'/%3E%3C/svg%3E");
+}
+.stats-row{
+  display:flex;justify-content:space-around;flex-wrap:wrap;
+  gap:24px;max-width:1200px;margin:0 auto;padding:0 24px;
+  position:relative;z-index:1;
+}
+.stat{text-align:center}
+.stat-n{
+  font-family:'Outfit',sans-serif;font-size:2.7rem;font-weight:900;
+  color:#fff;line-height:1;margin-bottom:5px;
+}
+.stat-l{font-size:.8rem;color:rgba(255,255,255,.6);font-weight:500}
+
+/* =============================================
+   SECTION HEADER
+============================================= */
+.sh{margin-bottom:56px}
+.sh-eye{
+  display:inline-flex;align-items:center;gap:10px;
+  font-family:'JetBrains Mono',monospace;
+  font-size:.7rem;font-weight:600;
+  color:var(--acl);letter-spacing:.14em;text-transform:uppercase;
+  margin-bottom:14px;
+}
+.sh-eye::before{content:'';width:20px;height:2px;background:var(--acl)}
+.sh h2{margin-bottom:12px}
+.sh p{font-size:1.04rem;max-width:560px}
+.gold{color:var(--gold)}
+.ind{color:var(--acl)}
+
+/* =============================================
+   BENTO GRID — STUDY TRACKS
+============================================= */
+.bento{
+  display:grid;
+  grid-template-columns:repeat(12,1fr);
+  gap:18px;
+}
+.card{
+  background:var(--surf);border:1px solid var(--border);
+  border-radius:22px;padding:30px;
+  transition:border-color var(--tr),transform var(--tr),box-shadow var(--tr);
+  position:relative;overflow:hidden;
+  opacity:0;transform:translateY(18px);
+}
+.card.vis{
+  opacity:1;transform:translateY(0);
+  transition:opacity .55s ease,transform .55s ease,border-color var(--tr),box-shadow var(--tr);
+}
+.card:hover{border-color:var(--bh);transform:translateY(-4px);box-shadow:var(--shadow)}
+.card::before{
+  content:'';position:absolute;inset:0;border-radius:22px;
+  background:linear-gradient(135deg,transparent 55%,var(--ga));
+  opacity:0;transition:opacity var(--tr);
+}
+.card:hover::before{opacity:1}
+
+/* Bento column spans */
+.c1{grid-column:span 8}
+.c2{grid-column:span 4}
+.c3,.c4,.c5{grid-column:span 4}
+.c6{grid-column:span 12}
+
+.cico{
+  width:52px;height:52px;border-radius:14px;
+  display:flex;align-items:center;justify-content:center;
+  font-size:1.35rem;margin-bottom:20px;
+  transition:transform var(--tr);
+}
+.card:hover .cico{transform:scale(1.08)}
+.ci{background:rgba(99,102,241,.12)}
+.cg{background:rgba(245,158,11,.12)}
+.ce{background:rgba(16,185,129,.12)}
+.cr{background:rgba(244,63,94,.12)}
+.cp{background:rgba(167,139,250,.12)}
+.ct{background:rgba(45,212,191,.12)}
+
+.card h3{margin-bottom:9px}
+.card > p{font-size:.88rem}
+.tags{display:flex;flex-wrap:wrap;gap:6px;margin-top:12px}
+.tag{
+  padding:4px 10px;border-radius:20px;
+  background:var(--surf2);border:1px solid var(--border);
+  font-size:.68rem;font-weight:700;color:var(--t3);
+}
+.clink{
+  display:inline-flex;align-items:center;gap:6px;
+  margin-top:18px;font-size:.82rem;font-weight:700;
+  color:var(--acl);transition:gap var(--tr);
+}
+.card:hover .clink{gap:10px}
+
+/* Wide ebooks card */
+.cwide{display:flex;align-items:center;gap:36px}
+.cwide-body{flex:1}
+.cbooks{flex-shrink:0;display:flex;gap:10px;opacity:.7}
+.cbook{
+  width:58px;height:85px;border-radius:10px;
+  display:flex;align-items:center;justify-content:center;
+  font-size:1.7rem;transition:transform .3s;
+}
+.card:hover .cbook:nth-child(1){transform:rotate(-7deg) translateY(-5px)}
+.card:hover .cbook:nth-child(2){transform:translateY(-9px)}
+.card:hover .cbook:nth-child(3){transform:rotate(7deg) translateY(-5px)}
+
+/* Featured (first) card accent bar */
+.card.feat::after{
+  content:'';position:absolute;top:0;left:0;right:0;height:3px;
+  background:linear-gradient(90deg,var(--accent),var(--gold));
+  border-radius:22px 22px 0 0;
+}
+
+/* =============================================
+   ECOSYSTEM GRID
+============================================= */
+.eco-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fill,minmax(272px,1fr));
+  gap:14px;
+}
+.ecard{
+  background:var(--surf);border:1px solid var(--border);
+  border-radius:18px;padding:22px;
+  display:flex;flex-direction:column;gap:10px;
+  position:relative;overflow:hidden;
+  transition:border-color var(--tr),transform var(--tr);
+  opacity:0;transform:translateY(16px);
+}
+.ecard.vis{
+  opacity:1;transform:translateY(0);
+  transition:opacity .5s ease,transform .5s ease,border-color var(--tr);
+}
+.ecard::after{
+  content:'';position:absolute;bottom:0;left:0;right:0;height:2.5px;
+  background:linear-gradient(90deg,var(--accent),var(--gold));
+  transform:scaleX(0);transition:transform var(--tr);transform-origin:left;
+}
+.ecard:hover{border-color:var(--bh);transform:translateY(-3px)}
+.ecard:hover::after{transform:scaleX(1)}
+.etop{display:flex;justify-content:space-between;align-items:flex-start}
+.eico{
+  width:42px;height:42px;border-radius:12px;
+  display:flex;align-items:center;justify-content:center;font-size:1.1rem;
+}
+.ebadge{
+  font-family:'JetBrains Mono',monospace;font-size:.6rem;
+  padding:3px 8px;background:var(--surf2);border:1px solid var(--border);
+  border-radius:4px;color:var(--t3);
+}
+.ecard h3{font-size:1rem;margin-top:2px}
+.ecard p{font-size:.82rem;line-height:1.65;flex:1}
+.eurl{
+  font-size:.78rem;font-weight:700;color:var(--acl);
+  display:inline-flex;align-items:center;gap:4px;margin-top:auto;
+}
+
+/* =============================================
+   FOUNDER SECTION
+============================================= */
+.founder-card{
+  background:var(--surf);border:1px solid var(--border);
+  border-radius:26px;padding:52px;
+  display:flex;gap:52px;align-items:center;
+  position:relative;overflow:hidden;
+}
+.fg1{
+  position:absolute;top:-80px;right:-80px;
+  width:360px;height:360px;border-radius:50%;
+  background:radial-gradient(circle,var(--ga),transparent 70%);
+}
+.fg2{
+  position:absolute;bottom:-60px;left:-50px;
+  width:260px;height:260px;border-radius:50%;
+  background:radial-gradient(circle,var(--gg),transparent 70%);
+}
+.fimg-wrap{flex-shrink:0;position:relative;z-index:1}
+.fimg{
+  width:158px;height:158px;border-radius:50%;
+  object-fit:cover;border:3px solid var(--accent);
+  box-shadow:0 0 44px var(--ga),0 0 88px rgba(99,102,241,.08);
+}
+.fring{
+  position:absolute;inset:-11px;border-radius:50%;
+  border:1px dashed rgba(245,158,11,.32);
+  animation:rspin 9s linear infinite;
+}
+.finfo{flex:1;position:relative;z-index:1}
+.fn{font-family:'Outfit',sans-serif;font-size:2rem;font-weight:900;margin-bottom:4px}
+.ft{font-size:.85rem;color:var(--acl);font-weight:600;margin-bottom:22px}
+.fq{
+  font-size:1.04rem;font-style:italic;color:var(--t1);
+  line-height:1.82;padding-left:18px;
+  border-left:3px solid var(--gold);margin-bottom:24px;
+}
+.fcreds{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:24px}
+.fcred{
+  padding:5px 13px;border-radius:20px;
+  background:var(--surf2);border:1px solid var(--border);
+  font-size:.72rem;font-weight:600;color:var(--t2);
+}
+.fbtns{display:flex;gap:12px;flex-wrap:wrap}
+.fbtn{
+  padding:10px 22px;border-radius:10px;
+  font-weight:700;font-size:.88rem;transition:all var(--tr);
+}
+.fbp{
+  background:linear-gradient(135deg,var(--accent),var(--acl));
+  color:#fff;box-shadow:0 4px 14px var(--ga);
+}
+.fbp:hover{transform:translateY(-2px);box-shadow:0 7px 22px var(--ga)}
+.fbs{
+  background:var(--surf2);border:1px solid var(--border);color:var(--t1);
+}
+.fbs:hover{border-color:var(--bh)}
+
+/* =============================================
+   SEPARATOR
+============================================= */
+.sep{
+  height:1px;
+  background:linear-gradient(90deg,transparent,var(--border) 30%,var(--border) 70%,transparent);
+}
+
+/* =============================================
+   FOOTER
+============================================= */
+footer{
+  background:var(--bg);border-top:1px solid var(--border);
+  padding:64px 0 28px;
+}
+.footer-g{
+  display:grid;grid-template-columns:2fr 1fr 1fr 1fr;
+  gap:48px;margin-bottom:48px;
+}
+.fbrand p{font-size:.88rem;line-height:1.77;max-width:265px;margin-top:14px}
+.fsoc{display:flex;gap:8px;margin-top:20px}
+.fsb{
+  width:34px;height:34px;border-radius:8px;
+  background:var(--surf);border:1px solid var(--border);
+  display:flex;align-items:center;justify-content:center;
+  font-size:.85rem;transition:all var(--tr);
+}
+.fsb:hover{border-color:var(--bh);background:var(--surf2)}
+.fcol h4{color:var(--t1);margin-bottom:16px}
+.flinks{list-style:none}
+.flinks li+li{margin-top:9px}
+.flinks a{font-size:.86rem;color:var(--t2);transition:color var(--tr)}
+.flinks a:hover{color:var(--acl)}
+.fbot{
+  border-top:1px solid var(--border);padding-top:22px;
+  display:flex;justify-content:space-between;
+  align-items:center;flex-wrap:wrap;gap:12px;
+}
+.fbot p{font-size:.79rem}
+.ftags{display:flex;gap:7px;flex-wrap:wrap}
+.ftag{
+  padding:3px 9px;border-radius:20px;
+  background:var(--surf);border:1px solid var(--border);
+  font-size:.66rem;font-weight:700;
+  font-family:'JetBrains Mono',monospace;color:var(--t3);
+}
+
+/* =============================================
+   RESPONSIVE
+============================================= */
+@media(max-width:1024px){
+  .c1{grid-column:span 12}
+  .c2{grid-column:span 12}
+  .footer-g{grid-template-columns:1fr 1fr}
+}
+@media(max-width:768px){
+  .nav-links,.tog{display:none}
+  .ham{display:flex}
+  .c3,.c4,.c5{grid-column:span 12}
+  .cwide{flex-direction:column}
+  .cbooks{display:none}
+  .founder-card{flex-direction:column;text-align:center;padding:32px 24px}
+  .fq{text-align:left}
+  .fbtns{justify-content:center}
+  .footer-g{grid-template-columns:1fr;gap:28px}
+  .fbot{flex-direction:column;text-align:center}
+  .sec{padding:72px 0}
+  .hero{padding:108px 24px 64px}
+}
+@media(max-width:480px){
+  .btn-s{display:none}
+  .h-pills .hpill:nth-child(n+4){display:none}
+}
+</style>
+</head>
+<body>
+
+<!-- ============================
+     NAVIGATION
+============================= -->
+<nav class="nav" id="nav">
+  <div class="nav-in">
+    <a href="https://frankbase.com" class="logo">
+      <div class="logo-m">F</div>
+      <span>FrankBase</span>
+    </a>
+
+    <ul class="nav-links">
+      <li><a href="#tracks">Study Tracks</a></li>
+      <li><a href="#ecosystem">Ecosystem</a></li>
+      <li><a href="#founder">Founder</a></li>
+      <li><a href="https://frankbase.com/about-us/">About</a></li>
+      <li><a href="https://frankbase.com/contact/">Contact</a></li>
+    </ul>
+
+    <div class="nav-r">
+      <button class="tog" onclick="toggleTheme()" aria-label="Toggle theme">
+        <div class="tog-orb"></div>
+        <span id="tlbl">Dark Mode</span>
+      </button>
+      <a href="#tracks" class="nav-cta">पढ़ाई शुरू करें →</a>
+    </div>
+
+    <div class="ham" onclick="toggleMob()" id="ham" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </div>
+  </div>
+</nav>
+
+
+<!-- ============================
+     HERO
+============================= -->
+<section class="hero">
+  <div class="hero-bg">
+    <div class="h-grid"></div>
+    <div class="orb o1"></div>
+    <div class="orb o2"></div>
+    <div class="orb o3"></div>
+    <div class="h-ring"></div>
+  </div>
+
+  <div class="h-content">
+    <div class="h-badge">
+      <span class="pulse"></span>
+      ✦ 100% Free &amp; Open · Zero Paywalls · WCAG 2.1 AA · PWA Ready
+    </div>
+
+    <h1 class="h1-a">
+      <span class="h1-b">संरचित शिक्षा।</span>
+      <span class="h1-c">Zero Paywalls.</span>
+      <span class="h1-d">Pure Knowledge.</span>
+    </h1>
+
+    <p class="h-sub">
+      Bihar Board (10th &amp; 12th), BPSC TRE, CTET, NCERT Formula Sheets — सब एक जगह।
+      Master Manikant Yadav द्वारा designed simplified Hindi-medium study ecosystem,
+      Cloudflare Edge powered, completely free forever.
+    </p>
+
+    <div class="h-ctas">
+      <a href="#tracks" class="btn-p">📚 Study Tracks देखें</a>
+      <a href="#ecosystem" class="btn-s">🌐 Ecosystem Explore करें</a>
+    </div>
+
+    <div class="h-pills">
+      <div class="hpill">🔓 100% Open Access</div>
+      <div class="hpill">📱 Offline PWA Ready</div>
+      <div class="hpill">🎯 Exam-Aligned Content</div>
+      <div class="hpill">⚡ Cloudflare Edge</div>
+      <div class="hpill">🇮🇳 Hindi Medium Focus</div>
+    </div>
+  </div>
+</section>
+
+
+<!-- ============================
+     STATS STRIP
+============================= -->
+<div class="stats">
+  <div class="stats-row">
+    <div class="stat">
+      <div class="stat-n">18+</div>
+      <div class="stat-l">Web Properties</div>
+    </div>
+    <div class="stat">
+      <div class="stat-n">6</div>
+      <div class="stat-l">Ecosystem Pillars</div>
+    </div>
+    <div class="stat">
+      <div class="stat-n">100%</div>
+      <div class="stat-l">Free Forever</div>
+    </div>
+    <div class="stat">
+      <div class="stat-n">0</div>
+      <div class="stat-l">Paywalls</div>
+    </div>
+    <div class="stat">
+      <div class="stat-n">∞</div>
+      <div class="stat-l">Knowledge, No Limits</div>
+    </div>
+  </div>
+</div>
+
+
+<!-- ============================
+     STUDY TRACKS — BENTO
+============================= -->
+<section class="sec sec-alt" id="tracks">
+  <div class="wrap">
+    <div class="sh">
+      <div class="sh-eye">Core Study Tracks &amp; Knowledge Base</div>
+      <h2>Carefully organized <span class="gold">learning pathways</span></h2>
+      <p>Chapter summaries, formula sheets, practice sets aur interactive tests — सब एक जगह, बिल्कुल free।</p>
+    </div>
+
+    <div class="bento">
+
+      <!-- Card 1: Bihar 12th — Wide Featured -->
+      <a href="https://frankbase.com/#tracks" class="card feat c1">
+        <div class="cico ci">🎓</div>
+        <h3>Bihar Board Class 12th</h3>
+        <p>Complete syllabus capsules, NCERT chapter notes, objective question banks, aur revision formula sheets for Science, Arts &amp; Commerce — maximum coverage in minimum study time.</p>
+        <div class="tags">
+          <span class="tag">Physics</span>
+          <span class="tag">Chemistry</span>
+          <span class="tag">Mathematics</span>
+          <span class="tag">Hindi</span>
+          <span class="tag">Biology</span>
+          <span class="tag">BSEB Pattern</span>
+        </div>
+        <span class="clink">Explore Class 12th →</span>
+      </a>
+
+      <!-- Card 2: Bihar 10th -->
+      <a href="https://frankbase.com/#tracks" class="card c2">
+        <div class="cico cg">📚</div>
+        <h3>Bihar Board Class 10th Matric</h3>
+        <p>High-yield revision guides, Sanskrit &amp; Hindi vyakaran, step-by-step Math solutions, aur Science NCERT capsules.</p>
+        <div class="tags">
+          <span class="tag">Math</span>
+          <span class="tag">Science</span>
+          <span class="tag">SST</span>
+          <span class="tag">Sanskrit</span>
+        </div>
+        <span class="clink">Explore Class 10th →</span>
+      </a>
+
+      <!-- Card 3: BPSC -->
+      <a href="https://frankbase.com/#tracks" class="card c3">
+        <div class="cico cr">🏛️</div>
+        <h3>BPSC &amp; State Exams</h3>
+        <p>TRE 1.0–4.0 Mock Tests, GS Foundation, Bihar Special GK, aur Indian Polity capsules.</p>
+        <div class="tags">
+          <span class="tag">BPSC TRE</span>
+          <span class="tag">STET 2025</span>
+          <span class="tag">GS</span>
+        </div>
+        <span class="clink">BPSC Hub →</span>
+      </a>
+
+      <!-- Card 4: CTET -->
+      <a href="https://frankbase.com/#tracks" class="card c4">
+        <div class="cico ce">🧩</div>
+        <h3>CTET &amp; Child Pedagogy</h3>
+        <p>CDP complete theory, Piaget / Vygotsky / Kohlberg notes, Paper 1 &amp; 2 practice sets with diagnostics.</p>
+        <div class="tags">
+          <span class="tag">CDP Theory</span>
+          <span class="tag">Paper 1 &amp; 2</span>
+        </div>
+        <span class="clink">CTET Track →</span>
+      </a>
+
+      <!-- Card 5: Formula Sheets -->
+      <a href="https://frankbase.com/#tracks" class="card c5">
+        <div class="cico cp">📐</div>
+        <h3>Formula Cheat Sheets</h3>
+        <p>1-page quick summaries — Physics, Calculus, Geometry, Organic Chemistry aur Arithmetic shortcuts.</p>
+        <div class="tags">
+          <span class="tag">Math</span>
+          <span class="tag">Physics</span>
+          <span class="tag">Chemistry</span>
+        </div>
+        <span class="clink">View Cheatsheets →</span>
+      </a>
+
+      <!-- Card 6: Ebooks — Full Width -->
+      <a href="https://store.frankbase.com" class="card c6 cwide">
+        <div class="cwide-body">
+          <div class="cico ct">📖</div>
+          <h3>Ebooks &amp; Digital Guides</h3>
+          <p>Curated digital guides — Mentally Strong Kids framework, Positive Parenting, Cybersecurity ebooks, aur GK digests by Master Manikant. 100+ Amazon KDP books available on the store.</p>
+          <div class="tags">
+            <span class="tag">Parenting Ebooks</span>
+            <span class="tag">Cybersecurity</span>
+            <span class="tag">Mind Maps</span>
+            <span class="tag">GK Digests</span>
+            <span class="tag">100+ KDP Books</span>
+          </div>
+          <span class="clink">Explore Digital Store →</span>
+        </div>
+        <div class="cbooks">
+          <div class="cbook" style="background:rgba(99,102,241,.11)">📘</div>
+          <div class="cbook" style="background:rgba(245,158,11,.11)">📙</div>
+          <div class="cbook" style="background:rgba(16,185,129,.11)">📗</div>
+        </div>
+      </a>
+
+    </div>
+  </div>
+</section>
+
+<div class="sep"></div>
+
+
+<!-- ============================
+     ECOSYSTEM NETWORK
+============================= -->
+<section class="sec" id="ecosystem">
+  <div class="wrap">
+    <div class="sh">
+      <div class="sh-eye">Ecosystem Network — 18+ Web Properties</div>
+      <h2>Beyond Notes: <span class="ind">Specialized Engines</span></h2>
+      <p>FrankBase 18+ web properties को connect करता है — dedicated SaaS tools, practice portals, security apps aur agency services।</p>
+    </div>
+
+    <div class="eco-grid">
+
+      <a href="https://speed.frankbase.com" class="ecard">
+        <div class="etop">
+          <div class="eico ci">⚡</div>
+          <span class="ebadge">Network Tool</span>
+        </div>
+        <h3>SpeedPulse</h3>
+        <p>Ultra-low latency, ad-free internet speed test — download, upload, bufferbloat &amp; jitter diagnostics powered by Cloudflare Worker.</p>
+        <span class="eurl">speed.frankbase.com ↗</span>
+      </a>
+
+      <a href="https://typing.frankbase.com" class="ecard">
+        <div class="etop">
+          <div class="eico cg">⌨️</div>
+          <span class="ebadge">Exam Prep</span>
+        </div>
+        <h3>Typing FrankBase</h3>
+        <p>Interactive Hindi &amp; English typing assessment with real-time WPM, accuracy analytics, Dexie.js offline persistence.</p>
+        <span class="eurl">typing.frankbase.com ↗</span>
+      </a>
+
+      <a href="https://pdf.frankbase.com" class="ecard">
+        <div class="etop">
+          <div class="eico cr">📄</div>
+          <span class="ebadge">OCR Tool</span>
+        </div>
+        <h3>PDF Exam Converter</h3>
+        <p>High-speed OCR that converts scanned BPSC, CTET &amp; BSEB question papers into interactive practice tests instantly.</p>
+        <span class="eurl">pdf.frankbase.com ↗</span>
+      </a>
+
+      <a href="https://frankpass.com" class="ecard">
+        <div class="etop">
+          <div class="eico ce">🔐</div>
+          <span class="ebadge">Privacy SaaS · PWA</span>
+        </div>
+        <h3>FrankPass Security</h3>
+        <p>Zero-knowledge, 100% stateless PBKDF2 cryptographic password generator. Zero database vaults, zero tracking, works fully offline.</p>
+        <span class="eurl">frankpass.com ↗</span>
+      </a>
+
+      <a href="https://englishvidya.com" class="ecard">
+        <div class="etop">
+          <div class="eico cp">🎓</div>
+          <span class="ebadge">EdTech Platform</span>
+        </div>
+        <h3>EnglishVidya</h3>
+        <p>Hindi-to-English spoken mastery, BSEB 10th/12th chapter capsules, and 17-section grammar curriculum for Hindi speakers.</p>
+        <span class="eurl">englishvidya.com ↗</span>
+      </a>
+
+      <a href="https://tools.frankbase.com" class="ecard">
+        <div class="etop">
+          <div class="eico ct">🛠️</div>
+          <span class="ebadge">Utilities</span>
+        </div>
+        <h3>Tools Directory</h3>
+        <p>Web calculators (Age, EMI, Percentage), string converters, developer micro-utilities — zero bloat, instant response.</p>
+        <span class="eurl">tools.frankbase.com ↗</span>
+      </a>
+
+      <a href="https://store.frankbase.com" class="ecard">
+        <div class="etop">
+          <div class="eico cg">🛍️</div>
+          <span class="ebadge">E-Commerce</span>
+        </div>
+        <h3>Digital Store</h3>
+        <p>Printable worksheets, 100+ Amazon KDP coloring books, parenting eBooks, and educational digital asset packs.</p>
+        <span class="eurl">store.frankbase.com ↗</span>
+      </a>
+
+      <a href="https://digital.frankbase.com" class="ecard">
+        <div class="etop">
+          <div class="eico ci">💻</div>
+          <span class="ebadge">B2B Agency</span>
+        </div>
+        <h3>Digital Services Agency</h3>
+        <p>Full-stack web architectures, enterprise AI automation, and high-performance custom SaaS development. Direct client pipeline.</p>
+        <span class="eurl">digital.frankbase.com ↗</span>
+      </a>
+
+      <a href="https://mastermanikant.com" class="ecard">
+        <div class="etop">
+          <div class="eico cr">👤</div>
+          <span class="ebadge">Personal Brand · AI OS</span>
+        </div>
+        <h3>MasterManikant.com</h3>
+        <p>Personal authority portal, systems architecture blueprints, offline coaching constitution aur AI scheduler for the ecosystem founder.</p>
+        <span class="eurl">mastermanikant.com ↗</span>
+      </a>
+
+    </div>
+  </div>
+</section>
+
+
+<!-- ============================
+     FOUNDER SECTION
+============================= -->
+<section class="sec sec-alt" id="founder">
+  <div class="wrap">
+    <div class="sh">
+      <div class="sh-eye">Founder &amp; Authority — E-E-A-T Trust</div>
+      <h2>Built by a <span class="gold">Bihar educator</span></h2>
+    </div>
+
+    <div class="founder-card">
+      <div class="fg1"></div>
+      <div class="fg2"></div>
+
+      <div class="fimg-wrap">
+        <div class="fring"></div>
+        <img
+          src="https://frankpass.com/icons/founder-master-manikant-yadav.png"
+          alt="Master Manikant Yadav — FrankBase Founder"
+          class="fimg"
+          onerror="this.outerHTML='<div class=\'fimg\' style=\'background:linear-gradient(135deg,var(--surf2),var(--surf3));display:flex;align-items:center;justify-content:center;font-family:Outfit,sans-serif;font-size:3rem;font-weight:900;color:var(--acl)\'>M</div>'"
+        >
+      </div>
+
+      <div class="finfo">
+        <div class="fn">Master Manikant Yadav</div>
+        <div class="ft">Founder, Educator &amp; Systems Architect · Supaul, Bihar</div>
+        <div class="fq">
+          "Mera lakshya simple hai: Har student ko structured, simplified, aur 100% open education uplabdh karana — bina kisi hidden paywall ya complex signups ke."
+        </div>
+        <div class="fcreds">
+          <span class="fcred">🎓 B.Sc Mathematics (Hons) — BNMU</span>
+          <span class="fcred">📜 B.Ed — Jiwaji University</span>
+          <span class="fcred">🏆 Bihar STET 2025 Qualified (107 Marks)</span>
+          <span class="fcred">💻 ADCA Certified</span>
+        </div>
+        <div class="fbtns">
+          <a href="https://frankbase.com/founder-frankbase-mastermanikant/" class="fbtn fbp">Read Full Founder Story →</a>
+          <a href="https://mastermanikant.com" class="fbtn fbs">MasterManikant.com ↗</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- ============================
+     FOOTER
+============================= -->
+<footer>
+  <div class="wrap">
+    <div class="footer-g">
+
+      <div class="fbrand">
+        <div class="logo">
+          <div class="logo-m">F</div>
+          <span>FrankBase</span>
+        </div>
+        <p>India's open educational knowledge base. Free Bihar Board 10th/12th, BPSC, CTET notes &amp; formula sheets. Built by Master Manikant Yadav, Supaul, Bihar (PIN: 852131).</p>
+        <div class="fsoc">
+          <a href="https://youtube.com/@frankbase" class="fsb" target="_blank" rel="noopener" title="YouTube">▶</a>
+          <a href="https://instagram.com/frankbase" class="fsb" target="_blank" rel="noopener" title="Instagram">📷</a>
+          <a href="https://t.me/frankbase" class="fsb" target="_blank" rel="noopener" title="Telegram">✈</a>
+          <a href="https://x.com/frankbase" class="fsb" target="_blank" rel="noopener" title="X / Twitter">𝕏</a>
+          <a href="https://pinterest.com/frankbase" class="fsb" target="_blank" rel="noopener" title="Pinterest">P</a>
+        </div>
+      </div>
+
+      <div class="fcol">
+        <h4>Study Tracks</h4>
+        <ul class="flinks">
+          <li><a href="https://frankbase.com/#tracks">Bihar Board 12th</a></li>
+          <li><a href="https://frankbase.com/#tracks">Bihar Board 10th</a></li>
+          <li><a href="https://frankbase.com/#tracks">BPSC TRE Notes</a></li>
+          <li><a href="https://frankbase.com/#tracks">CTET Pedagogy</a></li>
+          <li><a href="https://frankbase.com/#tracks">Formula Sheets</a></li>
+        </ul>
+      </div>
+
+      <div class="fcol">
+        <h4>Ecosystem</h4>
+        <ul class="flinks">
+          <li><a href="https://speed.frankbase.com">SpeedPulse</a></li>
+          <li><a href="https://typing.frankbase.com">Typing Tutor</a></li>
+          <li><a href="https://frankpass.com">FrankPass Security</a></li>
+          <li><a href="https://englishvidya.com">EnglishVidya</a></li>
+          <li><a href="https://store.frankbase.com">Digital Store</a></li>
+          <li><a href="https://digital.frankbase.com">Digital Agency</a></li>
+        </ul>
+      </div>
+
+      <div class="fcol">
+        <h4>Trust &amp; Legal</h4>
+        <ul class="flinks">
+          <li><a href="https://frankbase.com/about-us/">About FrankBase</a></li>
+          <li><a href="https://frankbase.com/founder-frankbase-mastermanikant/">Founder Story</a></li>
+          <li><a href="https://frankbase.com/contact/">Contact Us</a></li>
+          <li><a href="https://frankbase.com/legal/">Legal Hub (10 Policies)</a></li>
+          <li><a href="https://mastermanikant.com">MasterManikant.com</a></li>
+        </ul>
+      </div>
+
+    </div>
+
+    <div class="fbot">
+      <p>© 2026 FrankBase. Built with pride by <a href="https://mastermanikant.com" style="color:var(--acl)">Master Manikant Yadav</a> · Fast · Open · Zero Paywalls</p>
+      <div class="ftags">
+        <span class="ftag">WCAG 2.1 AA</span>
+        <span class="ftag">PWA Ready</span>
+        <span class="ftag">Cloudflare Edge</span>
+        <span class="ftag">Zero Paywall</span>
+        <span class="ftag">Hindi Medium</span>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+<script>
+/* =============================================
+   THEME SYSTEM
+============================================= */
+const root = document.documentElement;
+const tlbl = document.getElementById('tlbl');
+
+function applyTheme(t) {
+  root.setAttribute('data-theme', t);
+  tlbl.textContent = t === 'dark' ? 'Dark Mode' : 'Light Mode';
+  localStorage.setItem('fb-theme', t);
+}
+function toggleTheme() {
+  applyTheme(root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark');
+}
+
+const saved = localStorage.getItem('fb-theme')
+  || (window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark');
+applyTheme(saved);
+
+/* =============================================
+   SCROLL NAV
+============================================= */
+const nav = document.getElementById('nav');
+const onScroll = () => nav.classList.toggle('on', scrollY > 60);
+window.addEventListener('scroll', onScroll, { passive: true });
+onScroll();
+
+/* =============================================
+   INTERSECTION OBSERVER — CARD REVEAL
+============================================= */
+const io = new IntersectionObserver((entries) => {
+  entries.forEach(e => {
+    if (e.isIntersecting) {
+      const el = e.target;
+      const delay = parseInt(el.dataset.d || 0);
+      setTimeout(() => el.classList.add('vis'), delay);
+      io.unobserve(el);
+    }
+  });
+}, { threshold: 0.08, rootMargin: '0px 0px -40px 0px' });
+
+document.querySelectorAll('.card, .ecard').forEach((el, i) => {
+  el.dataset.d = (i % 4) * 80;
+  io.observe(el);
+});
+
+/* =============================================
+   MOBILE NAV
+============================================= */
+let mobOpen = false;
+function toggleMob() {
+  const links = document.querySelector('.nav-links');
+  const ham = document.getElementById('ham');
+  mobOpen = !mobOpen;
+  if (mobOpen) {
+    links.style.cssText = [
+      'display:flex','flex-direction:column',
+      'position:fixed','top:72px','left:0','right:0',
+      'background:var(--surf)','padding:16px 24px',
+      'border-bottom:1px solid var(--border)',
+      'gap:4px','z-index:998','box-shadow:var(--shadow)'
+    ].join(';');
+    ham.children[0].style.transform = 'rotate(45deg) translate(5px,5px)';
+    ham.children[1].style.opacity = '0';
+    ham.children[2].style.transform = 'rotate(-45deg) translate(5px,-5px)';
+  } else {
+    links.style.cssText = 'display:none';
+    for (const s of ham.children) s.style = '';
+  }
+}
+
+/* Close mobile nav on link click */
+document.querySelectorAll('.nav-links a').forEach(a => {
+  a.addEventListener('click', () => { if (mobOpen) toggleMob(); });
+});
+</script>
+</body>
+</html>
