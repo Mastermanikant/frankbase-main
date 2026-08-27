@@ -27,6 +27,7 @@
         "src/ai-companion-naming-guide.njk (/ai-assistant-ke-liye-naam-kaise-chune/ - 50+ AI Companion Names & Psychology - Hindi)",
         "src/english-how-to-name-your-ai-assistant.njk (/english/how-to-name-your-ai-assistant/ - AI Companion Naming Guide - English)",
         "css/style.css & js/app.js (Design System, Theme Engine & Anti-FOUC)",
+        "sw.js & offline.html (PWA Service Worker & Rule 25 Offline Resilience)",
         "robots.txt, sitemap.xml, llms.txt, _headers, _redirects (SEO, AI Discovery & Cloudflare Edge Rules)"
       ]
     },
