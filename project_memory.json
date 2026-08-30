@@ -28,12 +28,21 @@
   "content_flywheel": "BPSC study notes converted directly to 1-page formula capsules & interactive quiz sets",
   "authority_backlink": "High-authority CTA card on founder pages pointing to mastermanikant.com",
   "pagespeed_optimizations": {
-    "status": "APPLIED",
+    "status": "APPLIED_AND_DEPLOYED_LIVE",
     "cache_headers": "1-year immutable cache on /css/*, /js/*, /assets/* via public/_headers",
     "font_strategy": "Streamlined Google Fonts subsets (Outfit, Plus Jakarta Sans, Noto Sans Devanagari) with system monospace fallback",
     "local_assets": "Local WebP founder portraits (/assets/founder/) replacing third-party blogger URLs",
     "js_performance": "Deferred app.js with debounced search and passive event listeners",
     "pwa_resilience": "Service worker (sw.js) cache-first for static assets, network-first for HTML with /offline.html fallback (Rule 25)"
   },
-  "last_updated": "2026-08-27T17:55:00+05:30"
+  "store_inspired_architecture": {
+    "status": "OPERATIONAL_AND_LIVE",
+    "data_taxonomy": "3-Tier structured src/_data/taxonomy.json (Pillars -> Subcategories -> Tracks & Modules)",
+    "omni_search_engine": "Global 2-tier client-side OmniSearch (Ctrl+K / Cmd+K) with keyboard ↑/↓/Enter/Esc, search chips, and keyword highlighting",
+    "search_index": "Compile-time generated src/data/search-index.11ty.js -> /data/search-index.json (Precached in sw.js for 100% offline search)",
+    "sub_header_navigation": "Sticky horizontal scrollable category pill strip (sub-header.njk) with quick drilldown & search button",
+    "dynamic_rendering": "src/index.njk dynamically iterates over taxonomy.pillars",
+    "cloudflare_live_deployment": "100% live on https://frankbase.com and https://65c8a14a.frankbase.pages.dev (HTTP 200 OK verified)"
+  },
+  "last_updated": "2026-08-28T20:41:00+05:30"
 }
