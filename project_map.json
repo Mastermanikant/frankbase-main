@@ -65,5 +65,13 @@
     "file_name": "CHAT_TRANSCRIPT_BSEB_PYQ_DOWNLOAD_SESSION.md",
     "path": "D:\\01_Websites_and_Content\\MMY_Website_Project\\02_frankbase.com\\01_Study_and_Notes_Content\\02_School_and_Boards_10th_12th\\CHAT_TRANSCRIPT_BSEB_PYQ_DOWNLOAD_SESSION.md",
     "status": "ARCHIVED_VERBATIM"
+  },
+  "modules": {
+    "class_6_7_8_math_mastery_hub": {
+      "path": "01_Study_and_Notes_Content/04_Class_6_7_8_Math_Mastery_Hub",
+      "json_database": "class_6_7_8_math_master_database.json",
+      "html_guide": "class_6_7_8_math_master_guide.html",
+      "last_updated": "2026-08-31T18:10:47.007248+05:30"
+    }
   }
 }
