@@ -87,14 +87,14 @@ Report ready hai! Aapka poora website empire ek jagah pe compile ho gaya.
 | **Client Websites** | 6 (Maharana Pharmacy, Little Angels School, Saraswati Coaching, Janta Homeo, Divya Homeo, Saharsa Doctors) |
 
 ### frankbase.com pe specifically kya hai:
-- 📚 **Bihar Board 10th/12th** — NCERT solutions, formula sheets, 12 subjects
-- 🏅 **Competitive Exams** — BPSC, SSC, CTET notes + interactive PWA tracker
-- 📖 **Ebooks** — Parenting, kids, health guides
-- 🧠 **Education Hub** — Curated learning trees + monetization strategy
+- 📚 **Bihar Board 10th/12th** - NCERT solutions, formula sheets, 12 subjects
+- 🏅 **Competitive Exams** - BPSC, SSC, CTET notes + interactive PWA tracker
+- 📖 **Ebooks** - Parenting, kids, health guides
+- 🧠 **Education Hub** - Curated learning trees + monetization strategy
 
-Aur uske upar **12 specialized subdomains** hain — speed test, typing tutor, PDF converter, doctor booking, clipboard sync, UI builder, news portal, etc.
+Aur uske upar **12 specialized subdomains** hain - speed test, typing tutor, PDF converter, doctor booking, clipboard sync, UI builder, news portal, etc.
 
-Detailed report artifact mein sab kuch hai — har website ka URL, status, tech stack, current content, aur future plans. 👆
+Detailed report artifact mein sab kuch hai - har website ka URL, status, tech stack, current content, aur future plans. 👆
 
 ---
 
@@ -245,11 +245,11 @@ Phase 1 Core Website Build complete ho chuka hai! Detailed report file bana di g
 ---
 
 #### 3. Banaye Gaye Pages & Assets (`01_Website_Code/`):
-1. 🏠 [`index.html`](file:///D:/01_Websites_and_Content/MMY_Website_Project/02_frankbase.com/01_Website_Code/index.html) — Modern Dark/Light Education Gateway + Search + 6 Study Tracks + Subdomains Showcase.
-2. 👤 [`about-us.html`](file:///D:/01_Websites_and_Content/MMY_Website_Project/02_frankbase.com/01_Website_Code/about-us.html) — Founder Story, Credentials & Vision.
-3. 📞 [`contact.html`](file:///D:/01_Websites_and_Content/MMY_Website_Project/02_frankbase.com/01_Website_Code/contact.html) — Central Command (`mmcentral.pages.dev`) Webhook Lead Form + WhatsApp 1-Click CTA.
+1. 🏠 [`index.html`](file:///D:/01_Websites_and_Content/MMY_Website_Project/02_frankbase.com/01_Website_Code/index.html) - Modern Dark/Light Education Gateway + Search + 6 Study Tracks + Subdomains Showcase.
+2. 👤 [`about-us.html`](file:///D:/01_Websites_and_Content/MMY_Website_Project/02_frankbase.com/01_Website_Code/about-us.html) - Founder Story, Credentials & Vision.
+3. 📞 [`contact.html`](file:///D:/01_Websites_and_Content/MMY_Website_Project/02_frankbase.com/01_Website_Code/contact.html) - Central Command (`mmcentral.pages.dev`) Webhook Lead Form + WhatsApp 1-Click CTA.
 4. 📜 **Full Legal Suite:** [`privacy-policy.html`](file:///D:/01_Websites_and_Content/MMY_Website_Project/02_frankbase.com/01_Website_Code/privacy-policy.html), [`terms-and-conditions.html`](file:///D:/01_Websites_and_Content/MMY_Website_Project/02_frankbase.com/01_Website_Code/terms-and-conditions.html), [`disclaimer.html`](file:///D:/01_Websites_and_Content/MMY_Website_Project/02_frankbase.com/01_Website_Code/disclaimer.html), [`legal.html`](file:///D:/01_Websites_and_Content/MMY_Website_Project/02_frankbase.com/01_Website_Code/legal.html), [`agreement.html`](file:///D:/01_Websites_and_Content/MMY_Website_Project/02_frankbase.com/01_Website_Code/agreement.html).
-5. 🎨 [`css/style.css`](file:///D:/01_Websites_and_Content/MMY_Website_Project/02_frankbase.com/01_Website_Code/css/style.css) + ⚙️ [`js/app.js`](file:///D:/01_Websites_and_Content/MMY_Website_Project/02_frankbase.com/01_Website_Code/js/app.js) — Theme engine, responsive navigation & styling.
+5. 🎨 [`css/style.css`](file:///D:/01_Websites_and_Content/MMY_Website_Project/02_frankbase.com/01_Website_Code/css/style.css) + ⚙️ [`js/app.js`](file:///D:/01_Websites_and_Content/MMY_Website_Project/02_frankbase.com/01_Website_Code/js/app.js) - Theme engine, responsive navigation & styling.
 6. 🔍 **GSC & Cloudflare Ready:** [`robots.txt`](file:///D:/01_Websites_and_Content/MMY_Website_Project/02_frankbase.com/01_Website_Code/robots.txt), [`sitemap.xml`](file:///D:/01_Websites_and_Content/MMY_Website_Project/02_frankbase.com/01_Website_Code/sitemap.xml), [`_headers`](file:///D:/01_Websites_and_Content/MMY_Website_Project/02_frankbase.com/01_Website_Code/_headers), [`_redirects`](file:///D:/01_Websites_and_Content/MMY_Website_Project/02_frankbase.com/01_Website_Code/_redirects).
 7. ⚡ **1-Click Scripts:** `01_AUTO_LOCAL_GIT_SYNC.bat` aur `02_AUTO_GITHUB_PUSH.bat`.
 
@@ -384,7 +384,7 @@ Detailed Report file create ho chuki hai: [`frankbase_legal_updates_and_ecosyste
 1. 📢 **Google AdSense & Affiliate Disclosure (`#advertising`):**
    * Future Google AdSense cookies (DART cookies) aur third-party ads ki full disclosure.
    * Amazon / Reference book affiliate commission disclosure (0% extra cost to students + editorial independence guarantee).
-2. 🔄 **Policy Amendments — "May Change at Any Time" (`#amendments`):**
+2. 🔄 **Policy Amendments - "May Change at Any Time" (`#amendments`):**
    * FrankBase ke paas kisi bhi policy/term ko bina prior individual notice modify karne ka full right reserve hai.
 
 ---
@@ -420,9 +420,9 @@ Detailed Architecture Report create ho chuki hai: [`frankbase_11ty_modular_archi
 #### 1. Kya ye EnglishVidya jaisa 11ty pe bana hai?
 **👉 HAAN, 100% Eleventy (11ty) + Nunjucks (`.njk`) Architecture par migrate kar diya gaya hai!**
 * **Zero Hardcoded HTML:** WordPress ki tarah modular partials me divide kar diya gaya hai:
-  * 🧩 [`src/_includes/partials/header.njk`](file:///D:/01_Websites_and_Content/MMY_Website_Project/02_frankbase.com/01_Website_Code/src/_includes/partials/header.njk) — Universal Fixed Header + Active Navigation + Theme Button.
-  * 🧩 [`src/_includes/partials/footer.njk`](file:///D:/01_Websites_and_Content/MMY_Website_Project/02_frankbase.com/01_Website_Code/src/_includes/partials/footer.njk) — Universal Modular Footer + Ecosystem & Legal Links.
-  * 🏛️ [`src/_includes/layouts/base.njk`](file:///D:/01_Websites_and_Content/MMY_Website_Project/02_frankbase.com/01_Website_Code/src/_includes/layouts/base.njk) — Master Layout Shell with Head & Schema.
+  * 🧩 [`src/_includes/partials/header.njk`](file:///D:/01_Websites_and_Content/MMY_Website_Project/02_frankbase.com/01_Website_Code/src/_includes/partials/header.njk) - Universal Fixed Header + Active Navigation + Theme Button.
+  * 🧩 [`src/_includes/partials/footer.njk`](file:///D:/01_Websites_and_Content/MMY_Website_Project/02_frankbase.com/01_Website_Code/src/_includes/partials/footer.njk) - Universal Modular Footer + Ecosystem & Legal Links.
+  * 🏛️ [`src/_includes/layouts/base.njk`](file:///D:/01_Websites_and_Content/MMY_Website_Project/02_frankbase.com/01_Website_Code/src/_includes/layouts/base.njk) - Master Layout Shell with Head & Schema.
 
 ---
 
@@ -613,7 +613,7 @@ Detailed Roadmap Document create ho chuki hai: [`frankbase_next_steps_and_roadma
 
 ### 📌 Short & Concise Summary (Aage Hame Kya Karna Hai?)
 
-#### 1. Domain Activation (User Side — 1 Minute):
+#### 1. Domain Activation (User Side - 1 Minute):
 * Cloudflare Dashboard me jakar `frankbase.com` ka **CNAME** record `frankbase.pages.dev` par point karein taaki Hostinger ka parking page hat kar live website dikhne lage.
 
 ---
@@ -756,7 +756,7 @@ Main ek simple chatbot nahi hoon jo sirf text generate karta hai. Main **Antigra
 ---
 
 #### 🔒 Security Boundary:
-Jab Chrome browser kisi action ke liye **security confirmation popup** deta hai, tab browser security reasons se pause hota hai — isliye main wahan aapko **1-click direct link** de deta hoon taaki 5 second me kaam complete ho jaye!
+Jab Chrome browser kisi action ke liye **security confirmation popup** deta hai, tab browser security reasons se pause hota hai - isliye main wahan aapko **1-click direct link** de deta hoon taaki 5 second me kaam complete ho jaye!
 
 ---
 
@@ -824,13 +824,13 @@ Ab website fully live hai! **Kya ab hum Phase 2 (Markdown Notes Engine & First B
 ## 🤖 Antigravity AI (जवाब / रिपोर्ट #35)
 *Step #406 | Time: 2026-08-18T02:26:43Z*
 
-### 🏆 Kaam Poora Ho Gaya — `frankbase.com` 100% Live Hai!
+### 🏆 Kaam Poora Ho Gaya - `frankbase.com` 100% Live Hai!
 
 Browser subagent ne Cloudflare Dashboard me dono CNAME records automatically configure aur verify kar diye hain:
 
-1. **Root Domain (`@`):** `frankbase.com` ➔ `frankbase.pages.dev` (Proxied 🟧) — **Active ✅**
-2. **WWW Subdomain:** `www.frankbase.com` ➔ `frankbase.pages.dev` (Proxied 🟧) — **Active ✅**
-3. **SSL Certificate:** Google Trust Services HTTPS Encrypted — **Active ✅**
+1. **Root Domain (`@`):** `frankbase.com` ➔ `frankbase.pages.dev` (Proxied 🟧) - **Active ✅**
+2. **WWW Subdomain:** `www.frankbase.com` ➔ `frankbase.pages.dev` (Proxied 🟧) - **Active ✅**
+3. **SSL Certificate:** Google Trust Services HTTPS Encrypted - **Active ✅**
 
 ---
 
@@ -868,7 +868,7 @@ Maine aapke bataye niyam ko **Universal Rule** ke roop me encode karne ke liye p
 ### 📌 Summary of Rules to be Enforced Across ALL Projects:
 
 1. 🤖 **End-to-End Autonomous Execution Invariant:**
-   * Jo bhi kaam Terminal, CLI, Cloudflare/GitHub REST APIs, OAuth tokens, ya Browser Subagents ke through sambhav hai — **use Agent khud 100% end-to-end execute karega** (kisi bhi aasan ya technical kaam ke liye user ko manual steps nahi dega).
+   * Jo bhi kaam Terminal, CLI, Cloudflare/GitHub REST APIs, OAuth tokens, ya Browser Subagents ke through sambhav hai - **use Agent khud 100% end-to-end execute karega** (kisi bhi aasan ya technical kaam ke liye user ko manual steps nahi dega).
    * Sirf tabhi pucha jayega jab 2FA OTP ya hardware key jaisa external user barrier ho.
 
 2. 🛡️ **Mandatory Pre-Action Local Git Update & Checkpoint:**
@@ -891,10 +891,10 @@ Aapke niyam ko global [`D:\01_Websites_and_Content\GEMINI.md`](file:///D:/01_Web
 
 #### 📌 Permanently Active Invariants Across ALL Projects:
 
-1. 🤖 **Rule 8 — End-to-End Autonomous Execution Invariant:**
-   * Jo bhi kaam Terminal, CLI, Cloudflare/GitHub REST APIs, OAuth tokens, build compilers, ya Browser Subagents ke through possible hai — **Agent use 100% end-to-end khud execute karega**. User ko koi unnecessary manual step nahi diya jayega.
+1. 🤖 **Rule 8 - End-to-End Autonomous Execution Invariant:**
+   * Jo bhi kaam Terminal, CLI, Cloudflare/GitHub REST APIs, OAuth tokens, build compilers, ya Browser Subagents ke through possible hai - **Agent use 100% end-to-end khud execute karega**. User ko koi unnecessary manual step nahi diya jayega.
 
-2. 🛡️ **Rule 7 — Mandatory Pre-Action Local Git Sync & Checkpoint:**
+2. 🛡️ **Rule 7 - Mandatory Pre-Action Local Git Sync & Checkpoint:**
    * Kisi bhi project me file banane ya edit karne se pehle **`git status` + `git pull --rebase`** se local code sync hoga aur **clean checkpoint commit** freeze kiya jayega.
 
 ---
@@ -971,7 +971,7 @@ Detailed Privacy Correction Report create ho chuki hai: [`email_privacy_correcti
 
 ---
 
-### 🛡️ Meri Galti Thi — Private Email Turant Hata Kar 100% Secure Kar Diya Gaya Hai!
+### 🛡️ Meri Galti Thi - Private Email Turant Hata Kar 100% Secure Kar Diya Gaya Hai!
 
 Aapka personal Gmail (`mastermanikant.in@gmail.com`) strictly backend destination ke liye hai. Ise website par public nahi hona chahiye tha.
 
@@ -1310,7 +1310,7 @@ Detailed SEO & Search Console Report create ho chuki hai: [`frankbase_seo_and_se
 ### 📌 Short & Concise Summary (SEO & Google Search Update ✅)
 
 #### 1. Screenshot me Subdomains kyun dikh rahe the?
-* 🔍 **Old Crawl Cache (10 Aug):** Google Search Console ke live data me pata chala ki Googlebot ne `frankbase.com` ko aakhri baar **10 August** ko crawl kiya tha — tab root domain Hostinger ke parking page par tha jisme `noindex` laga hua tha.
+* 🔍 **Old Crawl Cache (10 Aug):** Google Search Console ke live data me pata chala ki Googlebot ne `frankbase.com` ko aakhri baar **10 August** ko crawl kiya tha - tab root domain Hostinger ke parking page par tha jisme `noindex` laga hua tha.
 * 🌐 Subdomains (`news`, `speed`, `transcript`) pehle se live the, isliye Google unhe pehle se rank kar raha hai.
 * 🚀 **Main website (`frankbase.com`) kal hi DNS update karke live ki gayi hai**, isliye Google ko new fresh cache update karne ke liye request ki zaroorat thi.
 
@@ -1318,7 +1318,7 @@ Detailed SEO & Search Console Report create ho chuki hai: [`frankbase_seo_and_se
 
 #### 2. Browser Subagent dwara Action Completed:
 * ✅ **GSC Sitemap Submitted:** `https://frankbase.com/sitemap.xml` Google Search Console me submit ho gaya (**Status: Success - 7 pages discovered**).
-* ✅ **Live URL Test Passed:** Googlebot ne live test pass kiya — **"URL is available to Google"** aur **"Page can be indexed"**.
+* ✅ **Live URL Test Passed:** Googlebot ne live test pass kiya - **"URL is available to Google"** aur **"Page can be indexed"**.
 * ✅ **Priority Indexing Requested:** `https://frankbase.com/` ke liye Google Search Console me **"Request Indexing"** successfully submit kar diya gaya hai.
 * ✅ **IndexNow API Triggered:** Bing/Yandex ke liye instant IndexNow submission complete (**HTTP 202 Accepted**).
 * ✅ **Brand Schema Graph Added:** Homepage par `WebSite` + `EducationalOrganization` JSON-LD schema deploy ho chuka hai.

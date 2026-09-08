@@ -1,0 +1,175 @@
+{
+  "total_pages": 24,
+  "indexed_pages_count": 1,
+  "noindex_pages_count": 23,
+  "pages": [
+    {
+      "file": "index.njk",
+      "url": "/",
+      "title": "FrankBase - India's Open Knowledge & Study Hub | Bihar Board, BPSC, CTET & Notes",
+      "robots": "index, follow",
+      "is_indexed": true
+    },
+    {
+      "file": "_includes/layouts/base.njk",
+      "url": "/_includes/layouts/base",
+      "title": "No Title",
+      "robots": "noindex, follow (default base.njk)",
+      "is_indexed": false
+    },
+    {
+      "file": "_includes/partials/breadcrumbs.njk",
+      "url": "/_includes/partials/breadcrumbs",
+      "title": "No Title",
+      "robots": "noindex, follow (default base.njk)",
+      "is_indexed": false
+    },
+    {
+      "file": "_includes/partials/eeat-multi-author.njk",
+      "url": "/_includes/partials/eeat-multi-author",
+      "title": "No Title",
+      "robots": "noindex, follow (default base.njk)",
+      "is_indexed": false
+    },
+    {
+      "file": "_includes/partials/footer.njk",
+      "url": "/_includes/partials/footer",
+      "title": "No Title",
+      "robots": "noindex, follow (default base.njk)",
+      "is_indexed": false
+    },
+    {
+      "file": "_includes/partials/header.njk",
+      "url": "/_includes/partials/header",
+      "title": "No Title",
+      "robots": "noindex, follow (default base.njk)",
+      "is_indexed": false
+    },
+    {
+      "file": "_includes/partials/sub-header.njk",
+      "url": "/_includes/partials/sub-header",
+      "title": "No Title",
+      "robots": "noindex, follow (default base.njk)",
+      "is_indexed": false
+    },
+    {
+      "file": "about-us-hindi.njk",
+      "url": "/about-us-hindi/",
+      "title": "फ्रैंकबेस के बारे में - भारत का 100% निशुल्क ज्ञान एवं अध्ययन मंच",
+      "robots": "noindex, follow (default base.njk)",
+      "is_indexed": false
+    },
+    {
+      "file": "about-us.njk",
+      "url": "/about-us/",
+      "title": "About FrankBase - India's Open Educational Knowledge Base",
+      "robots": "noindex, follow (default base.njk)",
+      "is_indexed": false
+    },
+    {
+      "file": "ai-companion-naming-guide.njk",
+      "url": "/ai-assistant-ke-liye-naam-kaise-chune/index.html",
+      "title": "अपने AI असिस्टेंट और कोडिंग पार्टनर का नाम कैसे चुनें? | 50+ बेस्ट नाम और साइकोलॉजी | FrankBase",
+      "robots": "noindex, follow",
+      "is_indexed": false
+    },
+    {
+      "file": "author-aarti.njk",
+      "url": "/author-aarti",
+      "title": "No Title",
+      "robots": "noindex, follow (default base.njk)",
+      "is_indexed": false
+    },
+    {
+      "file": "author-chandani-maam.njk",
+      "url": "/author-chandani-maam",
+      "title": "No Title",
+      "robots": "noindex, follow (default base.njk)",
+      "is_indexed": false
+    },
+    {
+      "file": "bpsc/tre/index.njk",
+      "url": "/bpsc/tre/index.html",
+      "title": "BPSC TRE 1.0 - 4.0 शिक्षक भर्ती महा-हब | CBT मॉक टेस्ट, सॉल्व्ड पेपर्स व 300 DPI बुकलेट्स | FrankBase",
+      "robots": "noindex, follow",
+      "is_indexed": false
+    },
+    {
+      "file": "bpsc/tre/secondary/index.njk",
+      "url": "/bpsc/tre/secondary/",
+      "title": "No Title",
+      "robots": "noindex, follow (default base.njk)",
+      "is_indexed": false
+    },
+    {
+      "file": "bpsc/tre/secondary/math/index.njk",
+      "url": "/bpsc/tre/secondary/math/",
+      "title": "No Title",
+      "robots": "noindex, follow (default base.njk)",
+      "is_indexed": false
+    },
+    {
+      "file": "study-bpsc-tgt-math-2023-booklet-pdf.njk",
+      "url": "/bpsc/tre/secondary/math/tre1-2023-booklet-pdf/index.html",
+      "title": "BPSC TRE 1.0 (2023) TGT Mathematics Official Question Paper Booklet PDF (48 Pages) | FrankBase",
+      "robots": "noindex, follow",
+      "is_indexed": false
+    },
+    {
+      "file": "study-bpsc-tgt-math-2023-paper-1.njk",
+      "url": "/bpsc/tre/secondary/math/tre1-2023-pyq-cbt/index.html",
+      "title": "BPSC TRE 1.0 (2023) TGT Mathematics Official Master Test Engine (120 Questions) | FrankBase",
+      "robots": "noindex, follow",
+      "is_indexed": false
+    },
+    {
+      "file": "study-bpsc-tre-tgt-math-q71.njk",
+      "url": "/bpsc/tre/secondary/math/tre1-2023/q71/index.html",
+      "title": "BPSC TRE 1.0 TGT Math Q.71 | Triangle Bisector Theorem Solved PYQ & 7-in-1 Study Node | FrankBase",
+      "robots": "noindex, follow",
+      "is_indexed": false
+    },
+    {
+      "file": "contact.njk",
+      "url": "/contact/",
+      "title": "Contact Us - FrankBase Support & Inquiries",
+      "robots": "noindex, follow (default base.njk)",
+      "is_indexed": false
+    },
+    {
+      "file": "english-how-to-name-your-ai-assistant.njk",
+      "url": "/english/how-to-name-your-ai-assistant/index.html",
+      "title": "How to Name Your AI Assistant & Coding Companion: 50+ Creative Ideas & Psychology | FrankBase",
+      "robots": "noindex, follow",
+      "is_indexed": false
+    },
+    {
+      "file": "founder-frankbase-mastermanikant-hindi.njk",
+      "url": "/founder-frankbase-mastermanikant-hindi/",
+      "title": "मास्टर मणिकान्त यादव - फ्रैंकबेस के संस्थापक एवं मुख्य शिक्षक की जीवन यात्रा",
+      "robots": "noindex, follow (default base.njk)",
+      "is_indexed": false
+    },
+    {
+      "file": "founder-frankbase-mastermanikant.njk",
+      "url": "/founder-frankbase-mastermanikant/",
+      "title": "Master Manikant Yadav - Founder & Lead Educator of FrankBase",
+      "robots": "noindex, follow (default base.njk)",
+      "is_indexed": false
+    },
+    {
+      "file": "legal.njk",
+      "url": "/legal/",
+      "title": "Legal & Compliance Hub - FrankBase (Privacy, Terms, Ads Disclosure & Policies)",
+      "robots": "noindex, follow (default base.njk)",
+      "is_indexed": false
+    },
+    {
+      "file": "test/ghat-aur-ghataank/index.njk",
+      "url": "/test/ghat-aur-ghataank/index.html",
+      "title": "घात, घातांक और करणी (Powers, Exponents & Radicals) - संपूर्ण मास्टर गाइड, फॉर्मूला शीट व 120 प्रश्न | FrankBase",
+      "robots": "noindex, follow",
+      "is_indexed": false
+    }
+  ]
+}
