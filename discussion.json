@@ -96,6 +96,22 @@
           "status": "FINALIZED_AND_VERIFIED",
           "final_decision": "1. layouts/article.njk और study-node.njk लागू; 2. 8 प्रशासनिक फाइलों को src/blog/ में शुद्ध Markdown में परिवर्तित किया गया; 3. गणित परीक्षा सूट को /education/bpsc/tre/math/ में स्थानांतरित किया गया; 4. /education/bpsc/tre/ हब्स पर 250-300 शब्द सिलेबस व CollectionPage स्कीमा जोड़ा गया; 5. 1-क्लिक कम्युनिटी इंजन (partials/comments.njk) शैडो-क्वारंटाइन नोटिस और हनीपॉट के साथ लाइव; 6. public/_redirects में 301 नियम स्थापित; 7. 11ty बिल्ड 0-त्रुटि के साथ सत्यापित।",
           "action_taken": "सभी कंपोनेंट्स कोड किए गए, 11ty बिल्ड 42 पेजों के साथ सफल, गिट में कमिट और रिमोट पर सिंक किया गया।"
+        },
+        {
+          "topic_id": "TOPIC-12",
+          "topic_name": "adversarial_review_routing_links_and_css_cleanup",
+          "summary": "साइलो रिस्ट्रक्चरिंग के उपरांत नेविगेशन लिंक्स, रीडायरेक्ट्स, इनलाइन CSS और एम्-डैश का सुधारात्मक समाधान।",
+          "status": "FINALIZED_AND_DEPLOYED",
+          "final_decision": "1. deploy_to_cloudflare.bat से U+2014 एम्-डैश हटाया गया; 2. git config में PII ईमेल बदलकर connect@mastermanikant.com किया गया; 3. header, sub-header, index, q70, q71, booklet-pdf, pyq-cbt और taxonomy.json में छूटे हुए पुराने /bpsc/ लिंक्स को नए /education/ साइलो पाथ्स में अपडेट किया गया; 4. public/_redirects में छूटे हुए tgt-math-2023-paper-1 व booklet-pdf रीडायरेक्ट्स जोड़े गए; 5. blog/index.njk से इनलाइन CSS हटाकर style.css में सेमांटिक क्लासेस जोड़ी गईं और डुप्लीकेट CSS साफ की गई।",
+          "action_taken": "11ty बिल्ड 42 पेजों के साथ 0-त्रुटि पास, git commit व push origin main संपन्न।"
+        },
+        {
+          "topic_id": "TOPIC-13",
+          "topic_name": "swasthya_markdown_migration_and_dynamic_eeat_authors",
+          "summary": "स्वास्थ्य गाइड्स को शुद्ध Markdown में /blog/ साइलो में माइग्रेट करना और eeat-multi-author को dynamic बनाना।",
+          "status": "FINALIZED_AND_VERIFIED",
+          "final_decision": "1. eeat-multi-author.njk को गतिशील बनाया गया जिससे Master Manikant Yadav और Aarti दोनों प्रोफाइल्स सही रेंडर हों; 2. 5 स्वास्थ्य गाइड्स (dopamine, full-body-checkup, muh-ke-chhale, shakahari-bhojan, surya-chakra) को layouts/article.njk पर आधारित शुद्ध Markdown में src/blog/ में माइग्रेट किया गया और पुरानी .njk फाइल्स हटाई गईं; 3. public/_redirects में 301 रीडायरेक्ट्स जोड़े गए; 4. src/pll.njk और src/blog/index.njk में नए पाथ्स सिंक किए गए।",
+          "action_taken": "11ty बिल्ड 42 पेजों के साथ 0 त्रुटि पास, git commit और deploy हेतु तैयार।"
         }
       ]
     }
