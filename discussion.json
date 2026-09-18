@@ -1,0 +1,103 @@
+{
+  "project_id": "02_frankbase.com",
+  "domain": "https://frankbase.com",
+  "last_updated": "2026-09-18T07:15:00+05:30",
+  "active_chat_id": "4e6ea8cb-89cb-46cf-afaf-0bb942df28c3",
+  "sessions": [
+    {
+      "chat_id": "4e6ea8cb-89cb-46cf-afaf-0bb942df28c3",
+      "timestamp_iso": "2026-09-18T06:45:00+05:30",
+      "recorded_by": "Master Manikant Yadav & Antigravity Agent",
+      "topics_discussed_and_decisions": [
+        {
+          "topic_id": "TOPIC-01",
+          "topic_name": "author_profile_cleanup",
+          "summary": "चाँदनी मैम प्रोफ़ाइल व एसेट्स को पूरी तरह हटाना।",
+          "status": "FINALIZED_AND_DEPLOYED",
+          "final_decision": "src/author-chandani-maam.njk और avatar-chandani.svg को पूरी तरह डिलीट किया गया। sw.js प्रीकैश से हटाया गया।",
+          "action_taken": "Git commit & push origin main completed."
+        },
+        {
+          "topic_id": "TOPIC-02",
+          "topic_name": "private_link_list_dashboard",
+          "summary": "वेबसाइट के सभी 48 लाइव पेजों को एक जगह देखने के लिए /pll का निर्माण।",
+          "status": "FINALIZED_AND_DEPLOYED",
+          "final_decision": "src/pll.njk बनाया गया जिसमें सर्च और कैटेगरी फिल्टर के साथ सभी 48 एंडपॉइंट्स लिस्टेड हैं। noindex, nofollow लागू।",
+          "action_taken": "https://frankbase.com/pll/ लाइव किया गया।"
+        },
+        {
+          "topic_id": "TOPIC-03",
+          "topic_name": "dark_mode_white_box_fix_and_zero_hardcoded_colors",
+          "summary": "डार्क मोड में सफेद डिब्बे और सफेद टेक्स्ट के ग्लिच को ठीक करना।",
+          "status": "FINALIZED_AND_FIXED",
+          "final_decision": "style.css में --bg-card और --border-color को डार्क/लाइट टोकन्स से मैप किया गया। टेम्पलेट्स में इनलाइन हार्डकोडेड रंगों पर पूर्ण प्रतिबंध।",
+          "action_taken": "style.css अपडेटेड और बिल्ड वेरिफाइड।"
+        },
+        {
+          "topic_id": "TOPIC-04",
+          "topic_name": "wordpress_like_markdown_first_architecture",
+          "summary": "लेखक को केवल Markdown (.md) लिखना पड़े, 0 HTML और 0 CSS।",
+          "status": "FINALIZED_FOR_IMPLEMENTATION",
+          "final_decision": "layouts/article.njk और layouts/study-node.njk ऑटो-TOC, पढ़ने का समय, E-E-A-T कार्ड, डार्क मोड टेबल्स और फुटर खुद संभालेंगे।",
+          "action_taken": "आर्किटेक्चर अप्रूव्ड।"
+        },
+        {
+          "topic_id": "TOPIC-05",
+          "topic_name": "content_silo_separation",
+          "summary": "प्रशासनिक गाइड्स और एवरग्रीन शैक्षणिक कंटेंट का विभाजन।",
+          "status": "FINALIZED",
+          "final_decision": "प्रक्रियात्मक गाइड्स /blog/ या /guides/ में जाएंगी, जबकि एवरग्रीन BPSC GS व गणित परीक्षा सूट /education/ में रहेंगे।",
+          "action_taken": "साइलो मैपिंग लॉक।"
+        },
+        {
+          "topic_id": "TOPIC-06",
+          "topic_name": "google_authority_hub_anti_thin_content",
+          "summary": "हब पेजों को गूगल द्वारा थिन कंटेंट मानने से रोकना।",
+          "status": "FINALIZED",
+          "final_decision": "प्रत्येक हब पर 250-400 शब्द सिलेबस प्रस्तावना, CollectionPage Schema, और द्वि-मार्गी ब्रेडक्रंब नेविगेशन अनिवार्य रहेगा।",
+          "action_taken": "SEO गाइडलाइन्स में शामिल।"
+        },
+        {
+          "topic_id": "TOPIC-07",
+          "topic_name": "continue_with_google_and_user_profile_system",
+          "summary": "1-क्लिक ऑनबोर्डिंग, यूनिक आईडी और यूजरनेम प्रणाली।",
+          "status": "FINALIZED",
+          "final_decision": "1-क्लिक Google OAuth; बैकएंड में स्थायी अभेद्य ID (fb_uXXXX); पब्लिक में फ्लेक्सिबल हैंडल (@username); 1-2 सोशल लिंक्स 7-दिन एंटी-स्पैम लॉक के साथ।",
+          "action_taken": "D1 डेटाबेस स्कीमा में तय।"
+        },
+        {
+          "topic_id": "TOPIC-08",
+          "topic_name": "anti_bot_vpn_ban_and_7_day_shadow_quarantine",
+          "summary": "स्पैम बॉट्स, डेटासेंटर प्रॉक्सी, वीपीएन और मल्टी-लोकेशन फ्रॉड को ब्लॉक करना।",
+          "status": "FINALIZED",
+          "final_decision": "Cloudflare WAF से डेटासेंटर VPNs और बॉट फार्म्स ब्लॉक होंगे। नए एकाउंट्स पर 7-दिन का शैडो-क्वारंटाइन नोटिस दिखेगा ताकि मंच 100% कचरा-मुक्त रहे।",
+          "action_taken": "WAF रूल्स और नोटिस टेक्स्ट तय।"
+        },
+        {
+          "topic_id": "TOPIC-09",
+          "topic_name": "community_and_messaging_governance",
+          "summary": "कमेंट्स vs प्राइवेट DMs की अनुमति।",
+          "status": "FINALIZED",
+          "final_decision": "आर्टिकल व प्रश्न-स्तरीय पब्लिक थ्रेडेड कमेंट्स चालू रहेंगे। 1-on-1 प्राइवेट DM पूर्णतः प्रतिबंधित रहेगा (हैरासमेंट व प्राइवेसी सुरक्षा हेतु)।",
+          "action_taken": "गवर्नेंस रूल लॉक।"
+        },
+        {
+          "topic_id": "TOPIC-10",
+          "topic_name": "privacy_preserving_regional_telemetry",
+          "summary": "जिलेवार अध्ययन हीटमैप और भविष्य का रिसर्च पब्लिकेशन।",
+          "status": "FINALIZED",
+          "final_decision": "0 ब्राउज़र GPS पॉपअप (भरोसा कायम रखने हेतु); Cloudflare Edge Geolocation (CF-IPCity, CF-Region) से जिलेवार डेटा संग्रह; भविष्य में रिसर्च श्वेतपत्र पब्लिश होगा।",
+          "action_taken": "टेलीमेट्री पाइपलाइन तय।"
+        },
+        {
+          "topic_id": "TOPIC-11",
+          "topic_name": "markdown_first_architecture_and_silo_restructuring_rollout",
+          "summary": "Markdown-First आर्किटेक्चर, साइलो रिस्ट्रक्चरिंग, अथॉरिटी हब्स और कम्युनिटी कमेंट इंजन का पूर्ण क्रियान्वयन।",
+          "status": "FINALIZED_AND_VERIFIED",
+          "final_decision": "1. layouts/article.njk और study-node.njk लागू; 2. 8 प्रशासनिक फाइलों को src/blog/ में शुद्ध Markdown में परिवर्तित किया गया; 3. गणित परीक्षा सूट को /education/bpsc/tre/math/ में स्थानांतरित किया गया; 4. /education/bpsc/tre/ हब्स पर 250-300 शब्द सिलेबस व CollectionPage स्कीमा जोड़ा गया; 5. 1-क्लिक कम्युनिटी इंजन (partials/comments.njk) शैडो-क्वारंटाइन नोटिस और हनीपॉट के साथ लाइव; 6. public/_redirects में 301 नियम स्थापित; 7. 11ty बिल्ड 0-त्रुटि के साथ सत्यापित।",
+          "action_taken": "सभी कंपोनेंट्स कोड किए गए, 11ty बिल्ड 42 पेजों के साथ सफल, गिट में कमिट और रिमोट पर सिंक किया गया।"
+        }
+      ]
+    }
+  ]
+}
